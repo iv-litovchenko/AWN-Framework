@@ -200,8 +200,9 @@
   },
   "active": "19026441187a9fb5",
   "lastOpenFiles": [
-    "Nodes/RandomAnecdote.node.md",
     "AGENTS.md",
+    "Идеи улучшения и варианты развития.md",
+    "Nodes/RandomAnecdote.node.md",
     "AGENTS.NODES.md",
     "README.md",
     "Nodes",
@@ -211,7 +212,6 @@
     "GEMINI.md",
     "QWEN.md",
     "HEARTBEAT.md",
-    "Идеи улучшения и варианты развития.md",
     "Промт (оригинал).md",
     "gemini/AGENTS.md.md",
     "qwen/nodes/personal/social-confidence.node.md",
