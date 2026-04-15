@@ -31,6 +31,7 @@
 | **KISS** | Keep It Simple, Stupid | **Простота, ясность** |
 | **YAGNI** | You Aren’t Gonna Need It | **Не нужно — не вводи** |
 | **DRY** | Don’t Repeat Yourself | **Один факт — один раз** |
+| **DDD** | Domain-Driven Design | **Домен, язык** |
 | **BDUF** | Big Design Up Front | **Дизайн заранее, целиком** |
 | **Occam’s Razor** | Бритва Оккама | **Проще — вероятнее** |
 | **APO** | *локально для этой экосистемы:* **A**tomicity / **O**ne **P**urpose — один узел = одна договорённость | **Одна цель, один узел** |
