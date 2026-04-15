@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "claude/health.node.md",
+                "file": "Идеи улучшения и варианты развития.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "health.node"
+              "title": "Идеи улучшения и варианты развития"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "19026441187a9fb5",
   "lastOpenFiles": [
-    "Идеи улучшения и варианты развития.md",
     "claude/health.node.md",
+    "Идеи улучшения и варианты развития.md",
     "gemini/AGENTS.md.md",
     "deepseek/AGENTS.md",
     "claude/identity.node.md",
