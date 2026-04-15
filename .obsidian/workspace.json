@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Идеи улучшения и варианты развития.md",
+                "file": "claude/health.node.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Идеи улучшения и варианты развития"
+              "title": "health.node"
             }
           }
         ],
@@ -200,6 +200,8 @@
   },
   "active": "19026441187a9fb5",
   "lastOpenFiles": [
+    "Идеи улучшения и варианты развития.md",
+    "claude/health.node.md",
     "gemini/AGENTS.md.md",
     "deepseek/AGENTS.md",
     "claude/identity.node.md",
@@ -212,7 +214,6 @@
     "claude/writing.node.md",
     "qwen/_templates/_template.node.md.md",
     "Промт (оригинал).md",
-    "Идеи улучшения и варианты развития.md",
     "AGENTS.md",
     "claude/AGENTS.md",
     "ecosystem",
@@ -230,7 +231,6 @@
     "grok/AGENTS.md.md",
     "qwen/nodes/meta",
     "qwen/nodes/core/node-validator.node.md",
-    "qwen/nodes/core/core-greeting.node.md",
     "qwen/nodes/core",
     "qwen/nodes",
     "qwen/_templates",
