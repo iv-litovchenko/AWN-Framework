@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -200,10 +200,10 @@
   },
   "active": "19026441187a9fb5",
   "lastOpenFiles": [
-    "Идеи улучшения и варианты развития.md",
-    "README.md",
-    "AGENTS.md",
     "AGENTS.NODES.md",
+    "README.md",
+    "Идеи улучшения и варианты развития.md",
+    "AGENTS.md",
     "AGENTS.NODES.EXAMPLE.md",
     "QWEN.md",
     "HEARTBEAT.md",
