@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Идеи улучшения и варианты развития.md",
+                "file": "AGENTS.NODES.EXAMPLE.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Идеи улучшения и варианты развития"
+              "title": "AGENTS.NODES.EXAMPLE"
             }
           }
         ],
@@ -200,11 +200,12 @@
   },
   "active": "19026441187a9fb5",
   "lastOpenFiles": [
+    "AGENTS.NODES.md",
+    "AGENTS.NODES.EXAMPLE.md",
+    "Идеи улучшения и варианты развития.md",
     "CODEX.md",
     "GEMINI.md",
-    "AGENTS.NODES.md",
     "Промт (оригинал).md",
-    "Идеи улучшения и варианты развития.md",
     "gemini/AGENTS.md.md",
     "qwen/nodes/personal/social-confidence.node.md",
     "qwen/nodes/personal/habit-tracker.node.md",
@@ -225,7 +226,6 @@
     "chatgpt/nodes-other/📥 inbox.node.md",
     "chatgpt/nodes-other/⚖️ decision.engine.node.md",
     "claude/writing.node.md",
-    "claude/AGENTS.md",
     "ecosystem",
     "ecosystem.zip",
     "gemini",
