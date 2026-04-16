@@ -183,17 +183,17 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "cb12468a7e2ef441",
+  "active": "f81fa9eb9164f53f",
   "lastOpenFiles": [
     "AGENTS.md",
     "README.md",
-    "AGENTS.NODES.md",
+    "QWEN.md",
     "Nodes/RandomAnecdote.node.md",
+    "AGENTS.NODES.md",
     "Промт (оригинал).md",
     "DataFinance/2026_04.md",
     "DataFinance",
     "CLAUDE.md",
-    "QWEN.md",
     "CODEX.md",
     "Preview.png",
     "Preview.min.png",
