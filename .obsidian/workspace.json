@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "AGENTS.SETTINGS.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "AGENTS.SETTINGS"
+            }
+          },
+          {
+            "id": "7a89a3286ccabef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AGENTS.SETTINGS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AGENTS.SETTINGS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,29 +198,31 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "b227a1c8c55a8da7",
+  "active": "7a89a3286ccabef7",
   "lastOpenFiles": [
+    "AGENTS.NODES.EXAMPLE.md",
+    "AGENTS.md",
+    "AGENTS.SETTINGS.md",
+    "AGENTS.NODES.md",
+    "Без названия.md",
+    "Preview.png",
+    "Preview.min.png",
+    "README.md",
     "README.md.sb-15099be1-PgjNfk",
     "README.md.sb-15099be1-asewBl",
-    "Preview.min.png",
     "Preview.optimiz.png",
     "Preview — копия.png",
     "USER.md",
     "IDENTITY.md",
     "TOOLS.md",
     "SOUL.md",
-    "AGENTS.md",
-    "README.md",
     "Preview.png.crdownload",
     "README-NEW.md",
-    "Preview.png",
     "preview.png",
     "Не подтвержден 931550.crdownload",
-    "AGENTS.NODES.EXAMPLE.md",
     "Идеи улучшения и варианты развития.md",
     "AGENTS — копия.md",
     "Nodes/RandomAnecdote.node.md",
-    "AGENTS.NODES.md",
     "Nodes",
     "CLAUDE.md",
     "CODEX.md",
@@ -218,13 +235,10 @@
     "qwen/nodes/personal/habit-tracker.node.md",
     "qwen/nodes/personal/career-growth.node.md",
     "qwen/nodes/meta/reflection-template.node.md",
-    "qwen/_templates/_template.node.md.md",
-    "claude/health.node.md",
     "ecosystem",
     "ecosystem.zip",
     "gemini",
     "qwen/nodes/personal",
-    "qwen/nodes/meta",
-    "qwen/nodes/core"
+    "qwen/nodes/meta"
   ]
 }
