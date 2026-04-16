@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,6 +185,7 @@
   },
   "active": "b227a1c8c55a8da7",
   "lastOpenFiles": [
+    "AGENTS.md",
     "README.md",
     "Preview.png.crdownload",
     "README-NEW.md",
@@ -193,7 +194,6 @@
     "Не подтвержден 931550.crdownload",
     "AGENTS.NODES.EXAMPLE.md",
     "Идеи улучшения и варианты развития.md",
-    "AGENTS.md",
     "AGENTS — копия.md",
     "Nodes/RandomAnecdote.node.md",
     "AGENTS.NODES.md",
