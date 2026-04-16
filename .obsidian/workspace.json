@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "17b9fc0dba56f712",
+        "id": "db121bc50fc26c23",
         "type": "tabs",
         "children": [
           {
-            "id": "cb12468a7e2ef441",
+            "id": "55873a37918d55e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,13 +183,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "cb12468a7e2ef441",
+  "active": "55873a37918d55e6",
   "lastOpenFiles": [
+    "README.md",
     "ai_os_package_chatgpt/1.txt",
     "ai_os_package_chatgpt",
     "Новая папка",
     "AGENTS.md",
-    "README.md",
     "QWEN.md",
     "Nodes/RandomAnecdote.node.md",
     "AGENTS.NODES.md",
@@ -224,7 +224,6 @@
     "gemini/AGENTS.md.md",
     "qwen/nodes/personal/social-confidence.node.md",
     "qwen/nodes/personal/habit-tracker.node.md",
-    "ecosystem",
-    "ecosystem.zip"
+    "ecosystem"
   ]
 }
