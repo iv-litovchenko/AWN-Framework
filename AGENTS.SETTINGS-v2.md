@@ -8,6 +8,11 @@ CREATED: 2026-04-16
 UPDATED: 2026-04-16
 ---
 
+**_### Настройки среды `AGENTS.SETTINGS.md`_**
+
+**Чтобы ссылки, изображения и якоря рендерились предсказуемо и в Obsidian, и в GitHub, см.**
+
+На старте сессии агент читает _`AGENTS.SETTINGS.md`_ (если файл существует) и учитывает отмеченные чекбоксы при:
 Этот файл — реестр системных настроек агента.
 
 Он нужен для настроек, которые влияют не на отдельную ноду, а на общее поведение агента:
@@ -109,23 +114,24 @@ SETTINGS:
 
 ## Варианты оформления реестра (для выбора)
 
-Ниже 5 альтернатив, как можно оформлять настройки. Смысл один и тот же, меняется только форма представления.
+Ниже 8 альтернатив, как можно оформлять настройки. Смысл один и тот же, меняется только форма представления.
 
 ### Вариант 1 — Таблица
 
-md
-## Настройки (таблично)
+Пример:
 
+```text
 | KEY | Вкл | Тип | Значение | Область | Описание |
 |---|---|---|---|---|---|
 | links.markdown_compatible | ✅ | boolean | true | rendering | Использовать markdown-ссылки вместо wiki |
 | naming.camel_case | ✅ | boolean | true | naming | Новые файлы/папки в CamelCase |
+```
 
 ### Вариант 2 — Чеклист-карточки
 
+Пример:
 
-## Настройки (карточки)
-
+```text
 ### links.markdown_compatible
 - [x] Включено
 - Тип: `boolean`
@@ -139,12 +145,13 @@ md
 - Значение: `true`
 - Область: `naming`
 - Описание: новые файлы/папки в CamelCase.
+```
 
 ### Вариант 3 — INI-стиль
 
+Пример:
 
-## Настройки (INI-стиль)
-
+```text
 [links]
 markdown_compatible = true
 ; markdown-ссылки вместо wiki
@@ -152,11 +159,11 @@ markdown_compatible = true
 [naming]
 camel_case = true
 ; новые файлы/папки в CamelCase
+```
 
 ### Вариант 4 — Чистый YAML-блок
 
-
-## Настройки (YAML)
+Пример:
 
 ```yaml
 settings:
@@ -168,24 +175,67 @@ settings:
 
 ### Вариант 5 — Гибрид (человек + машина)
 
+Пример:
 
+```text
 ## Быстрый статус
-
 - links.markdown_compatible: ✅
 - naming.camel_case: ✅
 
 ## Канонический блок (machine-readable)
-
-```yaml
 SETTINGS:
   - KEY: links.markdown_compatible
     TYPE: boolean
     VALUE: true
     STATUS: active
-
   - KEY: naming.camel_case
     TYPE: boolean
     VALUE: true
     STATUS: active
 ```
-````
+
+### Вариант 6 — Аккордион через details/summary (GitHub-совместимый)
+
+Пример:
+
+
+<details>
+  <summary>links.markdown_compatible</summary>
+  TYPE: boolean
+  VALUE: true
+  DESCRIPTION: markdown вместо wiki
+</details>
+
+<details>
+  <summary>naming.camel_case</summary>
+  TYPE: boolean
+  VALUE: true
+  DESCRIPTION: новые имена в CamelCase
+</details>
+
+### Вариант 7 — Аккордион через Obsidian Callouts
+
+Пример:
+
+> [!example]- links.markdown_compatible
+> TYPE: boolean
+> VALUE: true
+> DESCRIPTION: markdown вместо wiki
+
+> [!example]- naming.camel_case
+> TYPE: boolean
+> VALUE: true
+> DESCRIPTION: новые имена в CamelCase
+### Вариант 8 — Заголовки + сворачивание секций редактора
+
+Пример:
+### links.markdown_compatible
+TYPE: boolean
+VALUE: true
+STATUS: active
+
+### naming.camel_case
+TYPE: boolean
+VALUE: true
+STATUS: active
+```
