@@ -187,6 +187,9 @@
   "lastOpenFiles": [
     "README.md",
     "README-NEW.md",
+    "Preview.png",
+    "preview.png",
+    "Не подтвержден 931550.crdownload",
     "AGENTS.NODES.EXAMPLE.md",
     "Идеи улучшения и варианты развития.md",
     "AGENTS.md",
@@ -211,7 +214,6 @@
     "claude/identity.node.md",
     "claude/node-creator.node.md",
     "claude/changelog.md",
-    "chatgpt/nodes/⚙️ system.loader.node.md",
     "ecosystem",
     "ecosystem.zip",
     "gemini",
@@ -219,7 +221,6 @@
     "qwen/nodes/meta",
     "qwen/nodes/core",
     "qwen/nodes",
-    "qwen/_templates",
-    "deepseek"
+    "qwen/_templates"
   ]
 }
