@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodes/RandomAnecdote.node.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RandomAnecdote.node"
+              "title": "README"
             }
           }
         ]
@@ -185,11 +185,12 @@
   },
   "active": "cb12468a7e2ef441",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "Nodes/RandomAnecdote.node.md",
     "Preview.png",
     "Preview.min.png",
     "AGENTS.SETTINGS.md",
     "README.md",
-    "AGENTS.md",
     "AGENTS.NODES.md",
     "AGENTS.SETTINGS-v2.md",
     "AGENTS.NODES.EXAMPLE.md",
@@ -208,7 +209,6 @@
     "Не подтвержден 931550.crdownload",
     "Идеи улучшения и варианты развития.md",
     "AGENTS — копия.md",
-    "Nodes/RandomAnecdote.node.md",
     "Nodes",
     "CLAUDE.md",
     "CODEX.md",
