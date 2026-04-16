@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "CLAUDE.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -54,7 +54,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -186,11 +186,13 @@
   "active": "cb12468a7e2ef441",
   "lastOpenFiles": [
     "AGENTS.md",
+    "QWEN.md",
+    "README.md",
+    "CODEX.md",
     "Nodes/RandomAnecdote.node.md",
     "Preview.png",
     "Preview.min.png",
     "AGENTS.SETTINGS.md",
-    "README.md",
     "AGENTS.NODES.md",
     "AGENTS.SETTINGS-v2.md",
     "AGENTS.NODES.EXAMPLE.md",
@@ -211,9 +213,7 @@
     "AGENTS — копия.md",
     "Nodes",
     "CLAUDE.md",
-    "CODEX.md",
     "GEMINI.md",
-    "QWEN.md",
     "HEARTBEAT.md",
     "Промт (оригинал).md",
     "gemini/AGENTS.md.md",
