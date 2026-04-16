@@ -106,3 +106,86 @@ SETTINGS:
 Этот файл лучше подходит для системных флагов поведения агента.
 
 Если правило относится к конкретной предметной области, проекту, папке или сценарию, его лучше хранить в `*.node.md`, а не в реестре настроек.
+
+## Варианты оформления реестра (для выбора)
+
+Ниже 5 альтернатив, как можно оформлять настройки. Смысл один и тот же, меняется только форма представления.
+
+### Вариант 1 — Таблица
+
+md
+## Настройки (таблично)
+
+| KEY | Вкл | Тип | Значение | Область | Описание |
+|---|---|---|---|---|---|
+| links.markdown_compatible | ✅ | boolean | true | rendering | Использовать markdown-ссылки вместо wiki |
+| naming.camel_case | ✅ | boolean | true | naming | Новые файлы/папки в CamelCase |
+
+### Вариант 2 — Чеклист-карточки
+
+
+## Настройки (карточки)
+
+### links.markdown_compatible
+- [x] Включено
+- Тип: `boolean`
+- Значение: `true`
+- Область: `rendering`
+- Описание: стандартный Markdown для ссылок и превью.
+
+### naming.camel_case
+- [x] Включено
+- Тип: `boolean`
+- Значение: `true`
+- Область: `naming`
+- Описание: новые файлы/папки в CamelCase.
+
+### Вариант 3 — INI-стиль
+
+
+## Настройки (INI-стиль)
+
+[links]
+markdown_compatible = true
+; markdown-ссылки вместо wiki
+
+[naming]
+camel_case = true
+; новые файлы/папки в CamelCase
+
+### Вариант 4 — Чистый YAML-блок
+
+
+## Настройки (YAML)
+
+```yaml
+settings:
+  links:
+    markdown_compatible: true
+  naming:
+    camel_case: true
+```
+
+### Вариант 5 — Гибрид (человек + машина)
+
+
+## Быстрый статус
+
+- links.markdown_compatible: ✅
+- naming.camel_case: ✅
+
+## Канонический блок (machine-readable)
+
+```yaml
+SETTINGS:
+  - KEY: links.markdown_compatible
+    TYPE: boolean
+    VALUE: true
+    STATUS: active
+
+  - KEY: naming.camel_case
+    TYPE: boolean
+    VALUE: true
+    STATUS: active
+```
+````
