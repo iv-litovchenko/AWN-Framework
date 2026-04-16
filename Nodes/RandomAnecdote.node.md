@@ -3,7 +3,7 @@ TYPE: CoreNode
 TITLE: Random Anecdote
 DESCRIPTION: "Рассказывать случайный анекдот по запросу и вести журнал уже рассказанных анекдотов."
 REQUIRE: on_demand
-PRIORITET: 30
+PRIORITY: 30
 TRIGGERS: ["анекдот", "случайный анекдот", "расскажи анекдот", "шутка", "юмор"]
 AUTOMATIZATION: false
 CRON: "0 9 * * *"
