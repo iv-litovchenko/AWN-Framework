@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.NODES.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS.NODES"
+              "title": "README"
             }
           }
         ],
@@ -201,9 +201,9 @@
   "active": "7a89a3286ccabef7",
   "lastOpenFiles": [
     "AGENTS.md",
+    "AGENTS.NODES.md",
     "AGENTS.SETTINGS-v2.md",
     "AGENTS.SETTINGS.md",
-    "AGENTS.NODES.md",
     "AGENTS.NODES.EXAMPLE.md",
     "Без названия.md",
     "Preview.png",
