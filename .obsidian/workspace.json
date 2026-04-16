@@ -183,8 +183,11 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f81fa9eb9164f53f",
+  "active": "cb12468a7e2ef441",
   "lastOpenFiles": [
+    "ai_os_package_chatgpt/1.txt",
+    "ai_os_package_chatgpt",
+    "Новая папка",
     "AGENTS.md",
     "README.md",
     "QWEN.md",
@@ -221,10 +224,7 @@
     "gemini/AGENTS.md.md",
     "qwen/nodes/personal/social-confidence.node.md",
     "qwen/nodes/personal/habit-tracker.node.md",
-    "qwen/nodes/personal/career-growth.node.md",
     "ecosystem",
-    "ecosystem.zip",
-    "gemini",
-    "qwen/nodes/personal"
+    "ecosystem.zip"
   ]
 }
