@@ -185,6 +185,8 @@
   },
   "active": "b227a1c8c55a8da7",
   "lastOpenFiles": [
+    "README.md.sb-15099be1-PgjNfk",
+    "README.md.sb-15099be1-asewBl",
     "Preview.min.png",
     "Preview.optimiz.png",
     "Preview — копия.png",
@@ -223,7 +225,6 @@
     "gemini",
     "qwen/nodes/personal",
     "qwen/nodes/meta",
-    "qwen/nodes/core",
-    "qwen/nodes"
+    "qwen/nodes/core"
   ]
 }
