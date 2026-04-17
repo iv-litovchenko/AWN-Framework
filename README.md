@@ -44,9 +44,56 @@
 
 Подход к созданию Contextual Time Archive через логи, память и узлы получает твердую техническую базу: Obsidian-хранилище, понятную структуру, `*.node.md` как рабочие единицы памяти и четкие YAML-контракты.
 
+## INSTALL (инструкция для агента)
+
+> [!TIP]
+> **Как подключить (установить) фреймворк для своего агента**
+>
+> Попросите вашего агента скачать (скопировать) следующие файлы из репозитория в корень проекта и передайте ему следующую инструкцию (важно: будет выполнена перезапись соответствующих файлов если они существуют!).
+### Инструкция для агента
+
+```text
+Шаг 1 Загрузка базовых файлов (скачай базовые файлы в корень проекта - замени их содержимое если существует
+
+Скачай в корень проекта (с заменой, если файлы уже существуют):
+- https://github.com/iv-litovchenko/AWN-Framework/AGENTS.md в AGENTS.md
+
+- https://github.com/iv-litovchenko/AWN-Framework/AGENTS.NODES.md в AGENTS.NODES.md
+  
+- https://github.com/iv-litovchenko/AWN-Framework/AGENTS.NODES.EXAMPLE.md в AGENTS.NODES.EXAMPLE.md
+
+- https://github.com/iv-litovchenko/AWN-Framework/AGENTS.SETTINGS.md в AGENTS.SETTINGS.md
+  
+- https://github.com/iv-litovchenko/AWN-Framework/HEARTBEAT.md в HEARTBEAT.md
+
+Шаг 2 Создание стартового файла под твою систему
+
+Обычно этот файл называется `System Prompt`, `Agent Config` или `Runtime Config`.
+
+Для OpenClaw-подобных арендных систем этот шаг можно игнорировать, так как они читают `AGENTS.md` напрямую.
+
+Затем скопируй в мою систему подходящий стартовый файл:
+
+- https://github.com/iv-litovchenko/AWN-Framework/CLAUDE.md в CLAUDE.md
+- https://github.com/iv-litovchenko/AWN-Framework/CODEX.md в CODEX.md
+- https://github.com/iv-litovchenko/AWN-Framework/DEEPSEEK.md в DEEPSEEK.md
+- https://github.com/iv-litovchenko/AWN-Framework/GEMINI.md в GEMINI.md
+- https://github.com/iv-litovchenko/AWN-Framework/MISTRAL.md в MISTRAL.md
+- https://github.com/iv-litovchenko/AWN-Framework/QWEN.md в QWEN.md
+
+Если моей системы нет в списке, создай файл
+
+https://github.com/iv-litovchenko/AWN-Framework/<НазваниеПриложения>.md
+по шаблону: https://github.com/iv-litovchenko/AWN-Framework/TEMPLATE.md
+
+--- 
+При замене каждого файла спрашивай разрешение (подтверждение). После установки попроси пользователя перезапустить сессию (или приложение).
+```
+
 ## Оглавление
 
 - [Что это дает на практике](#что-это-дает-на-практике)
+- [INSTALL (инструкция для агента)](#install-инструкция-для-агента)
 - [Что это простыми словами](#что-это-простыми-словами)
 - [Почему здесь нет жёсткой схемы и проблемы архитектур](#почему-здесь-нет-жёсткой-схемы-и-проблемы-архитектур)
 - [Что такое нода](#что-такое-нода)
@@ -452,7 +499,7 @@ vault/
 
 ---
 
-## Как начать
+## Как начать (ручная установка)
 
 Если ты хочешь быстро попробовать систему на своей стороне, базовый старт такой:
 

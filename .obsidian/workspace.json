@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "README"
             }
           }
         ]
@@ -185,11 +185,12 @@
   },
   "active": "b9e790332fab4194",
   "lastOpenFiles": [
+    "README — копия.md",
+    "CLAUDE.md",
     "TEMPLATE.md",
     "DEEPSEEK.md",
     "MISTRAL.md",
     "AGENTS.LLM_BOOTSTRAP.md",
-    "CLAUDE.md",
     "AGENTS.LLM_BOOTSTRAP_PRESET.md",
     "AGENTS.NODES.EXAMPLE.md",
     "README.md",
@@ -229,7 +230,6 @@
     "Preview.png.crdownload",
     "README-NEW.md",
     "preview.png",
-    "AGENTS — копия.md",
-    "GEMINI.md"
+    "AGENTS — копия.md"
   ]
 }
