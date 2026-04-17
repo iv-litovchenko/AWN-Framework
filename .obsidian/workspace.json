@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "AGENTS.NODES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "AGENTS.NODES"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "b9e790332fab4194",
   "lastOpenFiles": [
+    "README.md",
     "README — копия.md",
     "CLAUDE.md",
     "TEMPLATE.md",
@@ -193,7 +194,6 @@
     "AGENTS.LLM_BOOTSTRAP.md",
     "AGENTS.LLM_BOOTSTRAP_PRESET.md",
     "AGENTS.NODES.EXAMPLE.md",
-    "README.md",
     "doc/fda02247-be70-4e6e-8a89-23944be3dfe6.png",
     "doc/fda02247-be70-4e6e-8a89-23944be3dfe6 (1).png",
     "doc/a6917985-53fa-4c50-b577-f5f450d673ec.png",
