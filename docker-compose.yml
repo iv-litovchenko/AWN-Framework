@@ -1,0 +1,52 @@
+################################################
+# Что делает каждый контейнер:
+#  qdrant — сама база, хранит векторы нод.
+#  indexer — следит за папкой Obsidian vault, при изменении *.node.md — переиндексирует файл. Пишется на Python за ~100 строк.
+#  mcp-server — принимает запрос от Claude, векторизует его, ищет в Qdrant, возвращает релевантные куски нод.
+#
+#  Obsidian vault (*.node.md)
+#  ↓ при изменении файла
+#  indexer (watchdog)
+#  ↓ разбивает на чанки, векторизует
+#  Qdrant (хранит векторы)
+#  ↑
+#  MCP server
+#  ↑
+#  Claude ← запрос пользователя
+#
+# Как я запрашиваю RAG. Я не запрашиваю сам. RAG — это внешний слой до меня:
+#  Твой вопрос → MCP ищет в Qdrant → находит релевантные куски →
+#  добавляет их в мой контекст → я отвечаю
+#  Я вижу уже готовый результат поиска. Как будто кто-то перед разговором положил мне нужные заметки на стол — я не знаю откуда они.
+
+version: '3.8'
+services:
+
+  # Vector DB
+  qdrant:
+    image: qdrant/qdrant
+    ports:
+      - "6333:6333"
+    volumes:
+      - ./qdrant_data:/qdrant/storage
+
+  # Индексатор нод
+  indexer:
+    build: ./indexer
+    volumes:
+      - /path/to/obsidian/vault:/vault:ro
+    environment:
+      - QDRANT_URL=http://qdrant:6333
+      - WATCH_PATH=/vault
+    depends_on:
+      - qdrant
+
+  # MCP сервер для Claude
+  mcp-server:
+    build: ./mcp
+    ports:
+      - "3000:3000"
+    environment:
+      - QDRANT_URL=http://qdrant:6333
+    depends_on:
+      - qdrant
