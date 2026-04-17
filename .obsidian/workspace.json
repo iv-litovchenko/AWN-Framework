@@ -185,6 +185,7 @@
   },
   "active": "b9e790332fab4194",
   "lastOpenFiles": [
+    "TEMPLATE.md",
     "DEEPSEEK.md",
     "MISTRAL.md",
     "AGENTS.LLM_BOOTSTRAP.md",
@@ -229,7 +230,6 @@
     "README-NEW.md",
     "preview.png",
     "AGENTS — копия.md",
-    "GEMINI.md",
-    "HEARTBEAT.md"
+    "GEMINI.md"
   ]
 }
