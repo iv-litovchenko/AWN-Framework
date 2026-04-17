@@ -70,15 +70,10 @@
 Скачай в корень проекта:
 
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.md в AGENTS.md
-
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.NODES.md в AGENTS.NODES.md
-  
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.NODES.EXAMPLE.md в AGENTS.NODES.EXAMPLE.md
-
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.SETTINGS.md в AGENTS.SETTINGS.md
-  
 - https://github.com/iv-litovchenko/AWN-Framework/HEARTBEAT.md в HEARTBEAT.md
-
 - https://github.com/iv-litovchenko/AWN-Framework/Nodes/RandomAnecdote.node.md в Nodes/RandomAnecdote.node.md (если папки `Nodes` нет — создай её)
 
 Шаг 2. Создание стартового файла под твою систему
