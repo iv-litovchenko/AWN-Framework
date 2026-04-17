@@ -82,7 +82,7 @@
 
 Для OpenClaw-подобных агентных систем этот шаг можно игнорировать, так как они читают `AGENTS.md` напрямую.
 
-Затем скопируй в систему подходящий стартовый файл:
+Затем скопируй в систему один подходящий стартовый файл, который соответствует твоей системе:
 
 - https://github.com/iv-litovchenko/AWN-Framework/CLAUDE.md в CLAUDE.md
 - https://github.com/iv-litovchenko/AWN-Framework/CODEX.md в CODEX.md
