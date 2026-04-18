@@ -16,6 +16,7 @@ AWN-STATUS: active
 AWN-VERSION: 1.0.0
 AWN-CREATED: 2026-04-15
 AWN-UPDATED: 2026-04-17
+AWN-MEMORY: internal
 debugNote: '"FEWFE.Few"htrhtrhtrhtr'
 ---
 Назначение ноды:

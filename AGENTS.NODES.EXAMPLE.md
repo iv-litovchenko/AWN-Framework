@@ -233,6 +233,7 @@ AWN-STATUS: active
 AWN-VERSION: 1.0.0
 AWN-CREATED: 2026-04-16
 AWN-UPDATED: 2026-04-16
+AWN-MEMORY: none
 ---
 
 ## Назначение
@@ -256,6 +257,23 @@ AWN-UPDATED: 2026-04-16
 
 - Ссылки на конспекты или лог занятий: `[[...]]`
 ```
+
+### Пример файла памяти (`*.memory.md`)
+
+Если у ноды `AWN-MEMORY: external` или `hybrid`, факты можно выносить в отдельный файл. Путь ниже условный; в `AWN-PARENT-NODE` — относительный путь к `*.node.md` от корня проекта.
+
+```yaml
+---
+AWN-TYPE: MemoryRecord
+AWN-STATUS: active
+AWN-PARENT-NODE: Learning/EnglishStudy.node.md
+TAGS: [vocabulary, weekly-log]
+AWN-CREATED: 2026-04-16
+AWN-UPDATED: 2026-04-16
+---
+```
+
+Дальше в файле — тело: записи памяти (произвольный markdown).
 
 ## Category: Tech
 
