@@ -80,28 +80,46 @@
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.NODES.md в AGENTS.NODES.md
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.NODES.EXAMPLE.md в AGENTS.NODES.EXAMPLE.md
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.SETTINGS.md в AGENTS.SETTINGS.md
+- https://github.com/iv-litovchenko/AWN-Framework/AGENTS.LLM_BOOTSTRAP_PRESET.md в AGENTS.LLM_BOOTSTRAP_PRESET.md
 - https://github.com/iv-litovchenko/AWN-Framework/HEARTBEAT.md в HEARTBEAT.md
 - https://github.com/iv-litovchenko/AWN-Framework/Nodes/RandomAnecdote.node.md в Nodes/RandomAnecdote.node.md (если папки `Nodes` нет — создай её)
 
-Шаг 2. Создание стартового файла под твою систему
+Шаг 2. Стартовый md-файл для твоей IDE/CLI (не путать с AGENTS.md)
 
-Обычно этот файл называется `System Prompt`, `Agent Config` или `Runtime Config`.
+`AGENTS.md` — это **единый контракт правил и протокола AWN для агента** (полная/чистая сессия, ноды, реестр). Имя **фиксировано**: всегда `AGENTS.md` в корне проекта.
 
-Для OpenClaw-подобных агентных систем этот шаг можно игнорировать, так как они читают `AGENTS.md` напрямую.
+Отдельно нужен **стартовый файл под конкретную систему** — короткий указатель, который клиент подмешивает в контекст. Имя файла **зависит от продукта**; это **не** замена `AGENTS.md`. Типичные имена:
 
-Затем скопируй в систему один подходящий стартовый файл, который соответствует твоей системе:
+| Система / контекст | Имя стартового файла в корне проекта |
+|--------------------|--------------------------------------|
+| Claude Code, Cursor (правила под Claude) и т.п. | `CLAUDE.md` |
+| Google Gemini CLI | `GEMINI.md` |
+| Qwen / совместимые оболочки | `QWEN.md` |
+| OpenAI Codex CLI | `CODEX.md` |
+| DeepSeek | `DEEPSEEK.md` |
+| Mistral | `MISTRAL.md` |
 
-- https://github.com/iv-litovchenko/AWN-Framework/CLAUDE.md в CLAUDE.md
-- https://github.com/iv-litovchenko/AWN-Framework/CODEX.md в CODEX.md
-- https://github.com/iv-litovchenko/AWN-Framework/DEEPSEEK.md в DEEPSEEK.md
-- https://github.com/iv-litovchenko/AWN-Framework/GEMINI.md в GEMINI.md
-- https://github.com/iv-litovchenko/AWN-Framework/MISTRAL.md в MISTRAL.md
-- https://github.com/iv-litovchenko/AWN-Framework/QWEN.md в QWEN.md
+Готовые стартеры из AWN обычно ссылаются на `AGENTS.LLM_BOOTSTRAP_PRESET.md` (полная/чистая сессия, чтение `AGENTS.md` и `AGENTS.NODES.md`). Если копируешь такой стартер — **`AGENTS.LLM_BOOTSTRAP_PRESET.md` должен лежать в корне** (его добавили в шаге 1).
 
-Если моей системы нет в списке, создай файл
+Уточни у пользователя или по документации среды, **какое имя файла** ожидается в корне workspace, и скачай **один** подходящий файл под это имя:
 
-https://github.com/iv-litovchenko/AWN-Framework/<НазваниеПриложения>.md
-по шаблону: https://github.com/iv-litovchenko/AWN-Framework/TEMPLATE.md
+- https://github.com/iv-litovchenko/AWN-Framework/CLAUDE.md → `CLAUDE.md`
+- https://github.com/iv-litovchenko/AWN-Framework/CODEX.md → `CODEX.md`
+- https://github.com/iv-litovchenko/AWN-Framework/DEEPSEEK.md → `DEEPSEEK.md`
+- https://github.com/iv-litovchenko/AWN-Framework/GEMINI.md → `GEMINI.md`
+- https://github.com/iv-litovchenko/AWN-Framework/MISTRAL.md → `MISTRAL.md`
+- https://github.com/iv-litovchenko/AWN-Framework/QWEN.md → `QWEN.md`
+
+Для OpenClaw-подобных систем, которые читают `AGENTS.md` **напрямую**, копирование `CLAUDE.md` / `GEMINI.md` и т.д. можно пропустить — пользователь должен убедиться, что среда подхватывает `AGENTS.md`.
+
+Если готового стартера нет, создай файл с именем, которое требует среда, по шаблону https://github.com/iv-litovchenko/AWN-Framework/TEMPLATE.md — содержимое должно вести к `./AGENTS.LLM_BOOTSTRAP_PRESET.md` или к тем же правилам чтения `./AGENTS.md`.
+
+Шаг 3. Проверка и перезапуск
+
+1) В корне есть `AGENTS.md` и `AGENTS.NODES.md`.  
+2) Если использовал шаг 2 — стартовый файл **под ожидаемым именем** и при необходимости `AGENTS.LLM_BOOTSTRAP_PRESET.md`.  
+3) Попроси пользователя перезапустить сессию или приложение.  
+4) По желанию: в project rules среды — короткая отсылка к `AGENTS.md` или пресету, без длинного дублирования текста контракта.
 ```
 
 ## Оглавление
