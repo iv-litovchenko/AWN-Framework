@@ -1,5 +1,5 @@
 ---
-AWN-TYPE: CoreNode
+AWN-TYPE: "NODE/SOLO"
 AWN-TITLE: Random Anecdote
 AWN-DESCRIPTION: Рассказывать случайный анекдот по запросу и вести журнал уже рассказанных анекдотов.
 AWN-REQUIRE: on_demand

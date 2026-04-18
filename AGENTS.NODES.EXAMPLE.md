@@ -221,7 +221,7 @@
 
 ```markdown
 ---
-AWN-TYPE: CoreNode
+AWN-TYPE: "NODE/SOLO"
 AWN-TITLE: English Study
 AWN-DESCRIPTION: "Протокол изучения английского: цели, расписание практики, лексика и разговор."
 AWN-REQUIRE: on_demand
@@ -260,13 +260,13 @@ AWN-MEMORY: none
 
 ### Пример файла памяти (`*.memory.md`)
 
-Если у ноды `AWN-MEMORY: external` или `hybrid`, факты можно выносить в отдельный файл. Путь ниже условный; в `AWN-PARENT-NODE` — относительный путь к `*.node.md` от корня проекта.
+Если у ноды `AWN-MEMORY: external` или `hybrid`, факты можно выносить в отдельный файл. Путь ниже условный; **`AWN-PARENT-NODE`** — относительный путь к `*.node.md` от корня проекта, в шапке **первой строкой** после `---`.
 
 ```yaml
 ---
-AWN-TYPE: MemoryRecord
-AWN-STATUS: active
 AWN-PARENT-NODE: Learning/EnglishStudy.node.md
+AWN-TYPE: MEMORY
+AWN-STATUS: active
 TAGS: [vocabulary, weekly-log]
 AWN-CREATED: 2026-04-16
 AWN-UPDATED: 2026-04-16
