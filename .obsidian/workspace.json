@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.ASK.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.ASK"
+              "title": "README"
             }
           },
           {
@@ -199,8 +199,8 @@
   },
   "active": "3dfdf9977c252ecd",
   "lastOpenFiles": [
-    "AGENTS.md",
     "README.ASK.md",
+    "AGENTS.md",
     "QWEN.md",
     "AGENTS.SETTINGS-v2.md",
     "AGENTS.SETTINGS.md",
