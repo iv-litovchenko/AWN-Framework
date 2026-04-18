@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.SETTINGS-v2.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS.SETTINGS-v2"
+              "title": "README"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "954d54ec71be5663",
   "lastOpenFiles": [
+    "doc/e107652f-6f4d-422b-bf39-c90d5a432859.png",
+    "doc/3593354e-2c7d-45c9-859f-8adc1b3f7477.png",
+    "doc/ChatGPT Image 18 апр. 2026 г., 23_30_09.png",
+    "AGENTS.SETTINGS-v2.md",
     "AGENTS.SETTINGS.md",
     "AGENTS.NODES.EXAMPLE.md",
     "AGENTS.NODES.md",
@@ -196,7 +200,6 @@
     "AGENTS.md",
     "README.md",
     "QWEN.md",
-    "AGENTS.SETTINGS-v2.md",
     "DataFinance/2026_04.md",
     "DataFinance",
     "Идеи улучшения и варианты развития.md",
@@ -216,7 +219,6 @@
     "ask/12.md",
     "ask/11.md",
     "ask/10.md",
-    "ask/09.md",
     "ask",
     "doc/FirstWords.jpg",
     "doc/IMG_9088.JPG",
@@ -225,9 +227,7 @@
     "image (13).jpg",
     "docker-compose.yml",
     "doc/fda02247-be70-4e6e-8a89-23944be3dfe6 (1).png",
-    "doc/a6917985-53fa-4c50-b577-f5f450d673ec.png",
     "doc/Не подтвержден 262715.crdownload",
-    "doc/8da24847-5bc2-4ee0-9d87-33168723d63c.png",
     "doc/Не подтвержден 135617.crdownload",
     "doc",
     "ai_os_package_chatgpt/1.txt"
