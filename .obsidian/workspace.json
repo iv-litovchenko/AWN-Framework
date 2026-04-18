@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34831fc371cb0cfe",
+        "id": "8ee6b1cd0827a4aa",
         "type": "tabs",
         "children": [
           {
-            "id": "834c7af2d55514fe",
+            "id": "c9528bfa9fa9a5e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README.RAG"
             }
+          },
+          {
+            "id": "bcc3f5c140329f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.MEMORY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.MEMORY"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +198,11 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "834c7af2d55514fe",
+  "active": "bcc3f5c140329f7a",
   "lastOpenFiles": [
-    "README.md",
     "README.RAG.md",
+    "README.MEMORY.md",
+    "README.md",
     "doc/FirstWords.jpg",
     "doc/IMG_9088.JPG",
     "doc/Aya.jpg",
