@@ -87,7 +87,12 @@
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.SETTINGS.md в AGENTS.SETTINGS.md
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.LLM_BOOTSTRAP_PRESET.md в AGENTS.LLM_BOOTSTRAP_PRESET.md
 - https://github.com/iv-litovchenko/AWN-Framework/HEARTBEAT.md в HEARTBEAT.md
-- https://github.com/iv-litovchenko/AWN-Framework/Nodes/RandomAnecdote.node.md в Nodes/RandomAnecdote.node.md (если папки `Nodes` нет — создай её)
+  
+Если папки `Nodes` нет — создай её
+
+- https://github.com/iv-litovchenko/AWN-Framework/Nodes/RandomAnecdote.node.md в Nodes/RandomAnecdote.node.md
+
+- https://github.com/iv-litovchenko/AWN-Framework/Nodes/MediaMetadataSidecar.node.md в Nodes/MediaMetadataSidecar.node.md
 
 Шаг 2. Стартовый md-файл для твоей IDE/CLI (не путать с AGENTS.md)
 
@@ -125,6 +130,10 @@
 2) Если использовал шаг 2 — стартовый файл **под ожидаемым именем** и при необходимости `AGENTS.LLM_BOOTSTRAP_PRESET.md`.  
 3) Попроси пользователя перезапустить сессию или приложение.  
 4) По желанию: в project rules среды — короткая отсылка к `AGENTS.md` или пресету, без длинного дублирования текста контракта.
+5) Также обрати внимание пользователя на то, что в систему загружены 2 ноды в качестве примера:
+
+- случайный анекдот с сохранинем в память и
+- описание медиафайлов в качестве эксперемента.
 ```
 
 ## Оглавление
