@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -35,7 +35,8 @@
               "title": "AGENTS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,8 +198,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "3dfdf9977c252ecd",
+  "active": "605ce2479b2bc964",
   "lastOpenFiles": [
+    "README.md",
     "README.ASK.md",
     "AGENTS.md",
     "QWEN.md",
@@ -209,7 +211,6 @@
     "AGENTS.NODES.md",
     "DataFinance/2026_04.md",
     "DataFinance",
-    "README.md",
     "Идеи улучшения и варианты развития.md",
     ":awn-framework",
     "awn-framework",
