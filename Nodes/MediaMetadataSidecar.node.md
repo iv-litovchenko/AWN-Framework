@@ -11,15 +11,20 @@ AWN-TRIGGERS:
   - описание картинки
   - бинарник
   - вложение
-  - Aya.jpg.metadata
+  - poster.png.metadata
 AWN-AUTOMATIZATION: false
 AWN-CRON: "0 9 * * *"
 AWN-STATUS: active
-AWN-VERSION: 1.0.0
+AWN-VERSION: 1.0.1
 AWN-CREATED: 2026-04-16
 AWN-UPDATED: 2026-04-16
 AWN-MEMORY: none
 ---
+
+# Sidecar метаданные для медиа
+
+> [!info] О файле  
+> Нода (**`*.node.md`**, `NODE/SOLO`): контракт **`*.metadata.md`** рядом с бинарным носителем; **`AWN-REQUIRE: start`** — в полной сессии всегда в базовом контексте.
 
 ## Назначение
 
@@ -36,7 +41,7 @@ AWN-MEMORY: none
 
 Имя sidecar = **полное имя носителя** + **`.metadata.md`**, каталог совпадает с каталогом носителя.
 
-Примеры: `doc/Aya.jpg` → `doc/Aya.jpg.metadata.md`; `media/talk.m4a` → `media/talk.m4a.metadata.md`.
+Примеры: `doc/poster-preview.png` → `doc/poster-preview.png.metadata.md`; `media/session-recording.m4a` → `media/session-recording.m4a.metadata.md`.
 
 ## Поля в шапке (все опциональны; без префикса `AWN-`)
 
@@ -51,34 +56,44 @@ AWN-MEMORY: none
 | `TAGS` | Поиск по vault. |
 | `created` / `updated` | ISO `YYYY-MM-DD` для **описания**; не путать с `AWN-CREATED` / `AWN-UPDATED` у нод и `*.memory.md`. |
 
-Тело после `---` — произвольный markdown (детали, `![[...]]` на носитель, ссылки).
+Тело после `---` — произвольный markdown (детали, `![[...]]` на носитель, ссылки). **Желательно** (как для нод и памяти — см. `AGENTS.md` → **«Правила создания/обновления нод»**) сразу после шапки добавить **`#`** и **`> [!info]`** с явной пометкой, что это **sidecar** к какому файлу.
 
 ## Минимальный пример (без привязки к ноде)
 
-```yaml
+```
 ---
-summary: "Постер AYA Cognitive Intelligence System — визуал продукта."
-TAGS: [aya, branding, poster]
+summary: "Постер продукта — превью для документации и презентаций."
+TAGS: [branding, poster, preview]
 ---
 
-Далее в файле — тело: ссылка на носитель `doc/Aya.jpg`, при необходимости развёрнутое описание.
+# Постер (превью)
+
+> [!info] О файле  
+> Sidecar (**`*.metadata.md`**) к бинарнику `doc/poster-preview.png`; краткое назначение — в `summary` выше.
+
+Далее — тело: ссылка на носитель, при необходимости развёрнутое описание.
 ```
 
 ## Пример с опциональной привязкой к ноде контекста
 
 Добавляйте **`relatedNode`** только если ассет явно относится к одной ноде (брендбук персоны, обложка проекта и т.д.):
 
-```yaml
+```
 ---
-summary: "Постер AYA — визуал продукта, для контекста персоны."
-relatedNode: Nodes/Core/Persona.node.md
+summary: "Обложка раздела документации — визуальный якорь для связки с нодой контекста."
+relatedNode: ExampleAlpha/Index.node.md
 mediaKind: image
-TAGS: [aya, branding, poster]
+TAGS: [docs, cover, preview]
 created: 2026-04-16
 updated: 2026-04-16
 ---
 
-Далее в файле — тело: подробности, ссылка на `doc/Aya.jpg`.
+# Обложка раздела (с привязкой к ноде)
+
+> [!info] О файле  
+> Sidecar (**`*.metadata.md`**) к `doc/poster-preview.png`; опционально связан с нодой `relatedNode` в шапке.
+
+Далее — тело: подробности, ссылка на `doc/poster-preview.png`.
 ```
 
 ## Плагины Obsidian
