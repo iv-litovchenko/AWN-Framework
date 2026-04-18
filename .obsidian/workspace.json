@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.ASK.md",
-                "mode": "source",
+                "file": "ask/03.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.ASK"
+              "title": "03"
             }
           }
         ]
@@ -185,11 +185,29 @@
   },
   "active": "3dfdf9977c252ecd",
   "lastOpenFiles": [
-    "Идеи улучшения и варианты развития.md",
+    "ask/01.md",
+    "ask/14.md",
+    "ask/13.md",
+    "ask/12.md",
+    "ask/11.md",
+    "ask/10.md",
+    "ask/09.md",
+    "ask/08.md",
+    "ask/07.md",
+    "ask/06.md",
+    "ask/05.md",
+    "ask/04.md",
+    "ask/03.md",
+    "ask/02.md",
+    "ask/research.md",
     "README.ASK.md",
+    "ask/README.md",
+    "ask",
+    "Nodes/RandomAnecdote.node.md",
+    "AGENTS.SETTINGS-v2.md",
+    "Идеи улучшения и варианты развития.md",
     "README.md",
     "README.RAG.md",
-    "AGENTS.SETTINGS-v2.md",
     "AGENTS.NODES.EXAMPLE.md",
     "AGENTS.SETTINGS.md",
     "README.MEMORY.md",
@@ -201,13 +219,6 @@
     "image (13).jpg",
     "docker-compose.yml",
     "AGENTS.NODES.md",
-    "README — копия.md",
-    "CLAUDE.md",
-    "TEMPLATE.md",
-    "DEEPSEEK.md",
-    "MISTRAL.md",
-    "AGENTS.LLM_BOOTSTRAP.md",
-    "AGENTS.LLM_BOOTSTRAP_PRESET.md",
     "doc/fda02247-be70-4e6e-8a89-23944be3dfe6.png",
     "doc/fda02247-be70-4e6e-8a89-23944be3dfe6 (1).png",
     "doc/a6917985-53fa-4c50-b577-f5f450d673ec.png",
@@ -215,21 +226,10 @@
     "doc/8da24847-5bc2-4ee0-9d87-33168723d63c.png",
     "doc/Не подтвержден 135617.crdownload",
     "doc",
-    "AGENTS.md",
-    "Nodes/RandomAnecdote.node.md",
-    "Промт (оригинал).md",
     "ai_os_package_chatgpt/1.txt",
     "ai_os_package_chatgpt",
     "Новая папка",
-    "QWEN.md",
-    "DataFinance/2026_04.md",
     "DataFinance",
-    "CODEX.md",
-    "README.md.sb-15099be1-PgjNfk",
-    "README.md.sb-15099be1-asewBl",
-    "USER.md",
-    "IDENTITY.md",
-    "TOOLS.md",
-    "SOUL.md"
+    "README.md.sb-15099be1-PgjNfk"
   ]
 }
