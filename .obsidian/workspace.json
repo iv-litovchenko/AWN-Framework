@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.MEMORY.md",
+                "file": "AGENTS.SETTINGS-v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.MEMORY"
+              "title": "AGENTS.SETTINGS-v2"
             }
           }
         ],
@@ -200,8 +200,9 @@
   },
   "active": "bcc3f5c140329f7a",
   "lastOpenFiles": [
-    "README.RAG.md",
+    "AGENTS.SETTINGS.md",
     "README.MEMORY.md",
+    "README.RAG.md",
     "README.md",
     "doc/FirstWords.jpg",
     "doc/IMG_9088.JPG",
@@ -237,7 +238,6 @@
     "DataFinance/2026_04.md",
     "DataFinance",
     "CODEX.md",
-    "AGENTS.SETTINGS.md",
     "AGENTS.SETTINGS-v2.md",
     "README.md.sb-15099be1-PgjNfk",
     "README.md.sb-15099be1-asewBl",

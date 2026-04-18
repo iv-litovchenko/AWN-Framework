@@ -7,6 +7,7 @@ STATUS: active
 CREATED: 2026-04-16
 UPDATED: 2026-04-16
 ---
+# Settings crud
 
 **_### Настройки среды `AGENTS.SETTINGS.md`_**
 
