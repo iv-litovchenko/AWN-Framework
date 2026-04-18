@@ -35,8 +35,7 @@
               "title": "AGENTS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +197,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "605ce2479b2bc964",
+  "active": "3dfdf9977c252ecd",
   "lastOpenFiles": [
-    "README.ASK.md",
     "AGENTS.md",
+    "README.ASK.md",
     "QWEN.md",
     "AGENTS.SETTINGS-v2.md",
     "AGENTS.SETTINGS.md",
