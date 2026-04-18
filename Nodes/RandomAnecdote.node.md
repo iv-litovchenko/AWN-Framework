@@ -1,23 +1,22 @@
 ---
-TYPE: CoreNode
-TITLE: Random Anecdote
-DESCRIPTION: Рассказывать случайный анекдот по запросу и вести журнал уже рассказанных анекдотов.
-REQUIRE: on_demand
-PRIORITY: 30
-TRIGGERS:
+AWN-TYPE: CoreNode
+AWN-TITLE: Random Anecdote
+AWN-DESCRIPTION: Рассказывать случайный анекдот по запросу и вести журнал уже рассказанных анекдотов.
+AWN-REQUIRE: on_demand
+AWN-PRIORITY: 30
+AWN-TRIGGERS:
   - анекдот
   - случайный анекдот
   - расскажи анекдот
   - шутка
   - юмор
-AUTOMATIZATION: false
-CRON: 0 9 * * *
-STATUS: active
-VERSION: 1.0.0
-CREATED: 2026-04-15
-UPDATED: 2026-04-17
-TEST-FE:
-'"FEWFE.Few"htrhtrhtrhtr':
+AWN-AUTOMATIZATION: false
+AWN-CRON: 0 9 * * *
+AWN-STATUS: active
+AWN-VERSION: 1.0.0
+AWN-CREATED: 2026-04-15
+AWN-UPDATED: 2026-04-17
+debugNote: '"FEWFE.Few"htrhtrhtrhtr'
 ---
 Назначение ноды:
 - По запросу пользователя рассказать один случайный анекдот.

@@ -2,6 +2,8 @@
 
 Этот файл — каталог примеров для проектирования новых `*.node.md`.
 
+Канон шапки — ключи `AWN-*` из `AGENTS.md`; свои поля в YAML добавляйте **без** префикса `AWN-`, с естественным именем.
+
 Формат карточки:
 - `Путь` — где лежит файл.
 - `Название` — короткое имя ноды.
@@ -219,18 +221,18 @@
 
 ```markdown
 ---
-TYPE: CoreNode
-TITLE: English Study
-DESCRIPTION: "Протокол изучения английского: цели, расписание практики, лексика и разговор."
-REQUIRE: on_demand
-PRIORITY: 35
-TRIGGERS: ["английский", "English", "учу английский", "IELTS", "TOEFL", "словарь", "speaking", "разговорная практика"]
-AUTOMATIZATION: false
-CRON: "0 9 * * *"
-STATUS: active
-VERSION: 1.0.0
-CREATED: 2026-04-16
-UPDATED: 2026-04-16
+AWN-TYPE: CoreNode
+AWN-TITLE: English Study
+AWN-DESCRIPTION: "Протокол изучения английского: цели, расписание практики, лексика и разговор."
+AWN-REQUIRE: on_demand
+AWN-PRIORITY: 35
+AWN-TRIGGERS: ["английский", "English", "учу английский", "IELTS", "TOEFL", "словарь", "speaking", "разговорная практика"]
+AWN-AUTOMATIZATION: false
+AWN-CRON: "0 9 * * *"
+AWN-STATUS: active
+AWN-VERSION: 1.0.0
+AWN-CREATED: 2026-04-16
+AWN-UPDATED: 2026-04-16
 ---
 
 ## Назначение
