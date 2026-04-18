@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ask/03.md",
-                "mode": "preview",
+                "file": "README.ASK.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03"
+              "title": "README.ASK"
             }
           }
         ]
@@ -185,7 +185,21 @@
   },
   "active": "3dfdf9977c252ecd",
   "lastOpenFiles": [
+    ":awn-framework",
+    "awn-framework",
+    "Новая папка",
+    "README.MEMORY.md",
+    "README.RAG.md",
+    "Идеи улучшения и варианты развития.md",
+    "README.ASK.md",
+    "doc/Aya.jpg",
+    "doc/fda02247-be70-4e6e-8a89-23944be3dfe6.png",
     "ask/01.md",
+    "ask/research.md",
+    "ask/04.md",
+    "ask/03.md",
+    "ask/02.md",
+    "Nodes/RandomAnecdote.node.md",
     "ask/14.md",
     "ask/13.md",
     "ask/12.md",
@@ -196,30 +210,18 @@
     "ask/07.md",
     "ask/06.md",
     "ask/05.md",
-    "ask/04.md",
-    "ask/03.md",
-    "ask/02.md",
-    "ask/research.md",
-    "README.ASK.md",
     "ask/README.md",
     "ask",
-    "Nodes/RandomAnecdote.node.md",
     "AGENTS.SETTINGS-v2.md",
-    "Идеи улучшения и варианты развития.md",
     "README.md",
-    "README.RAG.md",
     "AGENTS.NODES.EXAMPLE.md",
     "AGENTS.SETTINGS.md",
-    "README.MEMORY.md",
     "doc/FirstWords.jpg",
     "doc/IMG_9088.JPG",
-    "doc/Aya.jpg",
     "IMG_9088.JPG",
     "Aya.jpg",
     "image (13).jpg",
     "docker-compose.yml",
-    "AGENTS.NODES.md",
-    "doc/fda02247-be70-4e6e-8a89-23944be3dfe6.png",
     "doc/fda02247-be70-4e6e-8a89-23944be3dfe6 (1).png",
     "doc/a6917985-53fa-4c50-b577-f5f450d673ec.png",
     "doc/Не подтвержден 262715.crdownload",
@@ -228,8 +230,6 @@
     "doc",
     "ai_os_package_chatgpt/1.txt",
     "ai_os_package_chatgpt",
-    "Новая папка",
-    "DataFinance",
-    "README.md.sb-15099be1-PgjNfk"
+    "DataFinance"
   ]
 }
