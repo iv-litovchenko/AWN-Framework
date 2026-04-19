@@ -354,3 +354,65 @@ importBatch: 2026-W12
   Описание: Протокол создания новых нод, выбора триггеров и регистрации в реестре.  
   Триггеры: создай node, новый узел, добавь правило  
   Запуск: по необходимости
+
+## Grok
+
+**Вот полный список всех nodes, которые я предлагал создать в этом чате.**
+
+Я разделил их по категориям для удобства и добавил краткое описание каждой.
+
+### 1. Core Nodes (Ядро системы — самые важные)
+
+| Название ноды                        | Тип          | Описание |
+|--------------------------------------|--------------|----------|
+| **Identity.node.md**                 | identity     | Кто я (агент), миссия, характер, отношение к пользователю |
+| **Values.node.md**                   | identity     | Твои личные ценности + мои. Основной ориентир для решений |
+| **Communication.node.md**            | behavior     | Стиль общения, тон, формат ответов |
+| **Memory.node.md**                   | guideline    | Принципы работы с памятью, No Duplication |
+| **Structure.node.md**                | guideline    | Принципы организации хранилища, гибкость |
+| **FileTypes.node.md** / **NodeTypes.node.md** | guideline | Типы файлов и nodes в экосистеме |
+| **SelfDevelopment.node.md**          | guideline    | Саморазвитие агента, рефакторинг, улучшение системы |
+| **TemporalMemoryStrategy.node.md**   | guideline    | Стратегия трёхуровневой памяти (новая) |
+
+### 2. Area Nodes (Ноды-области / крупные сферы)
+
+| Название ноды                    | Тип     | Описание |
+|----------------------------------|---------|----------|
+| **Health.area.node.md**          | area    | Общая стратегия здоровья, принципы, структура раздела |
+| **Finance.area.node.md**         | area    | Полная стратегия финансов, контракты, эволюция решений |
+| **Planning.area.node.md**        | area    | Подход к планированию, цели, проекты, система review |
+| **Learning.area.node.md**        | area    | Система обучения и развития навыков |
+| **PermanentMemory.area.node.md** | area    | Гибридная стратегия долгосрочной памяти |
+| **GraphitiIntegration.area.node.md** | area | Интеграция и использование Graphiti (temporal graph) |
+
+### 3. Atomic Nodes (Конкретные навыки и инструменты)
+
+| Название ноды                    | Тип         | Описание |
+|----------------------------------|-------------|----------|
+| **Planning.node.md**             | skill       | Планирование, OKR, GTD, разбивка целей |
+| **DecisionMaking.node.md**       | skill       | Помощь в принятии решений, матрицы, second order thinking |
+| **EnergyManagement.node.md**     | skill       | Управление энергией, предотвращение выгорания |
+| **ContextAwareness.node.md**     | guideline   | Учёт текущего контекста жизни при ответах |
+| **MemoryPalace.node.md**         | memory      | Дворец памяти + долгосрочное закрепление знаний |
+| **Learning.node.md**             | skill       | Методики обучения, Zettelkasten, Feynman |
+| **Journal.node.md**              | skill       | Рефлексия, weekly/monthly review |
+| **Automation.node.md**           | guideline   | Автоматизации процессов в системе |
+| **Tasks.node.md**                | skill       | Работа с задачами, приоритизация |
+| **Relationships.node.md**        | skill       | Важные связи, люди, networking |
+
+### 4. Вспомогательные / Сервисные Nodes
+
+| Название ноды                    | Тип         | Описание |
+|----------------------------------|-------------|----------|
+| **NodeTemplate.node.md**         | template    | Шаблон для создания новых nodes |
+| **Changelog.node.md**            | memory      | История изменений экосистемы |
+| **ArchivePolicy.node.md**        | guideline   | Правила архивации и уборки |
+| **TagsAndQueries.node.md**       | guideline   | Система тегов и полезные Dataview-запросы |
+
+---
+
+### Итого:
+- **Area nodes**: 6 шт.
+- **Core nodes**: 8 шт.
+- **Atomic + вспомогательные**: ~12 шт.
+- **Всего предложено**: около **26 nodes**
