@@ -69,12 +69,8 @@
 
 ## Домены пользователя
 
-Пользовательские домены — жизненные и рабочие области. Живут в папке `Domains/`. Каждый домен = подпапка с `Index.node.md` и полем `AWN-CATEGORY`. Агент читает `Index.node.md` домена контекстно при работе внутри него.
+Пользовательские домены — жизненные и рабочие области. Живут в папке `Domains/`. Каждый домен = подпапка с `Index.node.md` и полем `AWN-CATEGORY`.
 
-Реестр доменов и справочник категорий — в `Domains/Index.node.md` и `Domains/Categories.node.md`.
-
-| Статус | AWN-CATEGORY | Путь | Описание |
-|--------|--------------|------|----------|
-| active | education | `Domains/EnglishLearning/` | Изучение английского языка |
+Реестр доменов — в **`Domains/Index.node.md`** (единственный источник истины). Справочник категорий — в `Domains/Categories.node.md`.
 | active | documentation | `Domains/DocMedkizki/` | Документация проекта «Медкнижки» |
 | active | documentation | `Domains/DocSpravky/` | Документация проекта «Справки» |
