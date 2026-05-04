@@ -13,7 +13,6 @@ AWN-CATEGORY: general
 AWN-VERSION: 0.1.0
 AWN-CREATED: YYYY-MM-DD
 AWN-UPDATED: YYYY-MM-DD
-category: slug-из-Categories.node.md
 ---
 
 # Area — ИмяОбласти

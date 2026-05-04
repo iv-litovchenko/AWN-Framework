@@ -131,6 +131,9 @@ owner: имя
 - [Solo.template.md](Templates/Solo.template.md) — одиночная нода (`NODE/SOLO`)
 - [Index.template.md](Templates/Index.template.md) — оркестратор папки (`NODE/INDEX`)
 - [Area.template.md](Templates/Area.template.md) — оболочка области (`NODE/AREA`)
+- [Memory.template.md](Templates/Memory.template.md) — файл внешней памяти (`*.memory.md`)
+- [Metadata.template.md](Templates/Metadata.template.md) — sidecar бинарного файла (`*.metadata.md`)
+- [Note.template.md](Templates/Note.template.md) — заметка домена (`Notes/`)
 
 ### Жизненный цикл (`AWN-STATUS`)
 
