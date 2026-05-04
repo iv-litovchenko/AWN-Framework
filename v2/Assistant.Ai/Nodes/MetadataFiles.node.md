@@ -1,0 +1,84 @@
+---
+AWN-TYPE: "NODE/SOLO"
+AWN-TITLE: MetadataFiles — контракт *.metadata.md
+AWN-DESC: "Контракт файлов *.metadata.md: что это, правило имени, поля шапки, примеры."
+AWN-LOAD: start
+AWN-PRIORITY: 20
+AWN-TRIGGERS: [metadata.md, sidecar, метаданные медиа, описание файла, бинарник]
+AWN-STATUS: active
+AWN-MEMORY: none
+AWN-AUTOMATIZATION: false
+AWN-CRON: "0 9 * * *"
+AWN-CATEGORY: system
+AWN-VERSION: 1.0.0
+AWN-CREATED: 2026-05-05
+AWN-UPDATED: 2026-05-05
+---
+
+# Sidecar-файлы (`*.metadata.md`)
+
+> [!info] О файле
+> Нода (`*.node.md`, `NODE/SOLO`): контракт файлов `*.metadata.md`. Загружается при старте — агент всегда отличает sidecar от ноды и от файла памяти.
+
+## Что такое `*.metadata.md`
+
+Sidecar — текстовое описание бинарного носителя (картинка, аудио, видео, PDF) в той же папке. Агент читает его вместо «немого» бинарника.
+
+**Чем не является:**
+- Не `*.node.md` — нет AWN-контракта, в реестр `AGENTS.NODES.md` не попадает
+- Не `*.memory.md` — нет `AWN-OWNER-NODE` и `AWN-TYPE: "MEMORY/RECORD"`
+
+## Правило имени (канон)
+
+Имя = **полное имя носителя** + `.metadata.md`, в **той же папке** что и носитель.
+
+| Носитель | Sidecar |
+|----------|---------|
+| `Assets/photo.png` | `Assets/photo.png.metadata.md` |
+| `Assets/2026-05-05-lecture.mp3` | `Assets/2026-05-05-lecture.mp3.metadata.md` |
+
+## Поля шапки (все опциональны, без префикса `AWN-`)
+
+| Ключ | Зачем |
+|------|-------|
+| `summary` | Коротко: что за носитель и зачем в vault. Обычно достаточно этого поля |
+| `mediaKind` | Подсказка агенту: `image`, `audio`, `video`, `document` |
+| `relatedNode` | Только если ассет явно относится к одной ноде — путь к `*.node.md` |
+| `transcript` / `notes` | Расшифровка аудио/видео, таймкоды или продолжение в теле |
+| `TAGS` | Теги для поиска по vault |
+| `created` / `updated` | Дата описания (ISO `YYYY-MM-DD`) |
+
+Тело после `---` — произвольный markdown: детали, ссылки, расшифровки.
+
+## Минимальный пример
+
+```yaml
+---
+summary: "Скриншот экрана ошибки — для отчёта о баге."
+TAGS: [bug, screenshot]
+---
+
+# Скриншот ошибки
+
+> Sidecar (*.metadata.md) к файлу `Assets/error-screen.png`.
+```
+
+## Пример с привязкой к ноде
+
+Добавляй `relatedNode` только если ассет явно относится к одной конкретной ноде (обложка проекта, фото персоны и т.п.):
+
+```yaml
+---
+summary: "Запись лекции по Past Simple — занятие 3."
+mediaKind: audio
+relatedNode: Domains/EnglishLearning/Index.node.md
+transcript: "00:00 — введение, 05:30 — примеры, 18:00 — упражнения"
+TAGS: [english, grammar, audio]
+created: 2026-05-05
+updated: 2026-05-05
+---
+
+# Лекция — Past Simple (занятие 3)
+
+> Sidecar (*.metadata.md) к файлу `Assets/2026-05-05-past-simple.mp3`.
+```
