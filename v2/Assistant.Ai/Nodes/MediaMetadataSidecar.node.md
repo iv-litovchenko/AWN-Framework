@@ -1,8 +1,8 @@
 ---
 AWN-TYPE: "NODE/SOLO"
 AWN-TITLE: Sidecar метаданные для медиа (`*.metadata.md`)
-AWN-DESCRIPTION: "Контракт и смысл файлов `{имя_носителя}.metadata.md`: как агент отличает sidecar от ноды и от памяти ноды; какие поля в шапке опциональны и зачем."
-AWN-REQUIRE: start
+AWN-DESC: "Контракт и смысл файлов `{имя_носителя}.metadata.md`: как агент отличает sidecar от ноды и от памяти ноды; какие поля в шапке опциональны и зачем."
+AWN-LOAD: start
 AWN-PRIORITY: 25
 AWN-TRIGGERS:
   - sidecar
@@ -15,6 +15,7 @@ AWN-TRIGGERS:
 AWN-AUTOMATIZATION: false
 AWN-CRON: "0 9 * * *"
 AWN-STATUS: active
+AWN-CATEGORY: system
 AWN-VERSION: 1.0.1
 AWN-CREATED: 2026-04-16
 AWN-UPDATED: 2026-04-16
