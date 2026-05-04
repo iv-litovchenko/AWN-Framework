@@ -37,7 +37,8 @@
 | Версия  | Приоритет | Статус | Путь                                     | Что делает                                                   |
 |---------|-----------|--------|------------------------------------------|--------------------------------------------------------------|
 | `0.1.0` | 20        | active | `Domains/Index.node.md`                              | Реестр доменов пользователя — карта всех жизненных областей  |
-| `1.0.1` | 25        | active | `Assistant.Ai/Nodes/MediaMetadataSidecar.node.md`    | Контракт sidecar-файлов `*.metadata.md` для бинарных вложений |
+| `1.0.0` | 20        | active | `Assistant.Ai/Nodes/MemoryFiles.node.md`             | Контракт файлов `*.memory.md` — внешняя память нод           |
+| `1.0.0` | 20        | active | `Assistant.Ai/Nodes/MetadataFiles.node.md`           | Контракт файлов `*.metadata.md` — sidecar бинарных носителей |
 | `0.1.0` | 25        | active | `Assistant.Ai/Rules.node.md`                         | Правила поведения — что можно, чего нельзя, форматы          |
 | `0.1.0` | 30        | active | `Assistant.Ai/Assistant.node.md`      | Идентичность ассистента — имя, характер, принципы, стиль     |
 | `0.1.0` | 30        | active | `Assistant.Ai/User.node.md`           | Профиль текущего пользователя — имя, цели, предпочтения      |
