@@ -76,3 +76,5 @@
 | Статус | AWN-CATEGORY | Путь | Описание |
 |--------|--------------|------|----------|
 | active | education | `Domains/EnglishLearning/` | Изучение английского языка |
+| active | documentation | `Domains/DocMedkizki/` | Документация проекта «Медкнижки» |
+| active | documentation | `Domains/DocSpravky/` | Документация проекта «Справки» |
