@@ -5,7 +5,7 @@ AWN-DESC: "Ноды ассистента: контент-ноды, навыки,
 AWN-LOAD: on_demand
 AWN-PRIORITY: 40
 AWN-TRIGGERS: [nodes, ноды, навыки, навык ассистента]
-AWN-STATUS: draft
+AWN-STATUS: disabled
 AWN-MEMORY: none
 AWN-AUTOMATIZATION: false
 AWN-CRON: "0 9 * * *"

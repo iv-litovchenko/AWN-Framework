@@ -5,7 +5,7 @@ AWN-DESC: "Логи работы агента: записи действий, о
 AWN-LOAD: on_demand
 AWN-PRIORITY: 60
 AWN-TRIGGERS: [logs, логи, лог, аудит, история изменений]
-AWN-STATUS: draft
+AWN-STATUS: disabled
 AWN-MEMORY: none
 AWN-AUTOMATIZATION: false
 AWN-CRON: "0 9 * * *"
