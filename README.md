@@ -1,6 +1,6 @@
 # AWN Framework (Agent Workspace Nodes) — простой гибкий фреймворк для агентных систем на базе нод
 
-![alt](Preview.png)
+![alt](.awn-framework/doc/Preview.png)
 
 ![alt](.awn-framework/doc/fda02247-be70-4e6e-8a89-23944be3dfe6.png)
 
