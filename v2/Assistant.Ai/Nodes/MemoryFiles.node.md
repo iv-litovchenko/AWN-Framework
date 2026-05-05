@@ -10,7 +10,7 @@ AWN-MEMORY: none
 AWN-AUTOMATIZATION: false
 AWN-CRON: "0 9 * * *"
 AWN-CATEGORY: system
-AWN-VERSION: 1.0.0
+AWN-VERSION: 1.1.0
 AWN-CREATED: 2026-05-05
 AWN-UPDATED: 2026-05-05
 ---
@@ -32,28 +32,33 @@ AWN-UPDATED: 2026-05-05
 
 ```yaml
 ---
-AWN-OWNER-NODE: Путь/К/Ноде.node.md   # первым ключом — владелец записи
-AWN-TYPE: "MEMORY/RECORD"              # в кавычках из-за /
-AWN-STATUS: active                     # active | archive
+AWN-TYPE: "RECORD/MEMORY"
+AWN-OWNER: Путь/К/Ноде.node.md
+AWN-STATUS: open
+AWN-TITLE: Название записи
 AWN-CREATED: YYYY-MM-DD
 AWN-UPDATED: YYYY-MM-DD
-TAGS: [тег1, тег2]                     # после всех AWN-* ключей
+TAGS: [тег1, тег2]
 ---
 ```
+
+| Поле | Значения | Назначение |
+|------|----------|------------|
+| `AWN-TYPE` | `"RECORD/MEMORY"` | Тип файла — всегда первым |
+| `AWN-OWNER` | путь к `*.node.md` | Нода-владелец этой записи |
+| `AWN-STATUS` | `open` / `close` | Активна ли запись |
+| `AWN-TITLE` | строка | Человекочитаемое название |
+| `AWN-CREATED` | `YYYY-MM-DD` | Дата создания |
+| `AWN-UPDATED` | `YYYY-MM-DD` | Дата последнего обновления |
+| `TAGS` | список | Теги для поиска |
 
 ## Правило имени
 
 Формат: `YYYY-MM-DD.memory.md` — один файл на дату или сессию. Лежит в папке `Memory/` домена или рядом с нодой-владельцем.
-
-## Связь с нодой-владельцем
-
-`AWN-OWNER-NODE` содержит **относительный путь от корня vault** к ноде (`*.node.md`), которой принадлежит эта запись памяти.
-
-Пример: `AWN-OWNER-NODE: Domains/EnglishLearning/Index.node.md`
 
 ## Как создавать и обновлять
 
 - Агент создаёт файл по явному запросу пользователя («запиши», «зафиксируй», «сохрани»)
 - Тело после `---` — произвольный markdown: факты, таблицы, списки
 - При обновлении — обновить `AWN-UPDATED`
-- Если запись устарела — `AWN-STATUS: archive`, не удалять
+- Если запись закрыта — `AWN-STATUS: close`, не удалять

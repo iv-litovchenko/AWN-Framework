@@ -1,9 +1,11 @@
 ---
-title: Существительные (Nouns)
-domain: EnglishLearning
-tags: [english, grammar, nouns]
-created: 2026-05-04
-updated: 2026-05-04
+AWN-TYPE: "RECORD/NOTE"
+AWN-OWNER: EnglishLearning
+AWN-STATUS: open
+AWN-TITLE: Существительные (Nouns)
+AWN-CREATED: 2026-05-04
+AWN-UPDATED: 2026-05-04
+TAGS: [english, grammar, nouns]
 ---
 
 # Существительные (Nouns)

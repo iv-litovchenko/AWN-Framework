@@ -1,9 +1,11 @@
 ---
-title: Глаголы (Verbs)
-domain: EnglishLearning
-tags: [english, grammar, verbs]
-created: 2026-05-04
-updated: 2026-05-04
+AWN-TYPE: "RECORD/NOTE"
+AWN-OWNER: EnglishLearning
+AWN-STATUS: open
+AWN-TITLE: Глаголы (Verbs)
+AWN-CREATED: 2026-05-04
+AWN-UPDATED: 2026-05-04
+TAGS: [english, grammar, verbs]
 ---
 
 # Глаголы (Verbs)

@@ -14,6 +14,7 @@
 
 **Если сообщение начинается с приветствия** («Привет», «Hi» и т.п.) — **полная сессия:**
 - Дочитать этот файл до конца.
+- Прочитать `./AGENTS.SETTINGS.md` и учесть все настройки с `value: true`.
 - Прочитать `./AGENTS.NODES.md`.
 - Прочитать все ноды с `AWN-LOAD: start` из реестра — они остаются в контексте до конца сессии.
 - Ноды с `AWN-LOAD: on_demand` на старте **не читать** — только при явном совпадении запроса с `AWN-TRIGGERS`.
@@ -90,9 +91,10 @@ owner: имя
 
 | Маска имени | Что это | Как проверить |
 |-------------|---------|---------------|
-| `*.node.md` | Нода AWN | В шапке `AWN-TYPE`: `NODE/SOLO`, `NODE/INDEX` или `NODE/AREA` |
-| `*.memory.md` | Внешняя память одной ноды | В шапке `AWN-OWNER-NODE` и `AWN-TYPE: "MEMORY/RECORD"` |
-| `{имя_файла}.metadata.md` | Sidecar бинарного носителя | Нет `AWN-OWNER-NODE` и нет `MEMORY/RECORD`; имя носителя целиком в префиксе |
+| `*.node.md` | Нода AWN | `AWN-TYPE`: `NODE/SOLO`, `NODE/INDEX` или `NODE/AREA` |
+| `*.memory.md` | Запись памяти ноды | `AWN-TYPE: "RECORD/MEMORY"` + `AWN-OWNER-NODE` |
+| `{имя_файла}.metadata.md` | Sidecar бинарного носителя | `AWN-TYPE: "RECORD/METADATA"`; имя носителя целиком в префиксе |
+| `Notes/*.md` | Заметка домена | `AWN-TYPE: "RECORD/NOTE"` |
 | Прочие `*.md` | Обычная заметка vault | Нет AWN-контракта |
 
 ### Входной блок ноды
@@ -128,12 +130,12 @@ owner: имя
 
 Готовые заготовки для каждого типа ноды — в папке [Templates/](Templates/):
 
-- [Solo.template.md](Templates/Solo.template.md) — одиночная нода (`NODE/SOLO`)
-- [Index.template.md](Templates/Index.template.md) — оркестратор папки (`NODE/INDEX`)
-- [Area.template.md](Templates/Area.template.md) — оболочка области (`NODE/AREA`)
-- [Memory.template.md](Templates/Memory.template.md) — файл внешней памяти (`*.memory.md`)
-- [Metadata.template.md](Templates/Metadata.template.md) — sidecar бинарного файла (`*.metadata.md`)
-- [Note.template.md](Templates/Note.template.md) — заметка домена (`Notes/`)
+- [Solo.template.md](Templates/Nodes/Solo.template.md) — одиночная нода (`NODE/SOLO`)
+- [Index.template.md](Templates/Nodes/Index.template.md) — оркестратор папки (`NODE/INDEX`)
+- [Area.template.md](Templates/Nodes/Area.template.md) — оболочка области (`NODE/AREA`)
+- [Memory.template.md](Templates/Records/Memory.template.md) — файл внешней памяти (`*.memory.md`)
+- [Metadata.template.md](Templates/Records/Metadata.template.md) — sidecar бинарного файла (`*.metadata.md`)
+- [Note.template.md](Templates/Records/Note.template.md) — заметка домена (`Notes/`)
 
 ### Жизненный цикл (`AWN-STATUS`)
 
