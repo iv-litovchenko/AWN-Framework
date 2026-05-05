@@ -11,10 +11,14 @@
             "id": "a3b949f1e765e597",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AwnFramework/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "README"
             }
           }
         ]
@@ -181,8 +185,8 @@
   },
   "active": "a3b949f1e765e597",
   "lastOpenFiles": [
-    "Assistant.Ai/Nodes/MetadataFiles.node.md",
     "README.fix.md",
+    "v2/Assistant.Ai/Nodes/MetadataFiles.node.md",
     "QWEN.md",
     "MISTRAL.md",
     "HEARTBEAT.md",
