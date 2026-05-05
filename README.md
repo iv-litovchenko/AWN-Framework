@@ -144,6 +144,7 @@
 - https://github.com/iv-litovchenko/AWN-Framework/GEMINI.md → `GEMINI.md`
 - https://github.com/iv-litovchenko/AWN-Framework/MISTRAL.md → `MISTRAL.md`
 - https://github.com/iv-litovchenko/AWN-Framework/QWEN.md → `QWEN.md`
+- https://github.com/iv-litovchenko/AWN-Framework/README.fix.md → `README.md`
 
 Для OpenClaw-подобных систем, которые читают `AGENTS.md` **напрямую**, копирование `CLAUDE.md` / `GEMINI.md` и т.д. можно пропустить — пользователь должен убедиться, что среда подхватывает `AGENTS.md`.
 
