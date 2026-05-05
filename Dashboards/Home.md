@@ -29,9 +29,9 @@ LIMIT 10
 
 ## 🗂️ Домены
 
-- [[v2/Domains/EnglishLearning/Index.node.md|🇬🇧 English Learning]]
-- [[v2/Domains/DocSpravky/Index.node.md|📄 Документы — Справки]]
-- [[v2/Domains/DocMedkizki/Index.node.md|🏥 Документы — Медкнижки]]
+- [[Domains/EnglishLearning/Index.node.md|🇬🇧 English Learning]]
+- [[Domains/DocSpravky/Index.node.md|📄 Документы — Справки]]
+- [[Domains/DocMedkizki/Index.node.md|🏥 Документы — Медкнижки]]
 
 ---
 
@@ -39,7 +39,7 @@ LIMIT 10
 
 ```dataview
 TABLE file.folder AS "Папка"
-FROM "v2/Domains"
+FROM "Domains"
 WHERE file.name != "Index"
 SORT file.mtime DESC
 LIMIT 7

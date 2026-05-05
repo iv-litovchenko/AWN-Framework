@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8fe4bf5a44ebce9",
+        "id": "c20ccfd73a6de39b",
         "type": "tabs",
         "children": [
           {
-            "id": "6d8f6636c490a22f",
+            "id": "a3b949f1e765e597",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,9 +179,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "6d8f6636c490a22f",
+  "active": "a3b949f1e765e597",
   "lastOpenFiles": [
-    "v2/Assistant.Ai/Nodes/MetadataFiles.node.md",
+    "Assistant.Ai/Nodes/MetadataFiles.node.md",
     "README.fix.md",
     "QWEN.md",
     "MISTRAL.md",

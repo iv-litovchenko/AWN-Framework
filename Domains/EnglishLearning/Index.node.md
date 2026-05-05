@@ -28,7 +28,7 @@ AWN-UPDATED: 2026-05-04
 
 ```dataview
 TABLE title, tags, updated AS "Обновлено"
-FROM "v2/Domains/EnglishLearning/Notes"
+FROM "Domains/EnglishLearning/Notes"
 SORT updated DESC
 ```
 
