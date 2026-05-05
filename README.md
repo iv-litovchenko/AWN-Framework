@@ -148,7 +148,7 @@
 
 Для OpenClaw-подобных систем, которые читают `AGENTS.md` **напрямую**, копирование `CLAUDE.md` / `GEMINI.md` и т.д. можно пропустить — пользователь должен убедиться, что среда подхватывает `AGENTS.md`.
 
-Если готового стартера нет, создай файл с именем, которое требует среда, по шаблону https://github.com/iv-litovchenko/AWN-Framework/TEMPLATE.md — содержимое должно вести к `./AGENTS.LLM_BOOTSTRAP_PRESET.md` или к тем же правилам чтения `./AGENTS.md`.
+Если готового стартера нет, создай файл с именем, которое требует среда, по шаблону https://github.com/iv-litovchenko/AWN-Framework/AGENTS.LLM_TEMPLATE_PRESET.md — содержимое должно вести к `./AGENTS.LLM_BOOTSTRAP_PRESET.md` или к тем же правилам чтения `./AGENTS.md`.
 
 Шаг 3. Проверка и перезапуск
 

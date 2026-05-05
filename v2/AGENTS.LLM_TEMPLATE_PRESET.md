@@ -1,4 +1,4 @@
-# TEMPLATE.md
+# AGENTS.LLM_TEMPLATE_PRESET.md
 
 Этот файл — указатель на общий протокол старта.
 
