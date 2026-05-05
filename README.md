@@ -1007,7 +1007,7 @@ copaw cron create \
   --agent-id xFNe2Y \
   --name "automation_nodes_dailyhealthcheck" \
   --schedule "30 8 * * *" \
-  --command "выполнить ноду Nodes/DailyHealthCheck.node.md"
+  --command "выполнить ноду v2/Assistant.Ai/Cron/DailyHealthCheck.node.md"
 ```
 
 18. Возможно развить идею - говорить агенту в чате как отвечать (отвечай "Без нод" - отвечай "Без изменения файлов" - а то они любят сразу все поменять
