@@ -21,13 +21,16 @@
 | Путь | Название | Загрузка | Описание |
 |------|----------|----------|----------|
 | `Core/CoreGreeting.node.md` | Core Greeting | start | Стартовый ритуал и формат первого ответа агента |
+| `Core/ContextInterpreter.node.md` | Context Interpreter | start | Интерпретация запроса и определение релевантных нод для подключения |
 | `Core/NodeValidator.node.md` | Node Validator | on_demand | Проверка валидности YAML и структуры `*.node.md` |
 | `Core/MemoryLog.node.md` | Memory Log | on_demand | Правила фиксации долгосрочной памяти и решений |
 | `Core/Communication.node.md` | Communication | start | Единые нормы тона, формата и длины ответов |
+| `Core/LinkManager.node.md` | Link Manager | on_demand | Логика построения связей между нодами и разделами экосистемы |
 | `Core/DecisionMaking.node.md` | Decision Making | on_demand | Шаблон принятия решений по вариантам и критериям |
 | `Core/Planning.node.md` | Planning | on_demand | Планирование действий, этапов и сроков |
 | `Core/Changelog.node.md` | Changelog | on_demand | История изменений нод, протоколов и структуры |
 | `Core/SystemRefactor.node.md` | System Refactor | on_demand | Рефакторинг нод, чистка дубликатов |
+| `Core/EvolutionEngine.node.md` | Evolution Engine | on_demand | Генерация предложений по развитию архитектуры и поведения системы |
 | `Core/ObsidianRules.node.md` | Obsidian Rules | start | Правила работы с vault, ссылками, именами файлов |
 
 ### Work
@@ -66,6 +69,7 @@
 | `Health/WorkoutPlan.node.md` | Workout Plan | on_demand | План физической нагрузки и прогресс |
 | `Health/MentalHealth.node.md` | Mental Health | on_demand | Антистрессовые протоколы, чек-листы |
 | `Health/Nutrition.node.md` | Nutrition | on_demand | Протоколы питания и пищевые привычки |
+| `Health/PhysicalActivity.node.md` | Physical Activity | on_demand | Регламент физической активности, нагрузок и восстановления |
 
 ### Learning
 
