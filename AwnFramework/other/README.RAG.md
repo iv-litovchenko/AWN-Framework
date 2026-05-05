@@ -64,7 +64,7 @@ Vector DB хранит текст как **вектор** — массив из 
   id: "randomAnecdote_chunk_1",
   vector: [0.2, 0.8, ...],        ← смысл текста
   metadata: {
-    file: "Nodes/RandomAnecdote.node.md",
+    file: "Assistant.Ai/Nodes/RandomAnecdote.node.md",
     TYPE: "Node/Domain",
     chunk: "Правило ответа: выбери короткий анекдот..."
   }
