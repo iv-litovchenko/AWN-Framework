@@ -108,7 +108,7 @@
 
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.md в AGENTS.md
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.NODES.md в AGENTS.NODES.md
-- https://github.com/iv-litovchenko/AWN-Framework/AGENTS.NODES.EXAMPLE.md в AGENTS.NODES.EXAMPLE.md
+- https://github.com/iv-litovchenko/AWN-Framework/AGENTS.NODES.CATALOG.md в AGENTS.NODES.CATALOG.md
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.SETTINGS.md в AGENTS.SETTINGS.md
 - https://github.com/iv-litovchenko/AWN-Framework/AGENTS.LLM_BOOTSTRAP_PRESET.md в AGENTS.LLM_BOOTSTRAP_PRESET.md
 - https://github.com/iv-litovchenko/AWN-Framework/HEARTBEAT.md в HEARTBEAT.md
