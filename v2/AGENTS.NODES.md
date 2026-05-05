@@ -79,6 +79,7 @@
 | disabled | `Assistant.Ai/Core/Area.node.md`  | Системные скрипты и утилиты ассистента (заглушка — наполняется по мере роста)               |
 | disabled | `Assistant.Ai/Chats/Area.node.md` | История чатов с агентом: сохранённые сессии в формате `.md`                                 |
 | disabled | `Assistant.Ai/Nodes/Area.node.md` | Контент-ноды ассистента: навыки, домены, ситуативные правила                                |
+| active | `Assistant.Ai/Cron/Area.node.md`    | Ноды-задачи с расписанием: `AWN-AUTOMATIZATION`, канон времени в `AWN-CRON`                    |
 | disabled | `Assistant.Ai/Logs/Area.node.md`  | Логи работы агента: изменения, ошибки, аудит действий                                       |
 | active | `Inbox/Area.node.md`              | Входящие материалы: всё неразобранное — ссылки, идеи, черновики; разбираются вместе с агентом |
 | active | `Tests/Area.node.md`              | Зона тестирования нод и экспериментов — черновики до регистрации в реестре                     |
