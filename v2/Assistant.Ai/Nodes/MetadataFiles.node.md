@@ -10,7 +10,7 @@ AWN-MEMORY: none
 AWN-AUTOMATIZATION: false
 AWN-CRON: "0 9 * * *"
 AWN-CATEGORY: system
-AWN-VERSION: 1.1.1
+AWN-VERSION: 1.1.2
 AWN-CREATED: 2026-05-05
 AWN-UPDATED: 2026-05-07
 ---
@@ -18,7 +18,7 @@ AWN-UPDATED: 2026-05-07
 # Sidecar-файлы (`*.metadata.md`)
 
 > [!info] О файле
-> Нода (`*.node.md`, `NODE/SOLO`): контракт файлов `*.metadata.md`. Загружается при старте — агент всегда отличает sidecar от ноды и от файла памяти.
+> Это **нода-контракт** (`*.node.md`, `NODE/SOLO`): правила для файлов `*.metadata.md`. Поле `AWN-LOAD: start` значит, что **именно эта нода** попадает в контекст при старте полной сессии — чтобы агент знал, чем sidecar отличается от ноды и от `*.memory.md`. Сами sidecar-файлы по одному при старте **не** подгружаются — только когда работаешь с конкретным бинарником.
 
 ## Что такое `*.metadata.md`
 

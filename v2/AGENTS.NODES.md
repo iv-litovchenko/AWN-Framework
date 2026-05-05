@@ -38,7 +38,7 @@
 |---------|-----------|--------|------------------------------------------|--------------------------------------------------------------|
 | `0.1.0` | 20        | active | `Domains/Index.node.md`                              | Реестр доменов пользователя — карта всех жизненных областей  |
 | `1.0.0` | 20        | active | `Assistant.Ai/Nodes/MemoryFiles.node.md`             | Контракт файлов `*.memory.md` — внешняя память нод           |
-| `1.1.1` | 20        | active | `Assistant.Ai/Nodes/MetadataFiles.node.md`           | Контракт файлов `*.metadata.md` — sidecar бинарных носителей |
+| `1.1.2` | 20        | active | `Assistant.Ai/Nodes/MetadataFiles.node.md`           | Контракт файлов `*.metadata.md` — sidecar бинарных носителей |
 | `0.1.0` | 25        | active | `Assistant.Ai/Rules.node.md`                         | Правила поведения — что можно, чего нельзя, форматы          |
 | `1.0.0` | 20        | disabled | `Assistant.Ai/Nodes/Context.SmartTriggering.node.md` | Уровни строгости триггеров и активное предложение нод      |
 | `0.1.0` | 25        | disabled | `Assistant.Ai/Nodes/Context.Greeting.node.md`        | Сценарий приветствия пользователя при старте сессии        |
