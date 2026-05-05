@@ -13,9 +13,9 @@ AWN-AUTOMATIZATION: true
 AWN-CRON: "30 8 * * *"
 AWN-STATUS: active
 AWN-CATEGORY: system
-AWN-VERSION: 1.0.2
+AWN-VERSION: 1.0.3
 AWN-CREATED: 2026-04-19
-AWN-UPDATED: 2026-05-07
+AWN-UPDATED: 2026-05-08
 AWN-MEMORY: external
 ---
 
@@ -26,7 +26,7 @@ AWN-MEMORY: external
 
 ## Куда пишем память
 
-- Каталог (от корня `v2/`): `Assistant.Ai/Cron/Memory/`
+- Каталог (от **корня проекта**): `Assistant.Ai/Cron/Memory/`
 - Имя файла: **`YYYY-MM-DD.memory.md`** (один файл на дату прогона).
 - В шапке памяти: `AWN-TYPE: "RECORD/MEMORY"`, `AWN-OWNER: Assistant.Ai/Cron/DailyHealthCheck.node.md`, `AWN-TITLE` — например «Состояние системы — YYYY-MM-DD».
 
