@@ -1,0 +1,46 @@
+# 🏠 Home
+
+> Главная страница vault. Быстрый доступ ко всему.
+
+---
+
+## 📋 Открытые задачи
+
+```dataview
+TABLE AWN-TITLE AS "Задача", AWN-OWNER AS "Домен", priority AS "Приоритет", due AS "Дедлайн"
+FROM "v2"
+WHERE AWN-TYPE = "RECORD/TASK" AND AWN-STATUS = "open"
+SORT due ASC
+```
+
+---
+
+## 📝 Недавние заметки
+
+```dataview
+TABLE AWN-TITLE AS "Заметка", AWN-OWNER AS "Домен"
+FROM "v2"
+WHERE AWN-TYPE = "RECORD/NOTE"
+SORT AWN-UPDATED DESC
+LIMIT 10
+```
+
+---
+
+## 🗂️ Домены
+
+- [[v2/Domains/EnglishLearning/Index.node.md|🇬🇧 English Learning]]
+- [[v2/Domains/DocSpravky/Index.node.md|📄 Документы — Справки]]
+- [[v2/Domains/DocMedkizki/Index.node.md|🏥 Документы — Медкнижки]]
+
+---
+
+## 🕓 Последние изменения
+
+```dataview
+TABLE file.folder AS "Папка"
+FROM "v2/Domains"
+WHERE file.name != "Index"
+SORT file.mtime DESC
+LIMIT 7
+```
