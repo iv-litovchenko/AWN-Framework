@@ -1,2 +1,14 @@
-/.obsidian/workspace.json
-**/.DS_Store
+# Obsidian workspace (меняется очень часто)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+
+# Системные файлы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Корзина Obsidian
+.trash/
