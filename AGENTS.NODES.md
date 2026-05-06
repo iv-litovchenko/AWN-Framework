@@ -55,6 +55,7 @@
 | `0.1.0` | 50        | active | `Domains/Categories.node.md`                | категории доменов, категория домена, категории |
 | `1.0.1` | 30        | active | `Assistant.Ai/Nodes/RandomAnecdote.node.md` | анекдот, случайный анекдот, шутка, юмор |
 | `1.0.3` | 30        | active | `Assistant.Ai/Cron/DailyHealthCheck.node.md` | состояние системы, проверка состояния системы, ежедневный отчёт |
+| `0.1.0` | 55        | disabled | `Assistant.Ai/Nodes/GitCommit.node.md` | git, commit, коммит, git commit, gitworkflow, git workflow, сохранить изменения |
 
 ---
 
