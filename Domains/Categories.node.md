@@ -36,7 +36,7 @@ AWN-UPDATED: 2026-05-04
 | `travel` | Путешествия | Trips, Routes, Visas |
 | `media` | Медиа | Movies, Books, Music, Podcasts |
 | `creative` | Творчество | Writing, Design, Music |
-| `documentation` | Документация | MedCards, Certificates, Docs |
+| `documentation` | Документация | Certificates, Docs |
 
 ## Как добавить новую категорию
 

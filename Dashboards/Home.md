@@ -30,8 +30,6 @@ LIMIT 10
 ## 🗂️ Домены
 
 - [[Domains/EnglishLearning/Index.node.md|🇬🇧 English Learning]]
-- [[Domains/DocSpravky/Index.node.md|📄 Документы — Справки]]
-- [[Domains/DocMedkizki/Index.node.md|🏥 Документы — Медкнижки]]
 
 ---
 
