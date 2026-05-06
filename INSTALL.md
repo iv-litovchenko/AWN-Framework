@@ -37,13 +37,12 @@
 Прямая ссылка: [https://github.com/iv-litovchenko/AWN-Framework](https://github.com/iv-litovchenko/AWN-Framework)
 База для `raw`-файлов: [https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/](https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/)
 
-- `Assistant.Ai/` (cкопировать целиком)
-- `Templates/`  (cкопировать целиком)
-- `Dashboards/Area.node.md`
-- `Domains/Index.node.md`
-- `Domains/Categories.node.md`
-- `Inbox/Area.node.md`
-- `Tests/Area.node.md`
+- `Assistant.Ai/` (cкопировать папку целиком)
+- `Dashboards/`  (cкопировать папку целиком)
+- `Domains/`  (cкопировать папку целиком)
+- `Templates/`  (cкопировать папку целиком)
+- `Inbox/`  (cкопировать папку целиком)
+- `Tests/`  (cкопировать папку целиком)
 - `AGENTS.md`
 - `AGENTS.FULL.md`
 - `AGENTS.NODES.md`
