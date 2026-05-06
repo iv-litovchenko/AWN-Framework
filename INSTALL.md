@@ -1,91 +1,88 @@
-# Установка и обновление AWN Framework
+# AWN Framework: установка или обновление (v2)
 
-Инструкция для **агента**: как скопировать базовые файлы AWN в корень проекта пользователя и при необходимости добавить стартовый md под конкретную IDE/CLI.
+Этот файл (инструкция для агента) помогает установить или обновить AWN Framework в проекте пользователя без путаницы.
 
-Человеку: попросите агента выполнить установку, **прикрепив этот файл** или открыв его в workspace, чтобы агент прочитал блок ниже.
+## Для пользователя (кратко)
 
-Контекст проекта и философия AWN — в корневом [`README.md`](README.md). Полный контракт правил — в [`AGENTS.md`](AGENTS.md).
+1. Открой этот файл в workspace и попроси агента выполнить установку.
+2. Укажи, можно ли перезаписывать уже существующие файлы.
+3. После завершения перезапусти сессию/приложение.
 
 ---
 
-## INSTALL / UPDATE (инструкция для агента)
+## Цель установки
 
-> [!TIP]
-> **Как подключить (установить) фреймворк для своего агента**
->
-> Попросите своего агента установить данный фреймворк, передав ему инструкцию, описанную ниже.
->
-> Важно: при установке может выполняться перезапись соответствующих файлов, если они уже существуют.
+После установки в корне проекта пользователя должны быть:
 
-### Инструкция для агента (промт на установку AWN-Framework)
+- базовые файлы AWN (с теми же путями, как в репозитории);
+- каркас папок (`Assistant.Ai/`, `Templates/`, и нужные `Domains/`, `Inbox/`, `Tests/`);
+- `AGENTS.md` как основной контракт;
+- при необходимости стартовый файл под конкретную IDE/CLI (`CLAUDE.md`, `CODEX.md`, и т.д.).
 
-```text
-Контекст задачи:
-Ты выполняешь установку (обновление) AWN Framework в текущий проект пользователя.
-Ожидаемый результат: в корне проекта лежат базовые файлы AWN из шага 1; при необходимости для среды пользователя — стартовый md из шага 2 и `AGENTS.LLM_BOOTSTRAP_PRESET.md` (если стартер на него ссылается). Если среда читает только `AGENTS.md`, стартовый файл может не понадобиться — это нормально.
+---
 
-Общие правила:
-1) Если файлы уже существуют, предложи замену и запроси подтверждение перед перезаписью.
-2) После завершения установки попроси пользователя перезапустить сессию (или приложение).
+## Правила для агента
 
-Шаг 1. Загрузка базовых файлов
+1. Если файл уже существует, сначала запроси подтверждение на перезапись.
+2. Копируй файлы с сохранением относительных путей.
+3. Если качаешь отдельные файлы с GitHub, используй только `raw`-ссылки.
+4. После завершения попроси пользователя перезапустить сессию/приложение.
+5. После завершения предложи пользователю актуализировать реестр доменов и нод под реальный проект
 
-Скачай базовые файлы в корень проекта.
+---
 
-Скачай в корень проекта (для загрузки по HTTP используй **raw**-ссылки GitHub, иначе вместо файла придёт HTML страницы; шаблон: `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/<путь-к-файлу-в-репо>`):
+## Шаг 1. Скопировать базовый каркас AWN
 
-- https://github.com/iv-litovchenko/AWN-Framework/AGENTS.md в AGENTS.md
-- https://github.com/iv-litovchenko/AWN-Framework/AGENTS.NODES.md в AGENTS.NODES.md
-- https://github.com/iv-litovchenko/AWN-Framework/AGENTS.NODES.CATALOG.md в AGENTS.NODES.CATALOG.md
-- https://github.com/iv-litovchenko/AWN-Framework/AGENTS.SETTINGS.md в AGENTS.SETTINGS.md
-- https://github.com/iv-litovchenko/AWN-Framework/AGENTS.LLM_BOOTSTRAP_PRESET.md в AGENTS.LLM_BOOTSTRAP_PRESET.md
-- https://github.com/iv-litovchenko/AWN-Framework/HEARTBEAT.md в HEARTBEAT.md
-  
-Если нет структуры под ноды ассистента — создай `Assistant.Ai/Nodes/` (или скопируй дерево `Assistant.Ai/` из репозитория).
+Источник: репозиторий `iv-litovchenko/AWN-Framework` (ветка `main`).
+Прямая ссылка: [https://github.com/iv-litovchenko/AWN-Framework](https://github.com/iv-litovchenko/AWN-Framework)
+База для `raw`-файлов: [https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/](https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/)
 
-- https://github.com/iv-litovchenko/AWN-Framework/Assistant.Ai/Nodes/RandomAnecdote.node.md в Assistant.Ai/Nodes/RandomAnecdote.node.md
+- `Assistant.Ai/` (cкопировать целиком)
+- `Templates/`  (cкопировать целиком)
+- `Dashboards/Area.node.md`
+- `Domains/Index.node.md`
+- `Domains/Categories.node.md`
+- `Inbox/Area.node.md`
+- `Tests/Area.node.md`
+- `AGENTS.md`
+- `AGENTS.FULL.md`
+- `AGENTS.NODES.md`
+- `AGENTS.NODES.CATALOG.md`
+- `AGENTS.SETTINGS.md`
+- `AGENTS.LLM_BOOTSTRAP_PRESET.md`
+- `AGENTS.LLM_TEMPLATE_PRESET.md`
+- `HEARTBEAT.md`
+- `INSTALL.md`
+- `README.md`
+- `docker-compose.yml`
+- `.env.example`
+- `.gitignore` (добавить/смёржить правила AWN, не перезаписывать вслепую)
 
-- https://github.com/iv-litovchenko/AWN-Framework/Assistant.Ai/Nodes/MetadataFiles.node.md в Assistant.Ai/Nodes/MetadataFiles.node.md
+---
 
-Шаг 2. Стартовый md-файл для твоей IDE/CLI (не путать с AGENTS.md)
+## Шаг 2. Добавить стартовый файл для среды (если нужен)
 
-`AGENTS.md` — это **единый контракт правил и протокола AWN для агента** (полная/чистая сессия, ноды, реестр). Имя **фиксировано**: всегда `AGENTS.md` в корне проекта.
+`AGENTS.md` всегда обязателен и всегда называется именно `AGENTS.md`.
 
-Отдельно нужен **стартовый файл под конкретную систему** — короткий указатель, который клиент подмешивает в контекст. Имя файла **зависит от продукта**; это **не** замена `AGENTS.md`. Типичные имена:
+Отдельно некоторые среды ожидают свой стартовый файл в корне:
 
-| Система / контекст | Имя стартового файла в корне проекта |
-|--------------------|--------------------------------------|
-| Claude Code, Cursor (правила под Claude) и т.п. | `CLAUDE.md` |
-| Google Gemini CLI | `GEMINI.md` |
-| Qwen / совместимые оболочки | `QWEN.md` |
-| OpenAI Codex CLI | `CODEX.md` |
-| DeepSeek | `DEEPSEEK.md` |
-| Mistral | `MISTRAL.md` |
+- `CLAUDE.md` (Claude Code, Cursor с правилами под Claude)
+- `GEMINI.md`
+- `QWEN.md`
+- `CODEX.md`
+- `DEEPSEEK.md`
+- `MISTRAL.md`
 
-Готовые стартеры из AWN обычно ссылаются на `AGENTS.LLM_BOOTSTRAP_PRESET.md` (полная/чистая сессия, чтение `AGENTS.md` и `AGENTS.NODES.md`). Если копируешь такой стартер — **`AGENTS.LLM_BOOTSTRAP_PRESET.md` должен лежать в корне** (его добавили в шаге 1).
+Действия:
 
-Уточни у пользователя или по документации среды, **какое имя файла** ожидается в корне workspace, и скачай **один** подходящий файл под это имя:
+1. Уточни, какой файл ожидает среда пользователя.
+2. Скопируй ровно один соответствующий стартер из `raw`-источника:
+   - `CLAUDE.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/CLAUDE.md`
+   - `GEMINI.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/GEMINI.md`
+   - `QWEN.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/QWEN.md`
+   - `CODEX.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/CODEX.md`
+   - `DEEPSEEK.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/DEEPSEEK.md`
+   - `MISTRAL.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/MISTRAL.md`
+3. Если стартер ссылается на `AGENTS.LLM_BOOTSTRAP_PRESET.md`, проверь, что он есть в корне.
 
-- https://github.com/iv-litovchenko/AWN-Framework/CLAUDE.md → `CLAUDE.md`
-- https://github.com/iv-litovchenko/AWN-Framework/CODEX.md → `CODEX.md`
-- https://github.com/iv-litovchenko/AWN-Framework/DEEPSEEK.md → `DEEPSEEK.md`
-- https://github.com/iv-litovchenko/AWN-Framework/GEMINI.md → `GEMINI.md`
-- https://github.com/iv-litovchenko/AWN-Framework/MISTRAL.md → `MISTRAL.md`
-- https://github.com/iv-litovchenko/AWN-Framework/QWEN.md → `QWEN.md`
-- https://github.com/iv-litovchenko/AWN-Framework/README.fix.md → `README.md`
-
-Для OpenClaw-подобных систем, которые читают `AGENTS.md` **напрямую**, копирование `CLAUDE.md` / `GEMINI.md` и т.д. можно пропустить — пользователь должен убедиться, что среда подхватывает `AGENTS.md`.
-
-Если готового стартера нет, создай файл с именем, которое требует среда, по шаблону https://github.com/iv-litovchenko/AWN-Framework/AGENTS.LLM_TEMPLATE_PRESET.md — содержимое должно вести к `./AGENTS.LLM_BOOTSTRAP_PRESET.md` или к тем же правилам чтения `./AGENTS.md`.
-
-Шаг 3. Проверка и перезапуск
-
-1) В корне есть `AGENTS.md` и `AGENTS.NODES.md`.  
-2) Если использовал шаг 2 — стартовый файл **под ожидаемым именем** и при необходимости `AGENTS.LLM_BOOTSTRAP_PRESET.md`.  
-3) Попроси пользователя перезапустить сессию или приложение.  
-4) По желанию: в project rules среды — короткая отсылка к `AGENTS.md` или пресету, без длинного дублирования текста контракта.
-5) Также обрати внимание пользователя на то, что в систему загружены 2 ноды в качестве примера:
-
-- случайный анекдот с сохранением в память и
-- описание медиафайлов в качестве эксперимента.
-```
+Если среда читает `AGENTS.md` напрямую, отдельный стартовый файл можно не добавлять.
