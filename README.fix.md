@@ -167,3 +167,9 @@ AWN-Framework описывает структуру знаний внутри va
 [Открыть папку Downloads](file:///Users/твоё_имя_пользователя/Downloads)
 [Открыть Downloads](<file:///Users/macbook/Downloads>)
 
+- Docker-compose.yml (линукс VS docker)
+- Скрипты 
+
+Папка Scripts/
+Папка Content/ - для любого другого контента не md, файлы
+.env

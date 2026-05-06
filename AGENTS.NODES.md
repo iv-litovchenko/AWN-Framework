@@ -54,7 +54,8 @@
 | active | 50        | `Domains/Categories.node.md`                | категории доменов, категория домена, категории |
 | active | 30        | `Assistant.Ai/Nodes/RandomAnecdote.node.md` | анекдот, случайный анекдот, шутка, юмор |
 | active | 30        | `Assistant.Ai/Cron/DailyHealthCheck.node.md` | состояние системы, проверка состояния системы, ежедневный отчёт |
-| disabled | 55        | `Assistant.Ai/Nodes/GitCommit.node.md` | git, commit, коммит, git commit, gitworkflow, git workflow, сохранить изменения |
+| active | 52        | `Assistant.Ai/Nodes/GitPull.node.md` | git pull, получить изменения, подтянуть репозиторий, обновить с remote, синхронизация с origin |
+| active | 53        | `Assistant.Ai/Nodes/GitPush.node.md` | git push, сохранить изменения, отправить изменения, сохранить в git, закоммитить и отправить, запушить |
 
 ---
 
