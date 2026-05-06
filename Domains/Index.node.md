@@ -83,3 +83,4 @@ Domains/ИмяДомена/
 | Статус | AWN-CATEGORY | Путь | Описание |
 |--------|--------------|------|----------|
 | active | education | `Domains/EnglishLearning/` | Изучение английского языка |
+| active | collections | `Domains/Collections/` | Коллекции: каждая коллекция хранится отдельной заметкой в `Notes/` |

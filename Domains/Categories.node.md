@@ -31,6 +31,7 @@ AWN-UPDATED: 2026-05-04
 | `education` | Образование | EnglishLearning, Programming, Reading |
 | `health` | Здоровье | Sport, Nutrition, Meditation |
 | `hobby` | Хобби | Games, Collections, Crafts |
+| `collections` | Коллекции | Collections |
 | `family` | Семья | Kids, Parents, SharedPlans |
 | `documents` | Документы | Passports, Contracts, Insurance |
 | `travel` | Путешествия | Trips, Routes, Visas |
