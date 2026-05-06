@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "AGENTS.SETTINGS"
             }
+          },
+          {
+            "id": "fd51a18fcb4fefc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.fix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.fix"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +198,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a21b5d68c0692851",
+  "active": "fd51a18fcb4fefc0",
   "lastOpenFiles": [
+    "UPDATE.md",
+    "AGENTS.SETTINGS.md",
     "AwnFramework/v1/INSTALL.v1.md",
     "Domains/Collections/Index.node.md",
     "Domains/Index.node.md",
@@ -194,7 +211,6 @@
     "Domains/Collections/Assets",
     "Domains/Collections",
     "AGENTS.NODES.md",
-    "AGENTS.SETTINGS.md",
     "AGENTS.NODES.CATALOG.md",
     "Domains/DocMedkizki/Index.node.md",
     "Dashboards/Home.md",
@@ -220,7 +236,6 @@
     "AGENTS.md",
     "AwnFramework/ideas/chatgpt/nodes/🧩 node.architecture.node.md",
     "AwnFramework/ideas/claude/memory.node.md",
-    "AwnFramework/ideas/claude/identity.node.md",
     "Domains/DocSpravky/Assets/fit988x988-image-2738-1615556549.jpg",
     "Domains/DocSpravky/Assets/E8355ACF-8628-4028-806E-037E08A62EAE.jpeg",
     "Domains/DocSpravky/Assets/D2A83CEB-164F-4893-B1F8-B36DDC5962A6.jpeg",
