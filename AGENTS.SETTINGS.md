@@ -15,7 +15,7 @@
 
 ### Rendering
 
-- [ ] `links.markdown_compatible` — Использовать стандартный Markdown для ссылок и изображений вместо `[[wiki-синтаксиса]]` (совместимо с GitHub).
+- [x] `links.markdown_compatible` — Использовать стандартный Markdown для ссылок и изображений вместо `[[wiki-синтаксиса]]` (совместимо с GitHub).
 
 | Элемент        | Obsidian wiki       | Markdown                     |
 | -------------- | ------------------- | ---------------------------- |
@@ -31,11 +31,11 @@
 
 ### Greeting
 
-- [ ] `session.ai_fact_on_start` — При старте новой сессии добавлять 1 короткий интересный факт из мира ИИ
+- [x] `session.ai_fact_on_start` — При старте новой сессии добавлять 1 короткий интересный факт из мира ИИ
 
 ### Navigation
 
-- Пока нет активных настроек.
+- [x] `paths.workspace_root_relative` — Всегда указывать полный путь к файлам относительно корня хранилища (workspace), например: `Domains/Collections/Index.node.md`.
 
 ### Voice
 
