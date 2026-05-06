@@ -84,6 +84,7 @@
 | active | `Assistant.Ai/Cron/Area.node.md`    | Ноды-задачи с расписанием: `AWN-AUTOMATIZATION`, канон времени в `AWN-CRON`                    |
 | disabled | `Assistant.Ai/Logs/Area.node.md`  | Логи работы агента: изменения, ошибки, аудит действий                                       |
 | active | `Inbox/Area.node.md`              | Входящие материалы: всё неразобранное — ссылки, идеи, черновики; разбираются вместе с агентом |
+| active | `Dashboards/Area.node.md`         | Область пользовательских дашбордов: 2 формата навигации (`Home.md` и `Home.interactive.html`) |
 | active | `Tests/Area.node.md`              | Зона тестирования нод и экспериментов — черновики до регистрации в реестре                     |
 | active | `AwnFramework/Area.node.md`       | Служебная зона идей и черновиков AWN (`ideas/`, `v1/`) — ноды отсюда в реестр не заносить     |
 ---
