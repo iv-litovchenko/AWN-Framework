@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="" />
+    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inbox/Area.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Inbox/Area.node.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,43 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.env">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.env.example">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1365">
-                <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -101,6 +70,7 @@
         <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/AGENTS.FULL.md" />
         <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/Domains/Categories.node.md" />
         <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/README.fix.md" />
+        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/AGENTS.NODES.md" />
       </list>
     </option>
   </component>
@@ -108,11 +78,13 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,11 +92,15 @@
               <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
               <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
+              <item name="Inbox" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,20 +228,9 @@
       <workItem from="1778063245508" duration="1353000" />
       <workItem from="1778066066648" duration="720000" />
       <workItem from="1778068577779" duration="1575000" />
-    </task>
-    <task id="LOCAL-00233" summary="--- Вторая версия ---">
-      <created>1777967837895</created>
-      <option name="number" value="00233" />
-      <option name="presentableId" value="LOCAL-00233" />
-      <option name="project" value="LOCAL" />
-      <updated>1777967837895</updated>
-    </task>
-    <task id="LOCAL-00234" summary="--- Вторая версия ---">
-      <created>1777969363751</created>
-      <option name="number" value="00234" />
-      <option name="presentableId" value="LOCAL-00234" />
-      <option name="project" value="LOCAL" />
-      <updated>1777969363752</updated>
+      <workItem from="1778071165307" duration="1086000" />
+      <workItem from="1778078787171" duration="714000" />
+      <workItem from="1778093256223" duration="734000" />
     </task>
     <task id="LOCAL-00235" summary="--- Вторая версия ---">
       <created>1777970561310</created>
@@ -596,16 +561,30 @@
       <option name="project" value="LOCAL" />
       <updated>1778069559589</updated>
     </task>
-    <option name="localTasksCounter" value="282" />
+    <task id="LOCAL-00282" summary="--- Вторая версия ---">
+      <created>1778078910284</created>
+      <option name="number" value="00282" />
+      <option name="presentableId" value="LOCAL-00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1778078910287</updated>
+    </task>
+    <task id="LOCAL-00283" summary="--- Вторая версия ---">
+      <created>1778093429611</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1778093429612</updated>
+    </task>
+    <option name="localTasksCounter" value="284" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113567000" />
+    <option name="totallyTimeSpent" value="116101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34737486" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36019537" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -617,8 +596,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.29795918" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26734695" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.29795918" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26734695" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -678,70 +657,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="--- Вторая версия ---" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CODEX.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/other/Промт (оригинал).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/other/Идеи улучшения и варианты развития.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/other/Вопросы всем нейросетям.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/personal/finance-tracker.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/personal/habit-tracker.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/personal/social-confidence.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/core/memory-log.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AwnFramework/ideas/claude/health.node.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -927,13 +842,20 @@
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.env.example">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/TOOLS.md" />
+    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/latest_silero_models.yml" />
+    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/logs/2026-04-28_15-16-00.log" />
+    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/logs/2026-04-28_15-17-14.log" />
+    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/.openclaw/workspace-state.json" />
+    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/SOUL.md" />
+    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/AGENTS.md" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -941,10 +863,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/VOICE_SETUP.md" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1365">
+          <first_editor relative-caret-position="621">
             <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
           </first_editor>
           <second_editor />
