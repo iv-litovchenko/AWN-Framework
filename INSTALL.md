@@ -76,13 +76,9 @@
 Действия:
 
 1. Уточни, какой файл ожидает среда пользователя.
-2. Скопируй ровно один соответствующий стартер из `raw`-источника:
-   - `CLAUDE.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/CLAUDE.md`
-   - `GEMINI.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/GEMINI.md`
-   - `QWEN.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/QWEN.md`
-   - `CODEX.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/CODEX.md`
-   - `DEEPSEEK.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/DEEPSEEK.md`
-   - `MISTRAL.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/MISTRAL.md`
+2. Предпочтительно создай стартер из канонического шаблона:
+   - `AGENTS.LLM_TEMPLATE_PRESET.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/AGENTS.LLM_TEMPLATE_PRESET.md`
+   - сохрани под именем, которое требует среда (`CLAUDE.md`, `GEMINI.md`, `QWEN.md`, `CODEX.md`, `DEEPSEEK.md`, `MISTRAL.md`).
 3. Если стартер ссылается на `AGENTS.LLM_BOOTSTRAP_PRESET.md`, проверь, что он есть в корне.
 
 Если среда читает `AGENTS.md` напрямую, отдельный стартовый файл можно не добавлять.
