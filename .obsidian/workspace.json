@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c20ccfd73a6de39b",
+        "id": "6b7ac8060a418cf2",
         "type": "tabs",
         "children": [
           {
-            "id": "bdfed02991c9cc41",
+            "id": "72b4adafffd741de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSTALL.md",
+                "file": "AwnFramework/v1/INSTALL.v1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INSTALL"
+              "title": "INSTALL.v1"
+            }
+          },
+          {
+            "id": "54266f7cbde38a44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "right": {
     "id": "c450d9bef823a3b2",
@@ -183,35 +198,37 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "bdfed02991c9cc41",
+  "active": "54266f7cbde38a44",
   "lastOpenFiles": [
-    "README.md",
     "INSTALL.md",
-    "Domains/DocMedkizki/Index.node.md",
-    "CHATS_COWORK_BY_CHAT/2026-04-24__Greeting_and_initial_contact__local_7cdb2d12-fbaf-428b-a8eb-5cc397632c03.md",
-    "CHATS_COWORK_BY_CHAT/ALL.md",
-    "CHATS_COWORK_BY_CHAT/STARRED_2026-04-25__Prepare_broadcast_content_review__local_ad93223a-98a5-434e-8720-e20c37a7b6aa.md",
-    "CHATS_COWORK_BY_CHAT/2026-04-23__Session_Title_Needed__local_30a9e9ef-34a1-45d2-9978-8464df7741bf.md",
-    "CHATS_COWORK_BY_CHAT/2026-04-04__Greeting_and_initial_contact__local_474d3e91-ae4c-4fae-9c74-3d985347ac94.md",
-    "CHATS_COWORK_BY_CHAT/2026-03-30__Introduction_and_mutual_introduction__local_38a6fe86-6301-4760-bb2c-178212e42c3d.md",
-    "AwnFramework/Area.node.md",
-    "AwnFramework/README.md",
-    "README.fix.md",
-    "v2/Assistant.Ai/Nodes/MetadataFiles.node.md",
-    "QWEN.md",
-    "MISTRAL.md",
-    "HEARTBEAT.md",
-    "GEMINI.md",
-    "docker-compose.yml",
-    "DEEPSEEK.md",
-    "CODEX.md",
-    "CLAUDE.md",
-    "AGENTS.SETTINGS.md",
+    "AwnFramework/v1/INSTALL.v1.md",
     "AGENTS.NODES.md",
+    "README.md",
+    "AGENTS.SETTINGS.md",
+    "Dashboards/Area.node.md",
+    "Dashboards/Home.md",
+    "Domains/DocMedkizki/Index.node.md",
+    "Dashboards/Home.interactive.html",
+    "README.fix.md",
+    "AGENTS.FULL.md",
+    "AGENTS.LLM_TEMPLATE_PRESET.md",
+    "Assistant.Ai/Nodes/GitCommit.node.md",
+    "AGENTS.LLM_BOOTSTRAP_PRESET.md",
+    "Assistant.Ai/Nodes/Context.SmartTriggering.node.md",
+    "Assistant.Ai/Nodes/Context.Greeting.node.md",
+    "Assistant.Ai/Nodes/MemoryFiles.node.md",
+    "Assistant.Ai/Nodes/MetadataFiles.node.md",
     "AGENTS.NODES.CATALOG.md",
     "AGENTS.md",
-    "AGENTS.LLM_TEMPLATE_PRESET.md",
-    "AGENTS.LLM_BOOTSTRAP_PRESET.md",
+    "AwnFramework/ideas/chatgpt/nodes/🧩 node.architecture.node.md",
+    "AwnFramework/ideas/claude/memory.node.md",
+    "AwnFramework/ideas/claude/identity.node.md",
+    "AwnFramework/ideas/claude/health.node.md",
+    "AwnFramework/ideas/claude/changelog.md",
+    "AwnFramework/ideas/chatgpt/nodes-other/⚖️ decision.engine.node.md",
+    "AwnFramework/ideas/chatgpt/nodes-other/📥 inbox.node.md",
+    "Assistant.Ai/Cron/Memory",
+    "docker-compose.yml",
     "Tests",
     "Templates/Records",
     "Templates/Nodes",
@@ -228,8 +245,6 @@
     "Domains/DocSpravky/Assets/41B1BCC6-6A40-4D9A-A99B-EC5E11CA6F13.jpeg",
     "Domains/DocSpravky/Assets/3CA6C08B-B763-4237-B2F1-A642D07DFBCF.jpeg",
     "Domains/DocSpravky/Assets/11.psd",
-    "Domains/EnglishLearning/Notes",
-    "Domains/EnglishLearning/Nodes",
-    "Domains/EnglishLearning/Memory"
+    "Domains/EnglishLearning/Notes"
   ]
 }

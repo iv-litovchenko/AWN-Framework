@@ -77,7 +77,7 @@
 
 1. Уточни, какой файл ожидает среда пользователя.
 2. Предпочтительно создай стартер из канонического шаблона:
-   - `AGENTS.LLM_TEMPLATE_PRESET.md` → `https://raw.githubusercontent.com/iv-litovchenko/AWN-Framework/main/AGENTS.LLM_TEMPLATE_PRESET.md`
+   - `AGENTS.LLM_TEMPLATE_PRESET.md`
    - сохрани под именем, которое требует среда (`CLAUDE.md`, `GEMINI.md`, `QWEN.md`, `CODEX.md`, `DEEPSEEK.md`, `MISTRAL.md`).
 3. Если стартер ссылается на `AGENTS.LLM_BOOTSTRAP_PRESET.md`, проверь, что он есть в корне.
 

@@ -3,12 +3,14 @@
 .obsidian/workspace-mobile.json
 .obsidian/app.json
 
+# Локальная среда и секреты (шаблон — `.env.example`)
+.env
+.env.local
+.env.*.local
+
 # Системные файлы
 .DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
-
-# Корзина Obsidian
-.trash/
