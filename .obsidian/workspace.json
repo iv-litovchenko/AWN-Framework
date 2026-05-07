@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assistant.Ai/Area.node.md",
+                "file": "README.fix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Area.node"
+              "title": "README.fix"
             }
           }
         ]
@@ -185,12 +185,12 @@
   },
   "active": "2d2bff7e4542336f",
   "lastOpenFiles": [
+    "Assistant.Ai/Area.node.md",
     "AGENTS.NODES.md.sb-ab418511-dm5V0Q",
     "Inbox/Index.node.md",
     "Assistant.Ai/Nodes/GitCommit.node.md",
     "Assistant.Ai/Nodes/GitPush.node.md",
     "Assistant.Ai/Nodes/GitPull.node.md",
-    "Assistant.Ai/Area.node.md",
     "README.fix.md",
     "Domains/Index.node.md",
     "AGENTS.NODES.md",
@@ -220,7 +220,6 @@
     "Inbox/a42c834d72128b4218460f0388edd565/tools/voice_response.ogg",
     "Inbox/spravky_site/html/spravky.ru_services_spravka-pnd-i-nd-003.html",
     "Inbox/spravky_site/html/spravky.ru_services_spravka-ot-psihiatra-i-narkologa.html",
-    "Inbox/spravky_site/html/spravky.ru_services_spravka-dlya-zabega.html",
     "Inbox/knowledge/images/tasks-medknizhki-v2.jpg",
     "Inbox/knowledge/images/seo-keywords-target-queries.jpg",
     "Inbox/knowledge/images/menu-bad-readability.jpg",
