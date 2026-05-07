@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.fix.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.fix.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +17,9 @@
         <entry file="file://$PROJECT_DIR$/README.fix.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1877" />
+              <first_editor relative-caret-position="510">
+                <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -86,9 +89,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="25" />
-    <option name="width" value="1660" />
-    <option name="height" value="955" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -96,6 +98,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,7 +110,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,20 +241,8 @@
       <workItem from="1778078787171" duration="714000" />
       <workItem from="1778093256223" duration="734000" />
       <workItem from="1778148443570" duration="670000" />
-    </task>
-    <task id="LOCAL-00244" summary="--- Вторая версия ---">
-      <created>1778004539534</created>
-      <option name="number" value="00244" />
-      <option name="presentableId" value="LOCAL-00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1778004539534</updated>
-    </task>
-    <task id="LOCAL-00245" summary="--- Вторая версия ---">
-      <created>1778004900659</created>
-      <option name="number" value="00245" />
-      <option name="presentableId" value="LOCAL-00245" />
-      <option name="project" value="LOCAL" />
-      <updated>1778004900660</updated>
+      <workItem from="1778181164540" duration="62000" />
+      <workItem from="1778181606803" duration="244000" />
     </task>
     <task id="LOCAL-00246" summary="--- Вторая версия ---">
       <created>1778005273235</created>
@@ -583,16 +573,30 @@
       <option name="project" value="LOCAL" />
       <updated>1778149599561</updated>
     </task>
-    <option name="localTasksCounter" value="293" />
+    <task id="LOCAL-00293" summary="--- Вторая версия ---">
+      <created>1778181219730</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1778181219731</updated>
+    </task>
+    <task id="LOCAL-00294" summary="--- Вторая версия ---">
+      <created>1778181655908</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1778181655908</updated>
+    </task>
+    <option name="localTasksCounter" value="295" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118601000" />
+    <option name="totallyTimeSpent" value="118907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37301588" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3815629" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -879,7 +883,9 @@
     <entry file="file://$PROJECT_DIR$/README.fix.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1877" />
+          <first_editor relative-caret-position="510">
+            <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
