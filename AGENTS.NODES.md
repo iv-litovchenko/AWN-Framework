@@ -57,6 +57,11 @@
 | active | 30        | `Assistant.Ai/Cron/DailyHealthCheck.node.md` | состояние системы, проверка состояния системы, ежедневный отчёт |
 | active | 52        | `Assistant.Ai/Nodes/GitPull.node.md` | git pull, получить изменения, подтянуть репозиторий, обновить с remote, синхронизация с origin |
 | active | 53        | `Assistant.Ai/Nodes/GitPush.node.md` | git push, сохранить изменения, отправить изменения, сохранить в git, закоммитить и отправить, запушить |
+| draft | 45        | `Assistant.Ai/Nodes/DeviceControl/Index.node.md` | управление устройствами, device control, компьютер телефон сервер, удалённое управление, devicecontrol |
+| draft | 45        | `Assistant.Ai/Nodes/DeviceControl/ComputerControl.node.md` | управление компьютером, компьютер, macos, windows, linux desktop |
+| draft | 45        | `Assistant.Ai/Nodes/DeviceControl/PhoneControl.node.md` | управление телефоном, телефон, смартфон, android, ios |
+| draft | 45        | `Assistant.Ai/Nodes/DeviceControl/ServerControl.node.md` | управление сервером, сервер, ssh, vps, деплой |
+| draft | 45        | `Assistant.Ai/Nodes/DeviceControl/SmartHomeControl.node.md` | управление умным домом, умный дом, smart home, home assistant, homekit |
 
 ---
 
