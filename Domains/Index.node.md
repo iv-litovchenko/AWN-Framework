@@ -39,11 +39,11 @@ Domains/ИмяДомена/
 
 ### Соглашения по именам файлов
 
-| Папка | Формат имени | Пример |
-|-------|-------------|--------|
-| `Notes/` | `НазваниеТемы.md` (CamelCase) | `Verbs.md`, `PastTense.md` |
+| Папка     | Формат имени              | Пример                         |
+| --------- | ------------------------- | ------------------------------ |
+| `Notes/`  | `НазваниеТемы.md`         | `Verbs.md`, `PastTense.md`     |
 | `Assets/` | `YYYY-MM-DD-описание.ext` | `2026-05-04-grammar-unit3.pdf` |
-| `Memory/` | `YYYY-MM-DD.memory.md` | `2026-05-04.memory.md` |
+| `Memory/` | `YYYY-MM-DD.memory.md`    | `2026-05-04.memory.md`         |
 
 ### Что такое Notes, Memory и Assets
 
