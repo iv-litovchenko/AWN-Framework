@@ -9,9 +9,9 @@ AWN-STATUS: active
 AWN-MEMORY: external
 AWN-AUTOMATIZATION: false
 AWN-CATEGORY: system
-AWN-VERSION: 0.1.1
+AWN-VERSION: 0.1.2
 AWN-CREATED: 2026-05-06
-AWN-UPDATED: 2026-05-06
+AWN-UPDATED: 2026-05-07
 ---
 
 # Inbox — Index
@@ -25,11 +25,14 @@ AWN-UPDATED: 2026-05-06
 
 **По умолчанию** — всё, что скидывается без явного указания куда:
 
+Быстрые входящие заметки (quick notes) по умолчанию сохраняются в `Inbox/Notes/`.
+
 1. Изображения → `Inbox/Assets/YYYY-MM-DD-описание.jpg` + `*.metadata.md`
 2. Тексты/ссылки → `Inbox/Notes/YYYY-MM-DD-описание.md`
 3. Голосовые → транскрибируется → `Inbox/Notes/YYYY-MM-DD-описание.md`
 
 **С явным указанием** — обход Inbox:
+
 - «Это в EnglishLearning» → сразу в `Domains/EnglishLearning/`
 - «Сохрани в задачи» → в `Domains/Tasks/` (когда создашь)
 - «Временно сюда» → в `Inbox/Temp/`
@@ -38,15 +41,15 @@ AWN-UPDATED: 2026-05-06
 
 ## Формат файлов в Inbox
 
-| Тип         | Папка     | Имя                           | Sidecar         |
-| ----------- | --------- | ----------------------------- | --------------- |
-| Изображения | `Assets/` | `YYYY-MM-DD-описание.ext`     | `*.metadata.md` |
-| Документы   | `Assets/` | `YYYY-MM-DD-описание.ext`     | `*.metadata.md` |
-| Тексты      | `Notes/`  | `YYYY-MM-DD-описание.md`      | —               |
-| Идеи        | `Notes/`  | `YYYY-MM-DD-идея-название.md` | —               |
-| Ссылки      | `Notes/`  | `YYYY-MM-DD-ссылки.md`        | —               |
-| Другое      | `Notes/`  | `YYYY-MM-DD-другое.md`        | —               |
-| Временное   | `Temp/`   | `YYYY-MM-DD-описание.*`       | для бинарников при необходимости `*.metadata.md` |
+| Тип         | Папка     | Имя                           | Sidecar                              |
+| ----------- | --------- | ----------------------------- | ------------------------------------ |
+| Изображения | `Assets/` | `YYYY-MM-DD-описание.ext`     | `*.metadata.md`                      |
+| Документы   | `Assets/` | `YYYY-MM-DD-описание.ext`     | `*.metadata.md`                      |
+| Тексты      | `Notes/`  | `YYYY-MM-DD-описание.md`      | —                                    |
+| Идеи        | `Notes/`  | `YYYY-MM-DD-идея-название.md` | —                                    |
+| Ссылки      | `Notes/`  | `YYYY-MM-DD-ссылки.md`        | —                                    |
+| Другое      | `Notes/`  | `YYYY-MM-DD-другое.md`        | —                                    |
+| Временное   | `Temp/`   | `YYYY-MM-DD-описание.*`       | при необходимости `*.metadata.md`    |
 
 ---
 
