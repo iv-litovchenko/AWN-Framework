@@ -1,10 +1,17 @@
 ---
-AWN-TYPE: "NODE/AREA"
+AWN-TYPE: NODE/SPACE
 AWN-TITLE: Area — AwnFramework
 AWN-DESC: "Служебная область: идеи, черновики спецификации и экспериментальные ноды фреймворка AWN; не реестр рабочих нод vault."
 AWN-LOAD: on_demand
 AWN-PRIORITY: 75
-AWN-TRIGGERS: [awnframework, AwnFramework, идеи, черновик, спецификация, .awn-framework, фреймворк]
+AWN-TRIGGERS:
+  - awnframework
+  - AwnFramework
+  - идеи
+  - черновик
+  - спецификация
+  - .awn-framework
+  - фреймворк
 AWN-STATUS: active
 AWN-MEMORY: none
 AWN-AUTOMATIZATION: false
@@ -18,13 +25,14 @@ AWN-UPDATED: 2026-05-05
 # Area — AwnFramework
 
 > [!info] О файле
-> Нода (`*.node.md`, `NODE/AREA`): оболочка папки `AwnFramework/`. Здесь хранятся материалы про структуру и развитие AWN (в т.ч. `ideas/` по моделям, `v1/`, `doc/`, `other/`), а не операционные ноды основного vault.
+> Оболочка папки `AwnFramework/`. Здесь хранятся материалы про структуру и развитие AWN (в т.ч. `ideas/` по моделям, `v1/`, `v2/`, `doc/`, `other/`), а не операционные ноды основного vault.
 
 ## Назначение
 
 - Черновики и варианты спецификации (см. корневой `README.md`, раздел про `.awn-framework`)
 - Экспериментальные ноды и идеи от разных ИИ в `ideas/`
 - Версионные снимки и примеры в `v1/`
+- Версионные снимки и примеры в `v2/`
 
 ## Правила
 
