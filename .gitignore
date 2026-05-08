@@ -8,6 +8,9 @@
 .env.local
 .env.*.local
 
+# Временная папка генерации Excalidraw (node_modules)
+tmp-excalidraw-gen/
+
 # Системные файлы
 .DS_Store
 .DS_Store?
