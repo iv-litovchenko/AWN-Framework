@@ -5,5 +5,9 @@
   "obsidian-style-settings",
   "dataview",
   "calendar-bases",
-  "kanban-bases-view"
+  "kanban-bases-view",
+  "obsidian-excalidraw-plugin",
+  "obsidian-chartsview-plugin",
+  "infranodus-graph-view",
+  "obsidian-vega"
 ]

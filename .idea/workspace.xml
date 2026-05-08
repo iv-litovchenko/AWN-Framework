@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="">
+    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="--- Вторая версия ---">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.fix.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.fix.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/community-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboards/Area.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboards/Area.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboards/Home.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboards/Home.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domains/Collections/Index.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Domains/Collections/Index.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domains/EnglishLearning/Index.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Domains/EnglishLearning/Index.node.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +19,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.fix.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Chats/_Index.node.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="510">
-                <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+              <first_editor relative-caret-position="555">
+                <caret line="37" selection-start-line="37" selection-end-line="37" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HEARTBEAT.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret selection-end-line="33" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v3/HEARTBEAT.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="495">
+                <caret line="33" selection-start-line="33" selection-end-line="33" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Core/MetadataFiles.node.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -85,6 +127,8 @@
         <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/README.fix.md" />
         <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/AGENTS.NODES.md" />
         <option value="$PROJECT_DIR$/AGENTS.NODES.md" />
+        <option value="$PROJECT_DIR$/v3/Awn.Full.md" />
+        <option value="$PROJECT_DIR$/v3/HEARTBEAT.md" />
       </list>
     </option>
   </component>
@@ -242,84 +286,14 @@
       <workItem from="1778093256223" duration="734000" />
       <workItem from="1778148443570" duration="670000" />
       <workItem from="1778181164540" duration="62000" />
-      <workItem from="1778181606803" duration="244000" />
-    </task>
-    <task id="LOCAL-00246" summary="--- Вторая версия ---">
-      <created>1778005273235</created>
-      <option name="number" value="00246" />
-      <option name="presentableId" value="LOCAL-00246" />
-      <option name="project" value="LOCAL" />
-      <updated>1778005273235</updated>
-    </task>
-    <task id="LOCAL-00247" summary="--- Вторая версия ---">
-      <created>1778005891168</created>
-      <option name="number" value="00247" />
-      <option name="presentableId" value="LOCAL-00247" />
-      <option name="project" value="LOCAL" />
-      <updated>1778005891168</updated>
-    </task>
-    <task id="LOCAL-00248" summary="--- Вторая версия ---">
-      <created>1778008523553</created>
-      <option name="number" value="00248" />
-      <option name="presentableId" value="LOCAL-00248" />
-      <option name="project" value="LOCAL" />
-      <updated>1778008523554</updated>
-    </task>
-    <task id="LOCAL-00249" summary="--- Вторая версия ---">
-      <created>1778008672997</created>
-      <option name="number" value="00249" />
-      <option name="presentableId" value="LOCAL-00249" />
-      <option name="project" value="LOCAL" />
-      <updated>1778008672997</updated>
-    </task>
-    <task id="LOCAL-00250" summary="--- Вторая версия ---">
-      <created>1778008982352</created>
-      <option name="number" value="00250" />
-      <option name="presentableId" value="LOCAL-00250" />
-      <option name="project" value="LOCAL" />
-      <updated>1778008982352</updated>
-    </task>
-    <task id="LOCAL-00251" summary="--- Вторая версия ---">
-      <created>1778009557973</created>
-      <option name="number" value="00251" />
-      <option name="presentableId" value="LOCAL-00251" />
-      <option name="project" value="LOCAL" />
-      <updated>1778009557973</updated>
-    </task>
-    <task id="LOCAL-00252" summary="--- Вторая версия ---">
-      <created>1778010564619</created>
-      <option name="number" value="00252" />
-      <option name="presentableId" value="LOCAL-00252" />
-      <option name="project" value="LOCAL" />
-      <updated>1778010564619</updated>
-    </task>
-    <task id="LOCAL-00253" summary="--- Вторая версия ---">
-      <created>1778011213188</created>
-      <option name="number" value="00253" />
-      <option name="presentableId" value="LOCAL-00253" />
-      <option name="project" value="LOCAL" />
-      <updated>1778011213188</updated>
-    </task>
-    <task id="LOCAL-00254" summary="--- Вторая версия ---">
-      <created>1778011491172</created>
-      <option name="number" value="00254" />
-      <option name="presentableId" value="LOCAL-00254" />
-      <option name="project" value="LOCAL" />
-      <updated>1778011491172</updated>
-    </task>
-    <task id="LOCAL-00255" summary="--- Вторая версия ---">
-      <created>1778011591288</created>
-      <option name="number" value="00255" />
-      <option name="presentableId" value="LOCAL-00255" />
-      <option name="project" value="LOCAL" />
-      <updated>1778011591288</updated>
-    </task>
-    <task id="LOCAL-00256" summary="--- Вторая версия ---">
-      <created>1778012010271</created>
-      <option name="number" value="00256" />
-      <option name="presentableId" value="LOCAL-00256" />
-      <option name="project" value="LOCAL" />
-      <updated>1778012010272</updated>
+      <workItem from="1778181606803" duration="577000" />
+      <workItem from="1778184499313" duration="1632000" />
+      <workItem from="1778232054994" duration="696000" />
+      <workItem from="1778239965573" duration="1562000" />
+      <workItem from="1778242564952" duration="1145000" />
+      <workItem from="1778245734395" duration="1326000" />
+      <workItem from="1778252999102" duration="1805000" />
+      <workItem from="1778255296479" duration="567000" />
     </task>
     <task id="LOCAL-00257" summary="--- Вторая версия ---">
       <created>1778012750774</created>
@@ -587,16 +561,93 @@
       <option name="project" value="LOCAL" />
       <updated>1778181655908</updated>
     </task>
-    <option name="localTasksCounter" value="295" />
+    <task id="LOCAL-00295" summary="--- Вторая версия ---">
+      <created>1778181864205</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
+      <option name="project" value="LOCAL" />
+      <updated>1778181864205</updated>
+    </task>
+    <task id="LOCAL-00296" summary="--- Вторая версия ---">
+      <created>1778184538604</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
+      <option name="project" value="LOCAL" />
+      <updated>1778184538605</updated>
+    </task>
+    <task id="LOCAL-00297" summary="--- Третья версия ---">
+      <created>1778240449345</created>
+      <option name="number" value="00297" />
+      <option name="presentableId" value="LOCAL-00297" />
+      <option name="project" value="LOCAL" />
+      <updated>1778240449347</updated>
+    </task>
+    <task id="LOCAL-00298" summary="--- Вторая версия ---">
+      <created>1778242631364</created>
+      <option name="number" value="00298" />
+      <option name="presentableId" value="LOCAL-00298" />
+      <option name="project" value="LOCAL" />
+      <updated>1778242631366</updated>
+    </task>
+    <task id="LOCAL-00299" summary="--- Вторая версия ---">
+      <created>1778243049584</created>
+      <option name="number" value="00299" />
+      <option name="presentableId" value="LOCAL-00299" />
+      <option name="project" value="LOCAL" />
+      <updated>1778243049584</updated>
+    </task>
+    <task id="LOCAL-00300" summary="--- Вторая версия ---">
+      <created>1778246299291</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1778246299292</updated>
+    </task>
+    <task id="LOCAL-00301" summary="--- 3 версия ---">
+      <created>1778253464628</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1778253464629</updated>
+    </task>
+    <task id="LOCAL-00302" summary="--- 3 версия ---">
+      <created>1778254464489</created>
+      <option name="number" value="00302" />
+      <option name="presentableId" value="LOCAL-00302" />
+      <option name="project" value="LOCAL" />
+      <updated>1778254464489</updated>
+    </task>
+    <task id="LOCAL-00303" summary="--- 3 версия ---">
+      <created>1778254501643</created>
+      <option name="number" value="00303" />
+      <option name="presentableId" value="LOCAL-00303" />
+      <option name="project" value="LOCAL" />
+      <updated>1778254501643</updated>
+    </task>
+    <task id="LOCAL-00304" summary="--- Вторая версия ---">
+      <created>1778254768610</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
+      <option name="project" value="LOCAL" />
+      <updated>1778254768610</updated>
+    </task>
+    <task id="LOCAL-00305" summary="--- Вторая версия ---">
+      <created>1778255363171</created>
+      <option name="number" value="00305" />
+      <option name="presentableId" value="LOCAL-00305" />
+      <option name="project" value="LOCAL" />
+      <updated>1778255363172</updated>
+    </task>
+    <option name="localTasksCounter" value="306" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118907000" />
+    <option name="totallyTimeSpent" value="127973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3815629" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41086692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -608,7 +659,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.29795918" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.29795918" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.26734695" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -665,72 +716,12 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Сбор идей" />
     <MESSAGE value="-- Закончил работу над первое версией --" />
+    <MESSAGE value="--- Третья версия ---" />
+    <MESSAGE value="--- 3 версия ---" />
     <MESSAGE value="--- Вторая версия ---" />
     <option name="LAST_COMMIT_MESSAGE" value="--- Вторая версия ---" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AwnFramework/v1/AGENTS.NODES.v1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-368" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v2/AGENTS.SETTINGS-v2.md" />
-    <entry file="file://$PROJECT_DIR$/v2/Assistant.Ai/Nodes/MediaMetadataSidecar.node.md" />
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/MemoryFiles.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/MetadataFiles.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v2/Templates/Area.template.md" />
-    <entry file="file://$PROJECT_DIR$/v2/Templates/Index.template.md" />
-    <entry file="file://$PROJECT_DIR$/v2/Templates/Note.template.md" />
-    <entry file="file://$PROJECT_DIR$/v2/Templates/Solo.template.md" />
-    <entry file="file://$PROJECT_DIR$/AwnFramework/doc/8da24847-5bc2-4ee0-9d87-33168723d63c.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/doc/16afb84c-6f96-4a1e-8519-e79421bd1d27.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/doc/3593354e-2c7d-45c9-859f-8adc1b3f7477.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/doc/a6917985-53fa-4c50-b577-f5f450d673ec.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/doc/e9cc3257-87c2-42c4-aba2-ed12f0bd7cbd.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/doc/e107652f-6f4d-422b-bf39-c90d5a432859.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/doc/fda02247-be70-4e6e-8a89-23944be3dfe6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/ideas/chatgpt/AGENTS.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Notes/Verbs.md" />
     <entry file="file://$PROJECT_DIR$/AwnFramework/doc/Preview.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -809,14 +800,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Area.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -870,21 +853,185 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AGENTS.NODES.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="591">
-            <caret line="72" column="3" selection-start-line="72" selection-start-column="3" selection-end-line="72" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.fix.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="510">
             <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Templates/Nodes/Area.template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="35" selection-start-line="35" selection-end-line="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Templates/Nodes/Index.template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Templates/Records/Memory.template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Templates/Records/Metadata.template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Templates/Records/Note.template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Templates/Nodes/Solo.template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AGENTS.NODES.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1215">
+            <caret line="81" selection-start-line="81" selection-end-line="81" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Area.node.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/Context.Greeting.node.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/Context.SmartTriggering.node.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/GitPull.node.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/GitPush.node.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/MemoryFiles.node.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/MetadataFiles.node.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/RandomAnecdote.node.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Users.node.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Chats/_Index.node.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="555">
+            <caret line="37" selection-start-line="37" selection-end-line="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HEARTBEAT.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Core/MetadataFiles.node.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3/HEARTBEAT.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="495">
+            <caret line="33" selection-start-line="33" selection-end-line="33" />
           </first_editor>
           <second_editor />
         </state>
