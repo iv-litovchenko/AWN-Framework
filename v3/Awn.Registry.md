@@ -7,8 +7,8 @@
 |`AWN-STATUS`|`AWN-PRIORITY`|Путь к ноде|`AWN-TRIGGERS`|Краткое описание|
 |---|---|---|---|---|
 |disabled|20|`Assistant.Ai/Nodes/Context.SmartTriggering.node.md`|smart triggering, уровни строгости, триггеры, подсказки нод|Правила сопоставления триггеров: три уровня строгости и активное предложение нод пользователю.|
-|active|20|`Assistant.Ai/Nodes/MemoryFiles.node.md`|memory.md, файл памяти, внешняя память, memory record|Контракт файлов *.memory.md: что это, обязательные поля шапки, как создавать и обновлять.|
-|active|20|`Assistant.Ai/Nodes/MetadataFiles.node.md`|metadata.md, sidecar, метаданные медиа, описание файла, бинарник|Контракт файлов *.metadata.md: что это, правило имени, поля шапки, примеры.|
+|active|20|`Assistant.Ai/Core/MemoryFiles.node.md`|memory.md, файл памяти, внешняя память, memory record|Контракт файлов *.memory.md: что это, обязательные поля шапки, как создавать и обновлять.|
+|active|20|`Assistant.Ai/Core/MetadataFiles.node.md`|metadata.md, sidecar, метаданные медиа, описание файла, бинарник|Контракт файлов *.metadata.md: что это, правило имени, поля шапки, примеры.|
 |disabled|25|`Assistant.Ai/Nodes/Context.Greeting.node.md`|приветствие, привет, старт сессии|Сценарий приветствия пользователя при старте полной сессии.|
 |active|25|`Assistant.Ai/Rules.node.md`|rules, правила, запреты|Правила поведения ассистента: что можно, чего нельзя, форматы ответа, запреты.|
 |active|30|`Assistant.Ai/Agent.node.md`|assistant, ассистент, ты, agent|Идентичность ассистента (агента): имя, характер, принципы, стиль общения.|
@@ -18,7 +18,7 @@
 
 |`AWN-STATUS`|`AWN-PRIORITY`|Путь к ноде|`AWN-TRIGGERS`|Краткое описание|
 |---|---|---|---|---|
-|active|20|`Assistant.Ai/NodeManagement.node.md`|node, нода, ноды, registry, реестр, управление, management, create, создать, update, обновить, синхронизация, регистр, index|Инструкции по созданию, редактированию, синхронизации и управлению нодами AWN-Framework|
+|active|20|`Assistant.Ai/Core/Management.node.md`|node, нода, ноды, registry, реестр, управление, management, create, создать, update, обновить, синхронизация, регистр, index|Инструкции по созданию, редактированию, синхронизации и управлению нодами AWN-Framework|
 |active|20|`Assistant.Ai/_Index.node.md`|assistant, ассистент, агент, пользователь, область ассистента|Область, где живёт ассистент, информация о пользователе и основное ядро системы: кто он, кто его пользователь, по каким правилам работает.|
 |active|25|`Assistant.Ai/Cron/_Index.node.md`|cron, расписание, автоматизация, периодические задачи, по расписанию|Папка для нод, которые запускаются по расписанию.|
 |disabled|30|`Assistant.Ai/Core/_Index.node.md`|core, скрипты, автоматизация, утилиты|Системные скрипты и утилиты ассистента: автоматизации, вспомогательные инструменты.|

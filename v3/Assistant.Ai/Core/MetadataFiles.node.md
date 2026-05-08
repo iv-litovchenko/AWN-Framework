@@ -1,14 +1,19 @@
 ---
-AWN-TYPE: "NODE/SOLO"
+AWN-TYPE: NODE/SOLO
 AWN-TITLE: MetadataFiles — контракт *.metadata.md
 AWN-DESC: "Контракт файлов *.metadata.md: что это, правило имени, поля шапки, примеры."
-AWN-LOAD: start
+AWN-LOAD: on_demand
 AWN-PRIORITY: 20
-AWN-TRIGGERS: [metadata.md, sidecar, метаданные медиа, описание файла, бинарник]
+AWN-TRIGGERS:
+  - metadata.md
+  - sidecar
+  - метаданные медиа
+  - описание файла
+  - бинарник
 AWN-STATUS: active
 AWN-MEMORY: none
 AWN-AUTOMATIZATION: false
-AWN-CRON: "0 9 * * *"
+AWN-CRON: 0 9 * * *
 AWN-CATEGORY: system
 AWN-VERSION: 1.1.2
 AWN-CREATED: 2026-05-05
