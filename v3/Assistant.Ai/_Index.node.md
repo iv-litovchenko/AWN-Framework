@@ -1,5 +1,5 @@
 ---
-AWN-TYPE: NODE/AREA
+AWN-TYPE: NODE/SPACE
 AWN-TITLE: Area — Assistant
 AWN-DESC: "Область, где живёт ассистент, информация о пользователе и основное ядро системы: кто он, кто его пользователь, по каким правилам работает."
 AWN-LOAD: on_demand
