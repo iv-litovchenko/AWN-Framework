@@ -1,0 +1,6 @@
+spec_version: "0.2.1"
+collection:
+  name: "mdbase-demo"
+  type_folder: "_types"
+validation:
+  default_level: warn

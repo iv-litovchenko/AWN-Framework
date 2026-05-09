@@ -1,0 +1,60 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.inFolder("v3/Tests/mdbase-demo/tasks")
+properties:
+  title:
+    displayName: Title
+  status:
+    displayName: Status
+  priority:
+    displayName: Priority
+  assignee:
+    displayName: Assignee
+  due_date:
+    displayName: Due
+  tags:
+    displayName: Tags
+  file.path:
+    displayName: Path
+views:
+  - type: table
+    name: "Tasks: all"
+    order:
+      - title
+      - status
+      - priority
+      - assignee
+      - due_date
+      - tags
+      - file.path
+    sort:
+      - property: due_date
+        direction: ASC
+  - type: table
+    name: "Tasks: active"
+    filters:
+      and:
+        - status != "done"
+    order:
+      - title
+      - status
+      - priority
+      - assignee
+      - due_date
+    sort:
+      - property: priority
+        direction: DESC
+      - property: due_date
+        direction: ASC
+  - type: table
+    name: "Tasks: grouped"
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - status
+      - title
+      - priority
+      - assignee
+      - due_date

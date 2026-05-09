@@ -1,0 +1,49 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.inFolder("v3/Tests/mdbase-habits-demo/habits")
+properties:
+  title:
+    displayName: Habit
+  frequency:
+    displayName: Frequency
+  streak_days:
+    displayName: Streak
+  active:
+    displayName: Active
+  file.path:
+    displayName: Path
+views:
+  - type: kanban-view
+    name: "Habits: all"
+    order:
+      - title
+      - frequency
+      - streak_days
+      - active
+      - file.path
+    sort:
+      - property: streak_days
+        direction: DESC
+    columnOrders:
+      file.file:
+        - v3/Tests/mdbase-habits-demo/habits/morning-walk.md
+        - v3/Tests/mdbase-habits-demo/habits/read-technical-book.md
+    cardOrders:
+      file.file: {}
+    columnColors:
+      file.file: {}
+  - type: kanban-view
+    name: "Habits: active"
+    filters:
+      and:
+        - active == true
+    order:
+      - title
+      - frequency
+      - streak_days
+    sort:
+      - property: streak_days
+        direction: DESC
+  - type: list
+    name: представление6
