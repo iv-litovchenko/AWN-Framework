@@ -19,10 +19,11 @@
 ## §2. Слои контекста
 
 Архитектурные слои по функции. Не путать с глубиной в дереве (§3). 
-### Слой 1. Clusters, Spaces. Общий контекст и правила области
+### Слой 1. Space. Общий контекст и правила области
 
 - Контейнер. Задаёт границы и правила для всего, что внутри.
-- Файл: `_index.node.md` внутри `space-*/` или `cluster-*/`.
+- Может содержать вложенные Space (группировка областей).
+- Файл: `_index.node.md` внутри `space-*/`.
 - Пример: `awn-spaces/space-finance/_index.node.md`.
 ### Слой 2. Part (части). Самостоятельные объекты
 
@@ -58,8 +59,7 @@ Workflow обработки знаний: **inbox → note → page.**
 | Слой        | Тип     | Файл             | Где живёт                  | Описание                                                   | Родитель                 |
 | ----------- | ------- | ---------------- | -------------------------- | ---------------------------------------------------------- | ------------------------ |
 | 0. Vault    | —       | —                | корень                     | Корень хранилища                                           | — (корень)               |
-| 1. Cluster  | Cluster | `_index.node.md` | `cluster-*/`               | Группа близких пространств                                 | Vault, Cluster           |
-| 1. Space    | Space   | `_index.node.md` | `space-*/`                 | Самостоятельная область знаний                             | Vault, Cluster, Space    |
+| 1. Space    | Space   | `_index.node.md` | `space-*/`                 | Самостоятельная область знаний (может вкладывать Space)    | Vault, Space             |
 | 2. Part     | Part    | `*.node.md`      | внутри Space               | Атомарная самостоятельная сущность                         | Space                    |
 | 3. Memory   | Note    | `*.note.md`      | `inbox/` или `notes/`      | Сырая входящая заметка (поток времени)                     | Space                    |
 | 3. Memory   | Page    | `*.page.md`      | `pages/`                   | Переработанное знание (страница книги)                     | Space                    |
@@ -71,7 +71,8 @@ Workflow обработки знаний: **inbox → note → page.**
 
 **Правила:**
 
-- Cluster и Space различаются префиксом папки (`cluster-*/` vs `space-*/`), файл-якорь у обоих один — `_index.node.md`.
+- Space — единственный тип-контейнер. Папка всегда `space-*/`, файл-якорь — `_index.node.md`.
+- Space может содержать вложенные Space (группировки), либо контент (Part, Memory, View, External).
 - Volume применим только к Space и Part: `<имя>.node.volume.md` или `_index.node.volume.md`.
 - Sidecar именуется по полному имени родителя: `photo.jpg.sidecar.md`, `lecture.mp4.sidecar.md`.
 - External — всё, что не имеет распознаваемого типа в суффиксе. В граф нод не входит.
@@ -87,7 +88,7 @@ Workflow обработки знаний: **inbox → note → page.**
 | Поле         | Тип | Значение |
 | ------------ | --- | -------- |
 | `awn-id`     | str | Стабильный идентификатор ноды. Не менять после создания. Формат: ULID или UUID v4/v7. |
-| `awn-type`   | str | Тип по §3: `Cluster`, `Space`, `Part`, `Note`, `Page`, `Row`, `Sidecar`, `Volume`, `View`. |
+| `awn-type`   | str | Тип по §3: `Space`, `Part`, `Note`, `Page`, `Row`, `Sidecar`, `Volume`, `View`. |
 | `awn-status` | str | Жизненный цикл: `draft` \| `active` \| `archived` \| `deprecated`. |
 
 ### Опциональные (по мере необходимости)
@@ -117,14 +118,14 @@ awn-parent: "01JCPARENT..."
 
 ## §5. Структура папок ноды
 
-Папки создаются по мере необходимости. Корневое рабочее дерево для кластеров и областей — **`awn-spaces/`** (не засорять корень Vault; префикс `awn` отделяет фреймворк от стороннего кода в workspace).
+Папки создаются по мере необходимости. Корневое рабочее дерево для всех областей — **`awn-spaces/`** (не засорять корень Vault; префикс `awn` отделяет фреймворк от стороннего кода в workspace).
 
-### Типичное дерево Cluster / Space
+### Типичное дерево Space
 
 ```
 awn-spaces/
-  cluster-*/_index.node.md          # или space-*/_index.node.md
-  cluster-*/space-*/_index.node.md
+  space-*/_index.node.md
+  space-*/space-*/_index.node.md   # вложенный Space (группировка)
   …
 ```
 
@@ -168,12 +169,12 @@ config/
 ### Пример путей
 
 ```
-awn-spaces/cluster-a/_index.node.md
-awn-spaces/cluster-a/space-a/_index.node.md
-awn-spaces/cluster-a/space-a/inbox/
-awn-spaces/cluster-a/space-a/pages/
-awn-spaces/cluster-a/space-a/databases/default/
-awn-spaces/cluster-a/space-a/views/tasks/
-awn-spaces/space-1/_index.node.md
-awn-spaces/space-1/notes/
+awn-spaces/space-life/_index.node.md
+awn-spaces/space-life/space-health/_index.node.md
+awn-spaces/space-life/space-health/inbox/
+awn-spaces/space-life/space-health/pages/
+awn-spaces/space-life/space-health/databases/default/
+awn-spaces/space-life/space-health/views/tasks/
+awn-spaces/space-work/_index.node.md
+awn-spaces/space-work/notes/
 ```
