@@ -23,9 +23,9 @@ AWN-UPDATED: 2026-05-07
 # Управление компьютером
 
 > [!info] О файле
-> Нода (`*.node.md`, `NODE/SOLO`): заглушка в папке [[awn-assistant-ai/Nodes/DeviceControl/_Index.node|DeviceControl]].
+> Нода (`*.node.md`, `NODE/SOLO`): заглушка в папке [[awn-assistant-ai/Nodes/DeviceControl/_index.node|DeviceControl]].
 
-Родительский индекс: [[awn-assistant-ai/Nodes/DeviceControl/_Index.node|Index — DeviceControl]].
+Родительский индекс: [[awn-assistant-ai/Nodes/DeviceControl/_index.node|Index — DeviceControl]].
 
 ## Назначение
 

@@ -22,13 +22,13 @@ AWN-MEMORY: external
 # Ежедневная проверка состояния системы
 
 > [!info] О файле
-> Нода с расписанием (8:30 каждый день) и ручным вызовом по триггерам. Результат каждого прогона — не отдельный «отчёт .md», а запись **`*.memory.md`** по контракту из `MemoryFiles.node.md`.
+> Нода с расписанием (8:30 каждый день) и ручным вызовом по триггерам. Результат каждого прогона — не отдельный «отчёт .md», а запись **`*.memory.md`** по контракту из `memory-files.node.md`.
 
 ## Куда пишем память
 
 - Каталог (от **корня проекта**): `awn-assistant-ai/Cron/Memory/`
 - Имя файла: **`YYYY-MM-DD.memory.md`** (один файл на дату прогона).
-- В шапке памяти: `AWN-TYPE: "RECORD/MEMORY"`, `AWN-OWNER: awn-assistant-ai/Cron/DailyHealthCheck.node.md`, `AWN-TITLE` — например «Состояние системы — YYYY-MM-DD».
+- В шапке памяти: `AWN-TYPE: "RECORD/MEMORY"`, `AWN-OWNER: awn-assistant-ai/Cron/daily-health-check.node.md`, `AWN-TITLE` — например «Состояние системы — YYYY-MM-DD».
 
 ## Что фиксировать в теле записи
 

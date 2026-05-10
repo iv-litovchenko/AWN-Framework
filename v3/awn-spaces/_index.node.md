@@ -49,7 +49,7 @@ Domains/ИмяДомена/
 
 ### Что такое Notes, Memory и Assets
 
-**`Notes/`** — справочник и конспекты. Один файл на тему, редактируется и пополняется со временем. Агент не подгружает автоматически — доступны через Dataview-блок в `Index.node.md` или по явному запросу. Шаблон: `awn-templates/Memory/Note.template.md`.
+**`Notes/`** — справочник и конспекты. Один файл на тему, редактируется и пополняется со временем. Агент не подгружает автоматически — доступны через Dataview-блок в `Index.node.md` или по явному запросу. Шаблон: `awn-templates/Memory/note.template.md`.
 
 > Используй если: тема изучается долго и знания накапливаются в одном месте.
 > Пример: `Verbs.md` — конспект по глаголам, который пополняешь по мере изучения.
@@ -72,13 +72,13 @@ Domains/ИмяДомена/
 ## Как создать новый домен
 
 1. Создать подпапку `Domains/ИмяДомена/` (CamelCase)
-2. Создать `Index.node.md` на основе шаблона `awn-templates/Index.template.md`; задать `AWN-CATEGORY` (slug из `Categories.node.md`)
+2. Создать `Index.node.md` на основе шаблона `awn-templates/index.template.md`; задать `AWN-CATEGORY` (slug из `categories.node.md`)
 3. Создать нужные подпапки по задаче (обычно: `Notes/`, `Assets/`, `Memory/`; опционально: `Nodes/`, `Dashboards/`, `templates/`)
 4. Зарегистрировать домен в таблице ниже и в `AGENTS.NODES.md`
 
 ## Справочник категорий
 
-Полный список — в `Domains/Categories.node.md`.
+Полный список — в `Domains/categories.node.md`.
 
 ## Реестр доменов
 

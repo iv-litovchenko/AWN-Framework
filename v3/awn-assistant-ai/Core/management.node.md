@@ -26,7 +26,7 @@ AWN-UPDATED: 2026-05-08
 | Тип | Паттерн имени | Когда использовать |
 |-----|---------------|-------------------|
 | `NODE/SOLO` | `Имя.node.md` | Одиночная нода — правило, навык, контекст |
-| `NODE/SPACE` | `_Index.node.md` | Точка сборки области, оркестратор папки |
+| `NODE/SPACE` | `_index.node.md` | Точка сборки области, оркестратор папки |
 
 ### Шаг 2: Написать YAML-шапку
 
@@ -137,11 +137,11 @@ TAGS: [тег1, тег2]
 Готовые заготовки для каждого типа ноды — в папке [awn-templates/](awn-templates/):
 
 - [Solo.template.md](awn-templates/Nodes/Solo.template.md) — одиночная нода (`NODE/SOLO`)
-- [Index.template.md](awn-templates/Nodes/Index.template.md) — оркестратор папки (`NODE/INDEX`)
+- [index.template.md](awn-templates/Nodes/index.template.md) — оркестратор папки (`NODE/INDEX`)
 - [Area.template.md](awn-templates/Nodes/Area.template.md) — оболочка области (`NODE/AREA`)
-- [Memory.template.md](awn-templates/Records/Memory.template.md) — файл внешней памяти (`*.memory.md`)
-- [Metadata.template.md](awn-templates/Records/Metadata.template.md) — sidecar бинарного файла (`*.metadata.md`)
-- [Note.template.md](awn-templates/Records/Note.template.md) — заметка домена (`Notes/`)
+- [memory.template.md](awn-templates/Records/memory.template.md) — файл внешней памяти (`*.memory.md`)
+- [metadata.template.md](awn-templates/Records/metadata.template.md) — sidecar бинарного файла (`*.metadata.md`)
+- [note.template.md](awn-templates/Records/note.template.md) — заметка домена (`Notes/`)
 
 
 
@@ -173,9 +173,9 @@ TAGS: [тег1, тег2]
 
 **Домены и категории:**
 - Создать новый домен: завести подпапку `Domains/ИмяДомена/`, создать `Index.node.md` (NODE/INDEX) с `AWN-CATEGORY: <slug>`, создать папку `Assets/`, зарегистрировать в `Domains/Index.node.md` и `AGENTS.NODES.md`
-- Добавить категорию: внести новую строку в таблицу `Domains/Categories.node.md`
+- Добавить категорию: внести новую строку в таблицу `Domains/categories.node.md`
 - Удалить / архивировать домен: поставить `AWN-STATUS: archive` в `Index.node.md` домена, убрать из реестра `Domains/Index.node.md` и `AGENTS.NODES.md`
-- Слаг категории (`AWN-CATEGORY`) — берётся из `Domains/Categories.node.md`; дефолт для системных нод — `system`, для остальных — `general`
+- Слаг категории (`AWN-CATEGORY`) — берётся из `Domains/categories.node.md`; дефолт для системных нод — `system`, для остальных — `general`
 
 **Мониторинг состояния:**
 - Проверить актуальность реестра (все ли ноды на месте, нет ли дублей, верны ли пути)

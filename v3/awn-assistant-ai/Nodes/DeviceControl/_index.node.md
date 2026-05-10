@@ -31,10 +31,10 @@ AWN-UPDATED: 2026-05-07
 
 ## Состав
 
-- [[awn-assistant-ai/Nodes/DeviceControl/ComputerControl.node|ComputerControl.node]] — сценарии управления **компьютером**.
-- [[awn-assistant-ai/Nodes/DeviceControl/PhoneControl.node|PhoneControl.node]] — сценарии управления **телефоном**.
-- [[awn-assistant-ai/Nodes/DeviceControl/ServerControl.node|ServerControl.node]] — сценарии управления **сервером**.
-- [[awn-assistant-ai/Nodes/DeviceControl/SmartHomeControl.node|SmartHomeControl.node]] — сценарии управления **умным домом**.
+- [[awn-assistant-ai/Nodes/DeviceControl/computer-control.node|computer-control.node]] — сценарии управления **компьютером**.
+- [[awn-assistant-ai/Nodes/DeviceControl/phone-control.node|phone-control.node]] — сценарии управления **телефоном**.
+- [[awn-assistant-ai/Nodes/DeviceControl/server-control.node|server-control.node]] — сценарии управления **сервером**.
+- [[awn-assistant-ai/Nodes/DeviceControl/smart-home-control.node|smart-home-control.node]] — сценарии управления **умным домом**.
 
 ## Локальные правила
 
