@@ -23,7 +23,7 @@ AWN-UPDATED: 2026-05-07
 # Index — DeviceControl
 
 > [!info] О файле
-> Вход в `Assistant.Ai/Nodes/DeviceControl/`. Что здесь лежит и с какой дочерней нодой работать при запросе про ПК, телефон, сервер или умный дом.
+> Вход в `awn-assistant-ai/Nodes/DeviceControl/`. Что здесь лежит и с какой дочерней нодой работать при запросе про ПК, телефон, сервер или умный дом.
 
 ## Назначение папки
 
@@ -31,10 +31,10 @@ AWN-UPDATED: 2026-05-07
 
 ## Состав
 
-- [[Assistant.Ai/Nodes/DeviceControl/ComputerControl.node|ComputerControl.node]] — сценарии управления **компьютером**.
-- [[Assistant.Ai/Nodes/DeviceControl/PhoneControl.node|PhoneControl.node]] — сценарии управления **телефоном**.
-- [[Assistant.Ai/Nodes/DeviceControl/ServerControl.node|ServerControl.node]] — сценарии управления **сервером**.
-- [[Assistant.Ai/Nodes/DeviceControl/SmartHomeControl.node|SmartHomeControl.node]] — сценарии управления **умным домом**.
+- [[awn-assistant-ai/Nodes/DeviceControl/ComputerControl.node|ComputerControl.node]] — сценарии управления **компьютером**.
+- [[awn-assistant-ai/Nodes/DeviceControl/PhoneControl.node|PhoneControl.node]] — сценарии управления **телефоном**.
+- [[awn-assistant-ai/Nodes/DeviceControl/ServerControl.node|ServerControl.node]] — сценарии управления **сервером**.
+- [[awn-assistant-ai/Nodes/DeviceControl/SmartHomeControl.node|SmartHomeControl.node]] — сценарии управления **умным домом**.
 
 ## Локальные правила
 

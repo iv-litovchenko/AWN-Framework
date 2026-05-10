@@ -2,15 +2,15 @@
 
 Quick command reference for local demo collections:
 
-- `v3/Tests/mdbase-demo`
-- `v3/Tests/mdbase-habits-demo`
+- `v3/awn-tests/mdbase-demo`
+- `v3/awn-tests/mdbase-habits-demo`
 
 ## 0) Run from collection folder
 
 `mdbase` looks for `mdbase.yaml` in the current directory.
 
 ```bash
-cd "v3/Tests/mdbase-demo"
+cd "v3/awn-tests/mdbase-demo"
 ```
 
 ## 1) Validate collection

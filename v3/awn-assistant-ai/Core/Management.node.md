@@ -134,14 +134,14 @@ TAGS: [тег1, тег2]
 
 ### Шаблоны скелетов
 
-Готовые заготовки для каждого типа ноды — в папке [Templates/](Templates/):
+Готовые заготовки для каждого типа ноды — в папке [awn-templates/](awn-templates/):
 
-- [Solo.template.md](Templates/Nodes/Solo.template.md) — одиночная нода (`NODE/SOLO`)
-- [Index.template.md](Templates/Nodes/Index.template.md) — оркестратор папки (`NODE/INDEX`)
-- [Area.template.md](Templates/Nodes/Area.template.md) — оболочка области (`NODE/AREA`)
-- [Memory.template.md](Templates/Records/Memory.template.md) — файл внешней памяти (`*.memory.md`)
-- [Metadata.template.md](Templates/Records/Metadata.template.md) — sidecar бинарного файла (`*.metadata.md`)
-- [Note.template.md](Templates/Records/Note.template.md) — заметка домена (`Notes/`)
+- [Solo.template.md](awn-templates/Nodes/Solo.template.md) — одиночная нода (`NODE/SOLO`)
+- [Index.template.md](awn-templates/Nodes/Index.template.md) — оркестратор папки (`NODE/INDEX`)
+- [Area.template.md](awn-templates/Nodes/Area.template.md) — оболочка области (`NODE/AREA`)
+- [Memory.template.md](awn-templates/Records/Memory.template.md) — файл внешней памяти (`*.memory.md`)
+- [Metadata.template.md](awn-templates/Records/Metadata.template.md) — sidecar бинарного файла (`*.metadata.md`)
+- [Note.template.md](awn-templates/Records/Note.template.md) — заметка домена (`Notes/`)
 
 
 

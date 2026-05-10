@@ -1,7 +1,7 @@
 filters:
   and:
     - file.ext == "md"
-    - file.inFolder("v3/Tests/mdbase-demo/tasks")
+    - file.inFolder("v3/awn-tests/mdbase-demo/tasks")
 properties:
   title:
     displayName: Title

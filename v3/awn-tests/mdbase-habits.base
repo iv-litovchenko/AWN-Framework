@@ -1,7 +1,7 @@
 filters:
   and:
     - file.ext == "md"
-    - file.inFolder("v3/Tests/mdbase-habits-demo/habits")
+    - file.inFolder("v3/awn-tests/mdbase-habits-demo/habits")
 properties:
   title:
     displayName: Habit
@@ -27,8 +27,8 @@ views:
         direction: DESC
     columnOrders:
       file.file:
-        - v3/Tests/mdbase-habits-demo/habits/morning-walk.md
-        - v3/Tests/mdbase-habits-demo/habits/read-technical-book.md
+        - v3/awn-tests/mdbase-habits-demo/habits/morning-walk.md
+        - v3/awn-tests/mdbase-habits-demo/habits/read-technical-book.md
     cardOrders:
       file.file: {}
     columnColors:

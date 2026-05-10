@@ -1,7 +1,7 @@
 filters:
   and:
     - file.ext == "md"
-    - file.inFolder("v3/Tests")
+    - file.inFolder("v3/awn-tests")
 properties:
   type:
     displayName: Type
@@ -36,9 +36,9 @@ views:
     name: All demo notes
     filters:
       or:
-        - file.inFolder("v3/Tests/mdbase-demo/tasks")
-        - file.inFolder("v3/Tests/mdbase-demo/people")
-        - file.inFolder("v3/Tests/mdbase-habits-demo/habits")
+        - file.inFolder("v3/awn-tests/mdbase-demo/tasks")
+        - file.inFolder("v3/awn-tests/mdbase-demo/people")
+        - file.inFolder("v3/awn-tests/mdbase-habits-demo/habits")
     order:
       - type
       - title
@@ -54,7 +54,7 @@ views:
     name: Only tasks
     filters:
       and:
-        - file.inFolder("v3/Tests/mdbase-demo/tasks")
+        - file.inFolder("v3/awn-tests/mdbase-demo/tasks")
     order:
       - title
       - status
@@ -66,7 +66,7 @@ views:
     name: Only people
     filters:
       and:
-        - file.inFolder("v3/Tests/mdbase-demo/people")
+        - file.inFolder("v3/awn-tests/mdbase-demo/people")
     order:
       - full_name
       - team
@@ -77,7 +77,7 @@ views:
     name: Only habits
     filters:
       and:
-        - file.inFolder("v3/Tests/mdbase-habits-demo/habits")
+        - file.inFolder("v3/awn-tests/mdbase-habits-demo/habits")
     order:
       - title
       - frequency
