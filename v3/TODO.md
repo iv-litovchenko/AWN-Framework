@@ -16,12 +16,12 @@ Space (где живёт) - _index.node.md
 
 В море информации пространство (Space) должно быть к чему-то привязано «Якорь» фиксирует контекст и не дает нодам внутри него расплываться. Он определяет границы (Boundary) и правила, по которым ИИ-агент понимает, где он находится: в рабочем проекте или в личном архиве. Контейнер, который задаёт контекст и группирует ноды. Это не просто папка — это _область мышления / namespace_.
 
-- ProjectA/_index.node.md
-- ProjectB/_index.node.md
-- Assistant/_index.node.md
-- NobbyA/_index.node.md
-- NobbyB/_index.node.md
-- NobbyC/_index.node.md
+- space-project-a/_index.node.md
+- space-project-b/_index.node.md
+- space-assistant-ai/_index.node.md
+- space-hobby-a/_index.node.md
+- space-hobby-b/_index.node.md
+- space-hobby-c/_index.node.md
 
 **Слой 2: Entity Layer (Уровень Сущностей - части Space)** Entity (Сущность)  (самостоятельная нода как часть в пространсе)
 
