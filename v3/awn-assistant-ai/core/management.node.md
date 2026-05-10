@@ -136,12 +136,11 @@ TAGS: [тег1, тег2]
 
 Готовые заготовки для каждого типа ноды — в папке [awn-templates/](awn-templates/):
 
-- [Solo.template.md](awn-templates/Nodes/Solo.template.md) — одиночная нода (`NODE/SOLO`)
-- [index.template.md](awn-templates/Nodes/index.template.md) — оркестратор папки (`NODE/INDEX`)
-- [Area.template.md](awn-templates/Nodes/Area.template.md) — оболочка области (`NODE/AREA`)
-- [memory.template.md](awn-templates/Records/memory.template.md) — файл внешней памяти (`*.memory.md`)
-- [metadata.template.md](awn-templates/Records/metadata.template.md) — sidecar бинарного файла (`*.metadata.md`)
-- [note.template.md](awn-templates/Records/note.template.md) — заметка домена (`Notes/`)
+- [nodo.solo.template.md](awn-templates/nodo.solo.template.md) — одиночная нода (`NODE/SOLO`)
+- [index.template.md](awn-templates/index.template.md) — оркестратор папки (`NODE/SPACE`)
+- [memory.template.md](awn-templates/memory/memory.template.md) — файл внешней памяти (`*.memory.md`)
+- [metadata.template.md](awn-templates/memory/metadata.template.md) — sidecar бинарного файла (`*.metadata.md`)
+- [note.template.md](awn-templates/memory/note.template.md) — заметка домена (`Notes/`)
 
 
 
@@ -154,7 +153,7 @@ TAGS: [тег1, тег2]
 
 Перед созданием — обязательно:
 
-1. **Проверить реестр** (`AGENTS.NODES.md`) и существующие ноды — нет ли уже ноды с тем же смыслом (по названию, триггерам, теме). Если есть — сообщить пользователю и предложить обновить существующую, а не создавать дубль.
+1. **Проверить реестр** (`awn.registry.md`) и существующие ноды — нет ли уже ноды с тем же смыслом (по названию, триггерам, теме). Если есть — сообщить пользователю и предложить обновить существующую, а не создавать дубль.
 2. **Уточнить у пользователя** если неясны: тема, назначение, триггеры, режим загрузки, имя файла. Не создавать наугад.
 3. Если пользователь не знает как назвать ноду — агент **предлагает имя, краткое описание и структуру**, затем заполняет поля по согласованному смыслу.
 4. После создания — обновить реестр.
@@ -169,13 +168,13 @@ TAGS: [тег1, тег2]
 - **Редактировать YAML-шапку** — добавлять, менять, удалять отдельные ключи в frontmatter `*.node.md`, `*.memory.md`, `*.metadata.md` без переписывания всего файла. Соблюдать порядок ключей (сначала `AWN-*`, затем пользовательские) и не ломать закрывающий `---`
 
 **Автоматизация по расписанию (Cron):**
-- **Обновить автоматизацию по Cron** — привести в соответствие раздел «Ноды с расписанием» в `AGENTS.NODES.md` (все ноды с `AWN-AUTOMATIZATION: true`, канон расписания — `AWN-CRON` в шапке) и **cron / планировщик окружения агента** (тот, где регистрируются периодические вызовы нод): для каждой такой ноды завести или обновить отдельную задачу по её `AWN-CRON`, удалить задачи для нод, которых больше нет в реестре; итог — актуальный список и в vault, и в планировщике
+- **Обновить автоматизацию по Cron** — привести в соответствие раздел «Ноды с расписанием» в `awn.registry.md` (все ноды с `AWN-AUTOMATIZATION: true`, канон расписания — `AWN-CRON` в шапке) и **cron / планировщик окружения агента** (тот, где регистрируются периодические вызовы нод): для каждой такой ноды завести или обновить отдельную задачу по её `AWN-CRON`, удалить задачи для нод, которых больше нет в реестре; итог — актуальный список и в vault, и в планировщике
 
 **Домены и категории:**
-- Создать новый домен: завести подпапку `Domains/ИмяДомена/`, создать `Index.node.md` (NODE/INDEX) с `AWN-CATEGORY: <slug>`, создать папку `Assets/`, зарегистрировать в `Domains/Index.node.md` и `AGENTS.NODES.md`
-- Добавить категорию: внести новую строку в таблицу `Domains/categories.node.md`
-- Удалить / архивировать домен: поставить `AWN-STATUS: archive` в `Index.node.md` домена, убрать из реестра `Domains/Index.node.md` и `AGENTS.NODES.md`
-- Слаг категории (`AWN-CATEGORY`) — берётся из `Domains/categories.node.md`; дефолт для системных нод — `system`, для остальных — `general`
+- Создать новый домен: завести подпапку `awn-spaces/имя-домена/`, создать `_index.node.md` (`NODE/SPACE`) с `AWN-CATEGORY: <slug>`, создать папку `assets/`, зарегистрировать в `awn-spaces/_index.node.md` и `awn.registry.md`
+- Добавить категорию: внести новую строку в таблицу `awn-spaces/categories.node.md`
+- Удалить / архивировать домен: поставить `AWN-STATUS: archive` в `_index.node.md` домена, убрать из реестра `awn-spaces/_index.node.md` и `awn.registry.md`
+- Слаг категории (`AWN-CATEGORY`) — берётся из `awn-spaces/categories.node.md`; дефолт для системных нод — `system`, для остальных — `general`
 
 **Мониторинг состояния:**
 - Проверить актуальность реестра (все ли ноды на месте, нет ли дублей, верны ли пути)
@@ -187,5 +186,5 @@ TAGS: [тег1, тег2]
 - Предлагать новые ноды если появляются повторяющиеся темы в запросах
 
 **Согласованность:**
-- Искать противоречия и пробелы между `AGENTS.md`, `AGENTS.FULL.md`, `AGENTS.NODES.md` и содержимым нод
+- Искать противоречия и пробелы между `AGENTS.md`, `awn.full.md`, `awn.registry.md` и содержимым нод
 - Предлагать архивацию (`AWN-STATUS: archive`) устаревших нод вместо удаления
