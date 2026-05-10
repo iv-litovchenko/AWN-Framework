@@ -26,9 +26,9 @@ AWN-MEMORY: external
 
 ## Куда пишем память
 
-- Каталог (от **корня проекта**): `awn-assistant-ai/Cron/Memory/`
+- Каталог (от **корня проекта**): `awn-assistant-ai/cron/memory/`
 - Имя файла: **`YYYY-MM-DD.memory.md`** (один файл на дату прогона).
-- В шапке памяти: `AWN-TYPE: "RECORD/MEMORY"`, `AWN-OWNER: awn-assistant-ai/Cron/daily-health-check.node.md`, `AWN-TITLE` — например «Состояние системы — YYYY-MM-DD».
+- В шапке памяти: `AWN-TYPE: "RECORD/MEMORY"`, `AWN-OWNER: awn-assistant-ai/cron/daily-health-check.node.md`, `AWN-TITLE` — например «Состояние системы — YYYY-MM-DD».
 
 ## Что фиксировать в теле записи
 
