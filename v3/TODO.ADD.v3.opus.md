@@ -78,17 +78,102 @@ Workflow обработки знаний: **inbox → note → page.**
 - Множественное число (`pages/`, `notes/`, `rows/`) — это **папки**. Сам тип ноды всегда в **единственном числе**.
 - Любая вложенность вне колонки «Родитель» — нарушение контракта.
 
-**Обратная карта (что-в-чём, выводится из «Родителя»):**
+## §4. Контракт фронтматтера
 
-- **Vault** содержит: Cluster, Space, External.
-- **Cluster** содержит: Cluster, Space.
-- **Space** содержит: всё, кроме Vault — Cluster, Space, Part, Memory (Note/Page/Row/Sidecar/Volume), View, External.
-- **Part** содержит: свой Volume и свою `<name>.resources/`.
-- **Все остальные** (Note, Page, Row, Sidecar, Volume, View, External) — листы, нод не содержат.
+В начале каждого файла-ноды (§1) — блок YAML между `---`.
 
+### Обязательные поля (все ноды)
 
+| Поле         | Тип | Значение |
+| ------------ | --- | -------- |
+| `awn-id`     | str | Стабильный идентификатор ноды. Не менять после создания. Формат: ULID или UUID v4/v7. |
+| `awn-type`   | str | Тип по §3: `Cluster`, `Space`, `Part`, `Note`, `Page`, `Row`, `Sidecar`, `Volume`, `View`. |
+| `awn-status` | str | Жизненный цикл: `draft` \| `active` \| `archived` \| `deprecated`. |
 
+### Опциональные (по мере необходимости)
 
+| Поле           | Тип | Назначение |
+| -------------- | --- | ---------- |
+| `awn-title`    | str | Человекочитаемое имя, если не очевидно из имени файла. |
+| `awn-parent`   | str | `awn-id` родительской ноды. |
+| `awn-category` | str | Slug категории домена (если вводишь таксономию). |
+| `awn-updated`  | str | ISO 8601 дата последнего смыслового обновления. |
+
+### Что без фронтматтера
+
+- **External** — произвольные файлы, не ноды (§3).
+- **`SKILL.md`** и прочие артефакты скилла — по правилам скилла, не по этому контракту, если иное не зафиксировано отдельно.
+
+### Пример
+
+```yaml
 ---
-- или §4 — контракт фронтматтера (`awn-id`, `awn-type`, `awn-status`),
-- - §4 — структура папок ноды (как у тебя в `TODO.ADD.v3.md` было),
+awn-id: "01JCXYZ..."
+awn-type: Page
+awn-status: active
+awn-parent: "01JCPARENT..."
+---
+```
+
+## §5. Структура папок ноды
+
+Папки создаются по мере необходимости. Корневое рабочее дерево для кластеров и областей — **`awn-spaces/`** (не засорять корень Vault; префикс `awn` отделяет фреймворк от стороннего кода в workspace).
+
+### Типичное дерево Cluster / Space
+
+```
+awn-spaces/
+  cluster-*/_index.node.md          # или space-*/_index.node.md
+  cluster-*/space-*/_index.node.md
+  …
+```
+
+### Папки внутри Space (по необходимости)
+
+| Папка / файл | Назначение |
+| ------------ | ---------- |
+| `assets/` | Вложения, медиа (к ним — Sidecar `*.sidecar.md` рядом или по соглашению области). |
+| `inbox/` | Сырые Note: `*.note.md`. |
+| `notes/` | Note вне inbox (если нужен отдельный поток). |
+| `pages/` | Page: `*.page.md`. |
+| `databases/<type>/` | Row: `*.row.md`; `<type>` = имя подпапки (`default`, `calendar`, …). |
+| `views/<type>/` | View: `*.view.md`. |
+| `parts/` или `nodes/` | Группировка Part `*.node.md` (опционально). |
+| `cron/` | Part-ноды автоматизации. |
+| `scripts/` | Вспомогательные скрипты (External или не ноды). |
+| `templates/` | Заготовки. |
+| `_index.node.volume.md` | Volume якоря Space (рядом с `_index.node.md`). |
+| `<name>.node.md`, `<name>.node.volume.md`, `<name>.resources/` | Part и спутники. |
+| `config.md` | Настройки области; может агрегироваться в глобальный конфиг (отдельное правило). |
+
+### Вариант `content/`
+
+Если хочешь сгруппировать потоки памяти:
+
+- `content/notes/` — эквивалент части `notes/` / `inbox/` по соглашению области.
+- `content/<тип>/` — произвольный подтип контента.
+
+Явно зафиксируй в `_index.node.md` области, какой вариант используется (**плоские папки** vs **`content/`**).
+
+### Скилл как Space (опционально)
+
+```
+SKILL.md
+mcp.json
+package.json
+src/index.ts
+config/
+```
+
+### Пример путей
+
+```
+awn-spaces/cluster-a/_index.node.md
+awn-spaces/cluster-a/space-a/_index.node.md
+awn-spaces/cluster-a/space-a/inbox/
+awn-spaces/cluster-a/space-a/pages/
+awn-spaces/cluster-a/space-a/databases/default/
+awn-spaces/cluster-a/space-a/views/tasks/
+awn-spaces/space-1/_index.node.md
+awn-spaces/space-1/notes/
+```
