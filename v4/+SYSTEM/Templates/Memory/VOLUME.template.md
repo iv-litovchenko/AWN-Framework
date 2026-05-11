@@ -1,0 +1,5 @@
+---
+AWN-ID:
+AWN-ROLE: MEMORY
+AWN-TYPE: VOLUME
+---

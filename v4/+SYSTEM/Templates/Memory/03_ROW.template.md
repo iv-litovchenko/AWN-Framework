@@ -1,0 +1,5 @@
+---
+AWN-id:
+AWN-ROLE: MEMORY
+AWN-TYPE: ROW
+---

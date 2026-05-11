@@ -1,0 +1,5 @@
+---
+AWN-id:
+AWN-ROLE: COMPONENT
+AWN-TYPE: SPACE
+---

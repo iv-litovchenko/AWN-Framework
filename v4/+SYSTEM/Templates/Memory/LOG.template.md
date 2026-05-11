@@ -1,0 +1,5 @@
+---
+AWN-ID:
+AWN-TYPE: LOG
+AWN-ROLE: MEMORY
+---
