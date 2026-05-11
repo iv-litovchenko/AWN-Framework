@@ -1,6 +1,6 @@
 views:
   - type: table
-    name: Таблица
+    name: Core repository
     filters:
       and:
         - file.path.contains(".base")
@@ -18,3 +18,14 @@ views:
       - file.path
       - file.size
       - file.tags
+  - type: table
+    name: Media repository
+    imageAspectRatio: 1.05
+  - type: table
+    name: Content repository
+  - type: table
+    name: Flow repository
+  - type: table
+    name: Nodes repository
+  - type: table
+    name: Bases repository
