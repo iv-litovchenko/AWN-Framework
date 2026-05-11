@@ -3,4 +3,18 @@ views:
     name: Таблица
     filters:
       and:
-        - file.hasLink("*.base")
+        - file.path.contains(".base")
+    order:
+      - file.name
+      - file.backlinks
+      - file.ctime
+      - file.embeds
+      - file.ext
+      - file.folder
+      - file.fullname
+      - file.links
+      - file.mtime
+      - file.basename
+      - file.path
+      - file.size
+      - file.tags

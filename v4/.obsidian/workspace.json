@@ -13,15 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+SYSTEM/Templates/Memory/03_ROW.template.md",
+                "file": "AGENTS.Settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_ROW.template"
+              "title": "AGENTS.Settings"
+            }
+          },
+          {
+            "id": "7088fb9e57a2fd28",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Areas/Collections/Фильмы/BASE.base",
+                "viewName": "Таблица"
+              },
+              "icon": "lucide-table",
+              "title": "BASE"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+SYSTEM/Templates/Memory/03_ROW.template.md",
+                "file": "Areas/Collections/Фильмы/BASE.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 03_ROW.template"
+              "title": "Обратные ссылки для BASE"
             }
           },
           {
@@ -113,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+SYSTEM/Templates/Memory/03_ROW.template.md",
+                "file": "Areas/Collections/Фильмы/BASE.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 03_ROW.template"
+              "title": "Исходящие ссылки из BASE"
             }
           },
           {
@@ -156,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+SYSTEM/Templates/Memory/03_ROW.template.md",
+                "file": "Areas/Collections/Фильмы/BASE.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 03_ROW.template"
+              "title": "Структура BASE"
             }
           }
         ]
@@ -183,45 +197,45 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "0f925122d843fc1c",
+  "active": "7088fb9e57a2fd28",
   "lastOpenFiles": [
-    "Areas/Collections/Документы",
-    "AGENTS.Nodes.base",
-    "+SYSTEM/Templates/Memory/LOG.template.md",
-    "Resourses/1Maya.png",
-    "Resourses/1Maya.png.sidecar.md",
-    "AGENTS.Bases.base",
-    "AGENTS.Full.md",
-    "AGENTS.md.md",
-    "AGENTS.Registry.md",
+    "Без названия.md",
+    "Areas/Collections/Фильмы/TEMPLATE.template.md",
+    "Areas/Collections/Фильмы/BASE.base",
+    "Focus/Tasks/Личные/BASE.base",
+    "Focus/Tasks/Личные/ROW.template.md",
+    "Focus/Tasks/Рабочие.template.md",
+    "Focus/Tasks/Личные.template.md",
     "AGENTS.Settings.md",
-    "Areas/Collections/Расширения Obsidian",
-    "Areas/Collections/Без названия.canvas",
-    "Areas/Collections/Закладки",
-    "Areas/Collections/Расширения Google Chrome",
-    "+SYSTEM/Templates/Memory/VOLUME.template.md",
-    "+SYSTEM/Templates/Memory/SIDECAR.template.md",
+    "Repository",
+    "Repository.md",
+    "todo.md",
+    "Inbox/00_INDEX.node.md",
+    "Scripts",
+    "AGENTS.Bases.base",
+    "AGENTS.Bases.Media.base",
+    "AGENTS.Bases.Nodes.base",
+    "AI-Ассистент/Agent.node.md",
+    "AI-Ассистент/00_INDEX.node.md",
+    "+SYSTEM/Templates/SKELETON.template.md",
     "+SYSTEM/Templates/Memory/02_NOTE.template.md",
     "+SYSTEM/Templates/Components/01_PART.template.md",
     "+SYSTEM/Templates/Components/00_SPACE.template.md",
-    "+SYSTEM/Templates/Memory/03_ROW.template.md",
-    "+SYSTEM/Templates/Memory/01_PAGE.template.md",
-    "+SYSTEM/Templates/BASE.template.md",
-    "Areas/Atlas-ITtech/00_SPACE.node.md",
-    "Areas/Atlas-ITtech/Git.page.md",
-    "Areas/Atlas-ITtech/PHP.page.md",
+    "AGENTS.config.md",
+    "AGENTS.Full.md",
+    "AGENTS.md.md",
+    "AGENTS.Registry.md",
+    "Resourses/1Maya.png.sidecar.md",
+    "Resourses/1Maya.png",
     "Areas/Collections/Программы Mac/BASE.template.md",
-    "+SYSTEM/Templates/Memory",
-    "+SYSTEM/Templates/Components",
-    "+SYSTEM/Templates",
-    "Areas/Collections/00_START.node.md",
-    "Focus/Finances",
-    "AI-Ассистент/AgentVoice.node.md",
-    "AI-Ассистент/Agent.node.md",
-    "AI-Ассистент/00_INDEX.node.md",
-    "AI-Ассистент/User.node.md",
-    "AI-Ассистент/User.volume.md",
-    "Focus/Journal",
-    "Focus/Journal.md"
+    "Focus/Tasks/Личные",
+    "+SYSTEM/Templates/Memory/03_ROW.template.md",
+    "Areas/Collections/Документы",
+    "+SYSTEM/Templates/Memory/LOG.template.md",
+    "Areas/Collections/Расширения Obsidian",
+    "Areas/Collections/Без названия.canvas",
+    "+SYSTEM/Templates/Memory/VOLUME.template.md",
+    "+SYSTEM/Templates/Memory/SIDECAR.template.md",
+    "+SYSTEM/Templates/Memory/01_PAGE.template.md"
   ]
 }
