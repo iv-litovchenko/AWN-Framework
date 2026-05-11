@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "+SYSTEM/Templates/Components/02_VISION.template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "02_VISION.template"
             }
           }
         ],
@@ -204,6 +204,10 @@
   },
   "active": "5690cd8711a3abe8",
   "lastOpenFiles": [
+    "Inbox/00_INDEX.node.md",
+    "+SYSTEM/Templates/Components/02_VISION.template.md",
+    "Tests",
+    "todo.md",
     "AGENTS.Settings.md",
     "AGENTS.Registry.md",
     "AGENTS.md.md",
@@ -224,7 +228,6 @@
     "Areas/Collections/Фильмы/_date/Без названия.md",
     "DEL-AGENTS.Bases.Nodes.base",
     "DEL-AGENTS.Bases.Media.base",
-    "todo.md",
     "Areas/Collections/Фильмы/00_BASE.base",
     "Areas/Collections/Фильмы/00_TEMPLATE.template.md",
     "Без названия.md",
@@ -232,14 +235,12 @@
     "Focus/Tasks/Личные/BASE.base",
     "Focus/Tasks/Личные/ROW.template.md",
     "Areas/Collections/Фильмы/_date",
-    "Без названия",
     "Repository/fewfe.md",
     "Repository/Test.md",
     "Repository",
     "Focus/Tasks/Личные.template.md",
     "Focus/Tasks/Рабочие.template.md",
     "Repository.md",
-    "Inbox/00_INDEX.node.md",
     "AI-Ассистент/Agent.node.md",
     "Areas/Collections/Без названия.canvas"
   ]
