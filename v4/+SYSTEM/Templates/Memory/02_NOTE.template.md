@@ -1,7 +1,6 @@
 ---
-AWN-id:
-AWN-ROLE: MEMORY
-AWN-TYPE: NOTE
+AWN-SKELETON: Базовые свойства наследуются с шаблона SKELETON.template
+AWN-ROLE-TYPE: MEMORY/NOTE
 ---
 # Название заметки
 

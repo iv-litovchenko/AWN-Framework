@@ -1,5 +1,4 @@
 ---
-AWN-ID:
-AWN-ROLE: MEMORY
-AWN-TYPE: VOLUME
+AWN-SKELETON: Базовые свойства наследуются с шаблона SKELETON.template
+AWN-ROLE-TYPE: MEMORY/VOLUME
 ---

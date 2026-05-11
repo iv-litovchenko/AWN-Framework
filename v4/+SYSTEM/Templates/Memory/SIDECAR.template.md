@@ -1,7 +1,8 @@
 ---
-AWN-id:
-AWN-ROLE: MEMORY
-AWN-TYPE: SIDECAR
+AWN-SKELETON: Базовые свойства наследуются с шаблона SKELETON.template
+AWN-ROLE-TYPE: MEMORY/SIDECAR
+AWN-MEDIA-KING: image | audio | video | document
+AWN-SUMMARY: Что за файл и зачем в vault
 ---
 # Название файла
 
@@ -10,3 +11,7 @@ AWN-TYPE: SIDECAR
 ## Описание
 
 *(детали, расшифровка, ссылки — произвольный markdown)*
+
+
+: 
+: .

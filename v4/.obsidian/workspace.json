@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+SYSTEM/Templates/Components/02_VISION.template.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_VISION.template"
+              "title": "todo"
             }
           }
         ],
@@ -204,8 +204,21 @@
   },
   "active": "5690cd8711a3abe8",
   "lastOpenFiles": [
-    "Inbox/00_INDEX.node.md",
+    "HEARTBEAT.md",
+    "AI-Ассистент/00_SPACE.node.md",
+    "Areas/Atlas-ITtech/00_SPACE.node.md",
+    "Areas/Atlas-ITtech/00.SPACE.node.md",
+    "Areas/English/00_SPACE.node.md.md",
+    "Resourses/00_SPACE.node.md",
+    "Inbox/00_SPACE.node.md",
+    "Focus/00_SPACE.node.md",
+    "Areas/00_SPACE.node.md.md",
+    "Areas/Collections/00_SPACE.node.md",
+    "+SYSTEM/Templates/Components/02_BASE.template.md",
+    "+SYSTEM/Templates/Components/01_PART — копия.template.md",
+    "+SYSTEM/Templates/Components/03_VISION.template.md",
     "+SYSTEM/Templates/Components/02_VISION.template.md",
+    "Inbox/00_INDEX.node.md",
     "Tests",
     "todo.md",
     "AGENTS.Settings.md",
@@ -222,26 +235,13 @@
     "Areas/Atlas-ITtech/Git.page.md",
     "Excalidraw",
     "Areas/Atlas-ITtech/PHP.page.md",
-    "Areas/Collections/Фильмы/_date/1.md",
-    "Areas/Collections/Фильмы/_date/Без названия 2.md",
-    "Areas/Collections/Фильмы/_date/Без названия 1.md",
-    "Areas/Collections/Фильмы/_date/Без названия.md",
     "DEL-AGENTS.Bases.Nodes.base",
     "DEL-AGENTS.Bases.Media.base",
     "Areas/Collections/Фильмы/00_BASE.base",
-    "Areas/Collections/Фильмы/00_TEMPLATE.template.md",
-    "Без названия.md",
     "Areas/Collections/Фильмы/Новая папка",
     "Focus/Tasks/Личные/BASE.base",
-    "Focus/Tasks/Личные/ROW.template.md",
     "Areas/Collections/Фильмы/_date",
-    "Repository/fewfe.md",
-    "Repository/Test.md",
     "Repository",
-    "Focus/Tasks/Личные.template.md",
-    "Focus/Tasks/Рабочие.template.md",
-    "Repository.md",
-    "AI-Ассистент/Agent.node.md",
     "Areas/Collections/Без названия.canvas"
   ]
 }

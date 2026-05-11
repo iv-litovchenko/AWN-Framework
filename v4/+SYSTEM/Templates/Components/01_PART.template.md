@@ -1,7 +1,6 @@
 ---
-AWN-id:
-AWN-ROLE: COMPONENT
-AWN-TYPE: PART
+AWN-SKELETON: Базовые свойства наследуются с шаблона SKELETON.template
+AWN-ROLE-TYPE: COMPONENT/PART
 ---
 # Название ноды
 
