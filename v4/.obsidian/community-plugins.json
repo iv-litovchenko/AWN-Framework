@@ -1,5 +1,11 @@
 [
   "awn-folder-hider",
   "obsidian-excalidraw-plugin",
-  "dataview"
+  "dataview",
+  "omnisearch",
+  "zettelkasten-llm-tools",
+  "bbawj-semantic-search",
+  "ai-tools",
+  "vector-search",
+  "bearings"
 ]
