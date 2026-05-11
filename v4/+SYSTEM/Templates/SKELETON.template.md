@@ -18,6 +18,9 @@ AWN-UPDATED: YYYY-MM-DD
 tags:
   - "-"
 AWN-OWNER: Владелец (родительская нода-компонент или файл)
+AWN-Commands: TODO есть выполнение команд и подкгрузка  skulls
+AWN-View: TODO voice text ... идея - взаимодействие с вненим миром
+AWN-RBAC-ltc: TODO доступ
 ---
 Общий базовый шаблон для всех записей (шапка)
 

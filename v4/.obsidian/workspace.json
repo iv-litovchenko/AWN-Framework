@@ -28,17 +28,14 @@
             "id": "5690cd8711a3abe8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "AGENTS.Dashboard.canvas",
-                "viewState": {
-                  "x": -125,
-                  "y": 388,
-                  "zoom": -0.2636712167207122
-                }
+                "file": "Repository/fewfe.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "AGENTS.Dashboard"
+              "icon": "lucide-file",
+              "title": "fewfe"
             }
           }
         ],
@@ -207,6 +204,12 @@
   },
   "active": "5690cd8711a3abe8",
   "lastOpenFiles": [
+    "Repository/GitProjects",
+    "Repository/Skills",
+    "Repository/McpTools",
+    "+SYSTEM/Templates/SKELETON.template.md",
+    "Repository/OgsidianPlugins",
+    "AGENTS.Dashboard.canvas",
     "AGENTS.Bases.base",
     "Repository/Test.md",
     "Repository/fewfe.md",
@@ -223,10 +226,8 @@
     "AGENTS.Config.md",
     "todo.md",
     "HEARTBEAT.md",
-    "AGENTS.Dashboard.canvas",
     "DEL-AGENTS.Bases.Nodes.base",
     "DEL-AGENTS.Bases.Media.base",
-    "+SYSTEM/Templates/SKELETON.template.md",
     "AI-Ассистент/Users.node.md.md",
     "AI-Ассистент/User.volume.md",
     "AI-Ассистент/Voice.node.md",
@@ -240,10 +241,7 @@
     "Areas/Collections/Фильмы/_date/1.md",
     "Areas/Collections/Фильмы/_date",
     "Areas/Collections/Фильмы/_mdate",
-    "Tests",
     "Resourses/1Maya.png",
-    "Excalidraw",
-    "Areas/Collections/Фильмы/00_BASE.base",
     "Areas/Collections/Без названия.canvas"
   ]
 }
