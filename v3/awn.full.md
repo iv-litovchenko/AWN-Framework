@@ -316,3 +316,40 @@ awn-spaces/space-life/space-health/views/tasks/
 awn-spaces/space-work/_index.node.md
 awn-spaces/space-work/notes/
 ```
+
+
+##  §5. Содержимое ноды
+
+- описание
+- протоколы 
+- память (воспоминания - внешние внутренние)
+- оглавление (оглавление только в 1-2 слоях)
+- оглавление может быть представленно в виде обычного списка как в книге - в виде mindmap-в (посмотри maptex) - собирается на основе notes/ 
+- оглавление - списрк структурированных данных (баз данных) - собирается на основе database/
+- оглавление зависимых файлов
+- отсылка к вшешней памяти
+- протокол поведения договоренностей
+
+
+## Таблица категорий
+
+| Ключ (slug)     | Название             | Примеры доменов                       |
+| --------------- | -------------------- | ------------------------------------- |
+| `general`       | Общее (по умолчанию) | Misc, Notes, Drafts                   |
+| `system`        | Системное (агент)    | Assistant.Ai и служебные ноды         |
+| `work`          | Работа и проекты     | Project1, Project2, Freelance         |
+| `finance`       | Финансы              | PersonalFinance, Investments, Budget  |
+| `education`     | Образование          | EnglishLearning, Programming, Reading |
+| `health`        | Здоровье             | Sport, Nutrition, Meditation          |
+| `hobby`         | Хобби                | Games, Collections, Crafts            |
+| `collections`   | Коллекции            | Collections                           |
+| `family`        | Семья                | Kids, Parents, SharedPlans            |
+| `documents`     | Документы            | Passports, Contracts, Insurance       |
+| `travel`        | Путешествия          | Trips, Routes, Visas                  |
+| `media`         | Медиа                | Movies, Books, Music, Podcasts        |
+| `creative`      | Творчество           | Writing, Design, Music                |
+| `documentation` | Документация         | Certificates, Docs                    |
+
+## Как добавить новую категорию
+
+Добавить строку в таблицу выше: придумать уникальный slug (латиница, без пробелов), дать название и примеры.
