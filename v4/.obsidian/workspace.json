@@ -28,14 +28,17 @@
             "id": "5690cd8711a3abe8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "source": false
+                "file": "AGENTS.Dashboard.canvas",
+                "viewState": {
+                  "x": -125,
+                  "y": 388,
+                  "zoom": -0.2636712167207122
+                }
               },
-              "icon": "lucide-file",
-              "title": "todo"
+              "icon": "lucide-layout-dashboard",
+              "title": "AGENTS.Dashboard"
             }
           }
         ],
@@ -96,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.5
   },
   "right": {
     "id": "65aa359b3d6fc6f4",
@@ -204,44 +207,43 @@
   },
   "active": "5690cd8711a3abe8",
   "lastOpenFiles": [
-    "HEARTBEAT.md",
-    "AI-Ассистент/00_SPACE.node.md",
-    "Areas/Atlas-ITtech/00_SPACE.node.md",
-    "Areas/Atlas-ITtech/00.SPACE.node.md",
+    "AGENTS.Bases.base",
+    "Repository/Test.md",
+    "Repository/fewfe.md",
+    "Areas/Atlas-ITtech/PHP.page.md",
+    "Areas/Atlas-ITtech/Git.page.md",
+    "Areas/English/Правила.page.md",
+    "Areas/English/Подлежащие.page.md",
+    "Areas/English/Глаголы.page.md",
     "Areas/English/00_SPACE.node.md.md",
-    "Resourses/00_SPACE.node.md",
-    "Inbox/00_SPACE.node.md",
-    "Focus/00_SPACE.node.md",
-    "Areas/00_SPACE.node.md.md",
-    "Areas/Collections/00_SPACE.node.md",
-    "+SYSTEM/Templates/Components/02_BASE.template.md",
-    "+SYSTEM/Templates/Components/01_PART — копия.template.md",
-    "+SYSTEM/Templates/Components/03_VISION.template.md",
-    "+SYSTEM/Templates/Components/02_VISION.template.md",
-    "Inbox/00_INDEX.node.md",
-    "Tests",
-    "todo.md",
     "AGENTS.Settings.md",
     "AGENTS.Registry.md",
     "AGENTS.md.md",
     "AGENTS.Full.md",
-    "AGENTS.Bases.base",
     "AGENTS.Config.md",
-    "+SYSTEM/Templates/SKELETON.template.md",
-    "AGENTS.excalidraw.md",
+    "todo.md",
+    "HEARTBEAT.md",
     "AGENTS.Dashboard.canvas",
-    "Resourses/1Maya.png",
-    "Resourses/00_INDEX.node.md",
-    "Areas/Atlas-ITtech/Git.page.md",
-    "Excalidraw",
-    "Areas/Atlas-ITtech/PHP.page.md",
     "DEL-AGENTS.Bases.Nodes.base",
     "DEL-AGENTS.Bases.Media.base",
-    "Areas/Collections/Фильмы/00_BASE.base",
-    "Areas/Collections/Фильмы/Новая папка",
-    "Focus/Tasks/Личные/BASE.base",
+    "+SYSTEM/Templates/SKELETON.template.md",
+    "AI-Ассистент/Users.node.md.md",
+    "AI-Ассистент/User.volume.md",
+    "AI-Ассистент/Voice.node.md",
+    "Новая папка",
+    "mdbase-all.base",
+    "Tests/Test dashboards.md",
+    "Tests/00_SPACE.node.md.md",
+    "Areas/Collections/Фильмы/_date/Без названия.md",
+    "Areas/Collections/Фильмы/_date/Без названия 2.md",
+    "Areas/Collections/Фильмы/_date/Без названия 1.md",
+    "Areas/Collections/Фильмы/_date/1.md",
     "Areas/Collections/Фильмы/_date",
-    "Repository",
+    "Areas/Collections/Фильмы/_mdate",
+    "Tests",
+    "Resourses/1Maya.png",
+    "Excalidraw",
+    "Areas/Collections/Фильмы/00_BASE.base",
     "Areas/Collections/Без названия.canvas"
   ]
 }
