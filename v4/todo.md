@@ -1,9 +1,9 @@
 
-
-Новый тип - скорее всего откажемся от расширения
-Skill repository content - контент который производит навык (куда его?)
-И все же придется skill mdbase  skill obmisearch интегрировать) - это важный 
-Поищи все что есть на тему obsidian skill , sql obsidian plugin, base obsidian plugin
+- Новый тип - скорее всего откажемся от расширения
+- Skill repository content - контент который производит навык (куда его?)
+- И все же придется skill mdbase  skill obmisearch интегрировать) - это важный 
+- Поищи все что есть на тему obsidian skill , sql obsidian plugin, base obsidian plugin
+- РЕЕСТР-ТИПОВ (по сути тип это новая БД)
 
 typo3
 base components (templets repository - types)
