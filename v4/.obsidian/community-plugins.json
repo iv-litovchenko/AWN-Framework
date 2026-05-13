@@ -10,5 +10,8 @@
   "bearings",
   "calendar-bases",
   "sqlite-db",
-  "sqlseal"
+  "sqlseal",
+  "notebook-navigator",
+  "featured-image",
+  "obsidian-style-settings"
 ]

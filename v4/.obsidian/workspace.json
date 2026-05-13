@@ -71,9 +71,23 @@
               "icon": "lucide-file",
               "title": "SKELETON.template"
             }
+          },
+          {
+            "id": "1a2f9ac43677ebae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+SYSTEM/Thinks-and-ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thinks-and-ideas"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -86,6 +100,16 @@
         "id": "cecbf986c8b109b4",
         "type": "tabs",
         "children": [
+          {
+            "id": "637dc866e9bc0ac2",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          },
           {
             "id": "0f925122d843fc1c",
             "type": "leaf",
@@ -126,11 +150,12 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 531.5
   },
   "right": {
     "id": "65aa359b3d6fc6f4",
@@ -252,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,22 +295,32 @@
       "vector-search:Rebuild vector index": false,
       "bearings:Open the navigator": false,
       "bearings:Create relationship": false,
-      "sqlseal:SQLSeal Explorer": false
+      "sqlseal:SQLSeal Explorer": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "f3c4be5de02b9218",
+  "active": "1a2f9ac43677ebae",
   "lastOpenFiles": [
-    "+SYSTEM/Templates/personal knowledge archive.type.md",
-    "+SYSTEM/Templates/СНЫ- ТИП СНЫ.md",
     "Focus/Journal/СНЫ БАЗА СНОВ.md",
+    "+SYSTEM/Thinks-and-ideas.md",
+    "+SYSTEM/Templates/Memory/03_ROW.template.md",
+    "Areas/Collections/Фильмы/_date/Без названия 1.md",
+    "Areas/Collections/Фильмы/_date/Без названия 2.md",
+    "Areas/Collections/Фильмы/_date/1.md",
+    "Areas/Collections/Фильмы/_date/Без названия.md",
+    "AI-Ассистент/Obsidian.node.md",
+    "AI-Ассистент/Users.node.md.md",
+    "AI-Ассистент/User.volume.md",
+    "AI-Ассистент/Agent.node.md",
+    "+SYSTEM/Templates/SKELETON.template.md",
+    "+SYSTEM/Templates/personal knowledge archive.type.md",
+    "AGENTS.Dashboard.canvas",
+    "+SYSTEM/Templates/СНЫ- ТИП СНЫ.md",
     "todo.md",
     "+SYSTEM/Templates/Components/00_ROOT_VAULT_WORKSPACE.md",
-    "+SYSTEM/Templates/SKELETON.template.md",
     "+SYSTEM/Templates/LINK.type.template.md",
     "+SYSTEM/Templates/Components/00_1_INFO.type.template.md",
     "__globalviews.sqlsealconfig",
-    "AI-Ассистент/Obsidian.node.md",
-    "AGENTS.Dashboard.canvas",
     "Repository/OgsidianPlugins/Мои написанные плагины для obsidian и так далее.md",
     "AGENTS.Settings.md",
     "00_SPACE-CLASTER-SEROR.node.md",
@@ -298,17 +334,8 @@
     "Areas/Atlas-ITtech/PHP.page.md",
     "Areas/Atlas-ITtech/Git.page.md",
     "Areas/English/Правила.page.md",
-    "Areas/English/Подлежащие.page.md",
-    "Areas/English/Глаголы.page.md",
-    "Areas/English/00_SPACE.node.md.md",
-    "AGENTS.Registry.md",
-    "AGENTS.md.md",
-    "AGENTS.Full.md",
-    "AGENTS.Config.md",
-    "HEARTBEAT.md",
     "DEL-AGENTS.Bases.Nodes.base",
     "DEL-AGENTS.Bases.Media.base",
-    "AI-Ассистент/Users.node.md.md",
     "Новая папка",
     "mdbase-all.base",
     "Resourses/1Maya.png",
