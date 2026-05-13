@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+SYSTEM/Templates/personal knowledge archive.type.md",
+                "file": "+SYSTEM/Templates/Memory/CUSTOM-TYPE/personal knowledge archive.type.md",
                 "mode": "source",
                 "source": false
               },
@@ -301,11 +301,19 @@
   },
   "active": "1a2f9ac43677ebae",
   "lastOpenFiles": [
+    "+SYSTEM/Templates/SKELETON.template.md",
+    "+SYSTEM/Templates/LINK.type.template.md",
+    "+SYSTEM/Templates/Memory/VOLUME.template.md",
+    "+SYSTEM/Templates/Memory/CUSTOM-TYPE/Obsidian.md",
+    "+SYSTEM/Thinks-and-ideas.md",
+    "+SYSTEM/Templates/Memory/CUSTOM-TYPE/СНЫ- ТИП СНЫ.md",
+    "+SYSTEM/Templates/Memory/CUSTOM-TYPE/personal knowledge archive.type.md",
+    "+SYSTEM/Templates/Memory/01_PAGE.template.md",
+    "+SYSTEM/Templates/Memory/CUSTOM-TYPE",
     "+SYSTEM/assets/Изображение JPEG-4443-9EDC-37-0.jpeg",
     "+SYSTEM/assets",
     "+SYSTEM/assets/thumbnails/resized/9ffa48a434c36958f0108bc43283b6a5_86cf658e.webp",
     "00_SPACE-CLASTER-SEROR.node.md",
-    "+SYSTEM/Thinks-and-ideas.md",
     "+SYSTEM/assets/thumbnails/resized",
     "+SYSTEM/assets/thumbnails",
     "Focus/Journal/СНЫ БАЗА СНОВ.md",
@@ -318,13 +326,9 @@
     "AI-Ассистент/Users.node.md.md",
     "AI-Ассистент/User.volume.md",
     "AI-Ассистент/Agent.node.md",
-    "+SYSTEM/Templates/SKELETON.template.md",
-    "+SYSTEM/Templates/personal knowledge archive.type.md",
     "AGENTS.Dashboard.canvas",
-    "+SYSTEM/Templates/СНЫ- ТИП СНЫ.md",
     "todo.md",
     "+SYSTEM/Templates/Components/00_ROOT_VAULT_WORKSPACE.md",
-    "+SYSTEM/Templates/LINK.type.template.md",
     "+SYSTEM/Templates/Components/00_1_INFO.type.template.md",
     "__globalviews.sqlsealconfig",
     "Repository/OgsidianPlugins/Мои написанные плагины для obsidian и так далее.md",
@@ -336,9 +340,6 @@
     "Repository/OgsidianPlugins",
     "AGENTS.Bases.base",
     "Repository/Test.md",
-    "Areas/Atlas-ITtech/PHP.page.md",
-    "Areas/Atlas-ITtech/Git.page.md",
-    "DEL-AGENTS.Bases.Nodes.base",
     "Resourses/1Maya.png",
     "Areas/Collections/Без названия.canvas"
   ]
