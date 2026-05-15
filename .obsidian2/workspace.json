@@ -60,16 +60,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "637dc866e9bc0ac2",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
-            }
-          },
-          {
             "id": "0f925122d843fc1c",
             "type": "leaf",
             "state": {
@@ -80,6 +70,16 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "637dc866e9bc0ac2",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           },
           {
@@ -109,8 +109,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",

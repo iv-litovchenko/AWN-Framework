@@ -1,32 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="--- 3 версия ---">
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-spaced-repetition/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-spaced-repetition/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AGENTS.FULL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AGENTS.LLM_BOOTSTRAP_PRESET.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AGENTS.LLM_TEMPLATE_PRESET.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AGENTS.NODES.CATALOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AGENTS.NODES.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AGENTS.SETTINGS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AGENTS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLAUDE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODEX.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEEPSEEK.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEMINI.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HEARTBEAT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG_9403.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/IMG_9403.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INSTALL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MISTRAL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QWEN.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.fix.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UPDATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v4/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/v4/.obsidian/workspace.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -331,14 +309,8 @@
       <workItem from="1778690834131" duration="131000" />
       <workItem from="1778852749934" duration="227000" />
       <workItem from="1778853612118" duration="775000" />
-      <workItem from="1778854680597" duration="902000" />
-    </task>
-    <task id="LOCAL-00332" summary="--- 3 версия ---">
-      <created>1778431410527</created>
-      <option name="number" value="00332" />
-      <option name="presentableId" value="LOCAL-00332" />
-      <option name="project" value="LOCAL" />
-      <updated>1778431410527</updated>
+      <workItem from="1778854680597" duration="1400000" />
+      <workItem from="1778857345356" duration="115000" />
     </task>
     <task id="LOCAL-00333" summary="--- 3 версия ---">
       <created>1778432488272</created>
@@ -676,16 +648,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778854914855</updated>
     </task>
-    <option name="localTasksCounter" value="381" />
+    <task id="LOCAL-00381" summary="--- 3 версия ---">
+      <created>1778856063845</created>
+      <option name="number" value="00381" />
+      <option name="presentableId" value="LOCAL-00381" />
+      <option name="project" value="LOCAL" />
+      <updated>1778856063845</updated>
+    </task>
+    <option name="localTasksCounter" value="382" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169379000" />
+    <option name="totallyTimeSpent" value="169992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34676436" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35103786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -698,7 +677,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.17755102" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2387755" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2387755" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -763,16 +742,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Templates/Records/Note.template.md" />
     <entry file="file://$PROJECT_DIR$/Templates/Nodes/Solo.template.md" />
-    <entry file="file://$PROJECT_DIR$/AGENTS.NODES.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1215">
-            <caret line="81" selection-start-line="81" selection-end-line="81" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AGENTS.NODES.md" />
     <entry file="file://$PROJECT_DIR$/Assistant.Ai/Area.node.md" />
     <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/Context.Greeting.node.md" />
     <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/Context.SmartTriggering.node.md" />
@@ -794,16 +764,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HEARTBEAT.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HEARTBEAT.md" />
     <entry file="file://$PROJECT_DIR$/v3/HEARTBEAT.md" />
     <entry file="file://$PROJECT_DIR$/v4/awn.full.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
