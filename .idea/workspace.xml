@@ -2,9 +2,153 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Components/00_1_INFO.type.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFramework/Templates/Components/00_1_INFO.type.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Components/00_ROOT_VAULT_WORKSPACE.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/Components/00_ROOT_VAULT_WORKSPACE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Components/00_SPACE.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFramework/Templates/Components/00_SPACE.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Components/01_PART.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFramework/Templates/Components/01_PART.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Components/02_BASE.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/Components/02_BASE.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Components/03_VISION.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFramework/Templates/Components/03_VISION.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Components/AGENT_SVARM.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFramework/Templates/Components/AGENT_SVARM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/INSTALL.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/INSTALL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Memory/01_PAGE.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFramework/Templates/Memory/01_PAGE.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Memory/02_NOTE.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFramework/Templates/Memory/02_NOTE.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Memory/03_ROW.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/Memory/03_ROW.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Memory/CUSTOM-TYPE/LINK.type.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/Memory/CUSTOM-TYPE/LINK.type.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Memory/CUSTOM-TYPE/Obsidian.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/Memory/CUSTOM-TYPE/Obsidian.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Memory/CUSTOM-TYPE/personal knowledge archive.type.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/Memory/CUSTOM-TYPE/personal knowledge archive.type.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Memory/CUSTOM-TYPE/СНЫ- ТИП СНЫ.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFramework/Templates/Memory/CUSTOM-TYPE/СНЫ- ТИП СНЫ.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Memory/LOG.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/Memory/LOG.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Memory/SIDECAR.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/Memory/SIDECAR.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/Memory/VOLUME.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFramework/Templates/Memory/VOLUME.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/SKELETON.template.configuration.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/SKELETON.template.configuration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/SKELETON.template.documentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/SKELETON.template.documentation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/SKELETON.template.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/SKELETON.template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/Templates/UPDATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/Templates/UPDATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/assets/thumbnails/resized/9ffa48a434c36958f0108bc43283b6a5_86cf658e.webp" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFramework/assets/thumbnails/resized/9ffa48a434c36958f0108bc43283b6a5_86cf658e.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/assets/Изображение JPEG-4443-9EDC-37-0.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/assets/Изображение JPEG-4443-9EDC-37-0.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/documentation/Grok-class-object.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/documentation/Grok-class-object.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+SYSTEM/documentation/Todo-and-Thinks-and-ideas.md" beforeDir="false" afterPath="$PROJECT_DIR$/AwnFramework/documentation/Todo-and-Thinks-and-ideas.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/community-plugins.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v4/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/v4/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/_Index.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/_Index.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/00ba2699-cfed-4189-9bb6-300aa7a3f5ca.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/00ba2699-cfed-4189-9bb6-300aa7a3f5ca.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/16afb84c-6f96-4a1e-8519-e79421bd1d27.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/16afb84c-6f96-4a1e-8519-e79421bd1d27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/3593354e-2c7d-45c9-859f-8adc1b3f7477.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/3593354e-2c7d-45c9-859f-8adc1b3f7477.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/4ab7aa81-5883-4232-bf44-aca52390d8b2.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/4ab7aa81-5883-4232-bf44-aca52390d8b2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/894127f2-97db-46ee-9eac-5856f4bfb195.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/894127f2-97db-46ee-9eac-5856f4bfb195.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/8da24847-5bc2-4ee0-9d87-33168723d63c.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/8da24847-5bc2-4ee0-9d87-33168723d63c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/Aya.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/Aya.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/FirstWords.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/FirstWords.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/Preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/Preview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/a6917985-53fa-4c50-b577-f5f450d673ec.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/a6917985-53fa-4c50-b577-f5f450d673ec.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/c8ffb2cd-7ae4-4c9d-a038-55a1c6c1bfac.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/c8ffb2cd-7ae4-4c9d-a038-55a1c6c1bfac.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/e107652f-6f4d-422b-bf39-c90d5a432859.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/e107652f-6f4d-422b-bf39-c90d5a432859.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/e9cc3257-87c2-42c4-aba2-ed12f0bd7cbd.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/e9cc3257-87c2-42c4-aba2-ed12f0bd7cbd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/doc/fda02247-be70-4e6e-8a89-23944be3dfe6.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/assets/fda02247-be70-4e6e-8a89-23944be3dfe6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/AGENTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/AGENTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes-other/⚖️ decision.engine.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes-other/⚖️ decision.engine.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes-other/📥 inbox.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes-other/📥 inbox.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes-other/🔁 action.loop.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes-other/🔁 action.loop.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes/⚙️ system.loader.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes/⚙️ system.loader.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes/🔗 link.manager.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes/🔗 link.manager.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes/🚀 evolution.engine.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes/🚀 evolution.engine.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes/🛠 task.executor.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes/🛠 task.executor.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes/🧠 memory.manager.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes/🧠 memory.manager.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes/🧠 self.identity.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes/🧠 self.identity.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes/🧩 core.node.md.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes/🧩 core.node.md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes/🧩 node.architecture.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes/🧩 node.architecture.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes/🧪 knowledge.builder.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes/🧪 knowledge.builder.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes/🧭 context.interpreter.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes/🧭 context.interpreter.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/chatgpt/nodes/🧹 system.refactor.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/chatgpt/nodes/🧹 system.refactor.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/claude/AGENTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/claude/AGENTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/claude/changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/claude/changelog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/claude/health.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/claude/health.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/claude/identity.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/claude/identity.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/claude/memory.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/claude/memory.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/claude/node-creator.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/claude/node-creator.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/claude/obsidian-rules.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/claude/obsidian-rules.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/claude/tasks.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/claude/tasks.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/claude/writing.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/claude/writing.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/deepseek/AGENTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/deepseek/AGENTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/gemini/AGENTS.md.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/gemini/AGENTS.md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/AGENTS.md.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/AGENTS.md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/AGENTS.v.1.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/AGENTS.v.1.1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Dashboard.md.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Dashboard.md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Core/Changelog.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Core/Changelog.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Core/Communication.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Core/Communication.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Core/ContextAwareness.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Core/ContextAwareness.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Core/DecisionMaking.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Core/DecisionMaking.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Core/Identity.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Core/Identity.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Core/KnowledgeBase.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Core/KnowledgeBase.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Core/Memory.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Core/Memory.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Core/MemoryPalace.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Core/MemoryPalace.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Core/Planning.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Core/Planning.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Core/SelfDevelopment.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Core/SelfDevelopment.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Core/Structure.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Core/Structure.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Core/Tasks.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Core/Tasks.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Health/HealthOverview.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Health/HealthOverview.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Health/MentalHealth.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Health/MentalHealth.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Health/Nutrition.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Health/Nutrition.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Health/PhysicalActivity.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Health/PhysicalActivity.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/grok/Nodes/Skills/Obsidian.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/grok/Nodes/Skills/Obsidian.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 16.48.23.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 16.48.23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 16.48.27.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 16.48.27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.53.14.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 17.53.14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.54.31.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 17.54.31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.54.38.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 17.54.38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.54.48.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 17.54.48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.55.36.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 17.55.36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.56.18.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 17.56.18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.57.05.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 17.57.05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.58.13.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 17.58.13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.58.30.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 17.58.30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.58.56.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 17.58.56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 18.00.17.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 18.00.17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 18.00.50.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 18.00.50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 18.01.01.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 18.01.01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 18.01.25.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 18.01.25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 18.01.57.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 18.01.57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 18.02.26.png" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 18.02.26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/qwen/AGENTS.md.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/qwen/AGENTS.md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/qwen/_templates/_template.node.md.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/qwen/_templates/_template.node.md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/core/core-greeting.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/qwen/nodes/core/core-greeting.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/core/memory-log.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/qwen/nodes/core/memory-log.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/core/node-validator.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/qwen/nodes/core/node-validator.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/meta/reflection-template.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/qwen/nodes/meta/reflection-template.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/personal/career-growth.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/qwen/nodes/personal/career-growth.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/personal/finance-tracker.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/qwen/nodes/personal/finance-tracker.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/personal/habit-tracker.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/qwen/nodes/personal/habit-tracker.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/personal/health-tracker.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/qwen/nodes/personal/health-tracker.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/ideas/qwen/nodes/personal/social-confidence.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/ideas/qwen/nodes/personal/social-confidence.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/other/NEW.v3.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/other/NEW.v3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/other/New.v3-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/other/New.v3-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/other/README.ASK.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/other/README.ASK.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/other/README.MEMORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/other/README.MEMORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/other/README.RAG.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/other/README.RAG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/other/YOUTUBE.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/other/YOUTUBE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/other/Yandex Alica.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/other/Yandex Alica.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/other/claude.ai_decisions.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/other/claude.ai_decisions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/other/safety-rules.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/other/safety-rules.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/other/Вопросы всем нейросетям.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/other/Вопросы всем нейросетям.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/other/Идеи улучшения и варианты развития.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/other/Идеи улучшения и варианты развития.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/other/Промт (оригинал).md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/other/Промт (оригинал).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v1/AGENTS.NODES.EXAMPLE.v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v1/AGENTS.NODES.EXAMPLE.v1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v1/AGENTS.NODES.v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v1/AGENTS.NODES.v1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v1/AGENTS.v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v1/AGENTS.v1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v1/INSTALL.v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v1/INSTALL.v1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v2/AGENTS.FULL.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v2/AGENTS.FULL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v2/AGENTS.LLM_BOOTSTRAP_PRESET.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v2/AGENTS.LLM_BOOTSTRAP_PRESET.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v2/AGENTS.LLM_TEMPLATE_PRESET.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v2/AGENTS.LLM_TEMPLATE_PRESET.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v2/AGENTS.NODES.CATALOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v2/AGENTS.NODES.CATALOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v2/AGENTS.NODES.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v2/AGENTS.NODES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v2/AGENTS.SETTINGS.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v2/AGENTS.SETTINGS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v2/AGENTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v2/AGENTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v2/INSTALL.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v2/INSTALL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v3/awn-assistant-ai/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v3/awn-assistant-ai/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v3/awn-inbox/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v3/awn-inbox/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwnFramework/v3/awn-spaces/space-nnn/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/AWNFrameworkDocumentation/v3/awn-spaces/space-nnn/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +157,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -29,6 +183,8 @@
       <find>Awn.Settings.md</find>
       <find>Awn.Registry.md</find>
       <find>awn-proprity</find>
+      <find>v4</find>
+      <find>AWNFramework/doc</find>
     </findStrings>
     <replaceStrings>
       <replace>.awn-framework/doc/</replace>
@@ -36,10 +192,12 @@
       <replace>AiAssistant</replace>
       <replace>awn.</replace>
       <replace>awn.settings.md</replace>
+      <replace>AWNFrameworkDocumentation/assets</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/v3</dir>
+      <dir>$PROJECT_DIR$/v4</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -121,16 +279,6 @@
               <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
               <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
-              <item name="AwnFramework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
-              <item name="v4" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -146,11 +294,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/v4" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/WorkSpaceExample" />
+      <recent name="$PROJECT_DIR$/v4" />
       <recent name="$PROJECT_DIR$/v2" />
       <recent name="$PROJECT_DIR$/Nodes" />
-      <recent name="$PROJECT_DIR$/.awn-framework/other" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -310,21 +458,7 @@
       <workItem from="1778852749934" duration="227000" />
       <workItem from="1778853612118" duration="775000" />
       <workItem from="1778854680597" duration="1400000" />
-      <workItem from="1778857345356" duration="115000" />
-    </task>
-    <task id="LOCAL-00333" summary="--- 3 версия ---">
-      <created>1778432488272</created>
-      <option name="number" value="00333" />
-      <option name="presentableId" value="LOCAL-00333" />
-      <option name="project" value="LOCAL" />
-      <updated>1778432488272</updated>
-    </task>
-    <task id="LOCAL-00334" summary="--- 3 версия ---">
-      <created>1778440342225</created>
-      <option name="number" value="00334" />
-      <option name="presentableId" value="LOCAL-00334" />
-      <option name="project" value="LOCAL" />
-      <updated>1778440342227</updated>
+      <workItem from="1778857345356" duration="702000" />
     </task>
     <task id="LOCAL-00335" summary="--- 3 версия ---">
       <created>1778441797313</created>
@@ -655,16 +789,30 @@
       <option name="project" value="LOCAL" />
       <updated>1778856063845</updated>
     </task>
-    <option name="localTasksCounter" value="382" />
+    <task id="LOCAL-00382" summary="--- 3 версия ---">
+      <created>1778857758301</created>
+      <option name="number" value="00382" />
+      <option name="presentableId" value="LOCAL-00382" />
+      <option name="project" value="LOCAL" />
+      <updated>1778857758303</updated>
+    </task>
+    <task id="LOCAL-00383" summary="--- 3 версия ---">
+      <created>1778857930324</created>
+      <option name="number" value="00383" />
+      <option name="presentableId" value="LOCAL-00383" />
+      <option name="project" value="LOCAL" />
+      <updated>1778857930324</updated>
+    </task>
+    <option name="localTasksCounter" value="384" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169992000" />
+    <option name="totallyTimeSpent" value="170579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35103786" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35103786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -677,7 +825,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.17755102" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2387755" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2387755" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -740,7 +888,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="--- 3 версия ---" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Templates/Records/Note.template.md" />
     <entry file="file://$PROJECT_DIR$/Templates/Nodes/Solo.template.md" />
     <entry file="file://$PROJECT_DIR$/AGENTS.NODES.md" />
     <entry file="file://$PROJECT_DIR$/Assistant.Ai/Area.node.md" />
@@ -754,7 +901,7 @@
     <entry file="file://$PROJECT_DIR$/Assistant.Ai/Users.node.md" />
     <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Chats/_Index.node.md" />
     <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Core/MetadataFiles.node.md" />
-    <entry file="file://$PROJECT_DIR$/AwnFramework/_Index.node.md">
+    <entry file="file://$PROJECT_DIR$/AWNFrameworkDocumentation/_Index.node.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="480">
@@ -766,7 +913,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HEARTBEAT.md" />
     <entry file="file://$PROJECT_DIR$/v3/HEARTBEAT.md" />
-    <entry file="file://$PROJECT_DIR$/v4/awn.full.md">
+    <entry file="file://$PROJECT_DIR$/awn.full.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="542">
@@ -790,7 +937,7 @@
     <entry file="file://$PROJECT_DIR$/v3/awn-templates/memory/note.template.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-templates/memory/memory.template.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-templates/memory/metadata.template.md" />
-    <entry file="file://$PROJECT_DIR$/AwnFramework/other/NEW.v3.md">
+    <entry file="file://$PROJECT_DIR$/AWNFrameworkDocumentation/other/NEW.v3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3375">
@@ -800,7 +947,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/Templates/SKELETON.template.md">
+    <entry file="file://$PROJECT_DIR$/AWNFramework/Templates/SKELETON.template.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="345">
@@ -827,5 +974,12 @@
     <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-cli-scratch/_types/meta.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/mdbase.yaml" />
     <entry file="file://$PROJECT_DIR$/v4/todo.md" />
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

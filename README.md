@@ -1,14 +1,14 @@
 # AWN Framework (Agent Workspace Nodes) — простой гибкий фреймворк для агентных систем на базе нод
 
-![alt](AwnFramework/doc/Preview.png)
+![alt](AWNFrameworkDocumentation/assets/Preview.png)
 
-![alt](AwnFramework/doc/fda02247-be70-4e6e-8a89-23944be3dfe6.png)
+![alt](AWNFrameworkDocumentation/assets/fda02247-be70-4e6e-8a89-23944be3dfe6.png)
 
-![Node — атомарные ноды и память агента (инфографика)](AwnFramework/doc/3593354e-2c7d-45c9-859f-8adc1b3f7477.png)
+![Node — атомарные ноды и память агента (инфографика)](AWNFrameworkDocumentation/assets/3593354e-2c7d-45c9-859f-8adc1b3f7477.png)
 
-![Permanent Memory: курируемая память (Obsidian), Verbatim-история, Temporal Graph (Graphiti)](AwnFramework/doc/c8ffb2cd-7ae4-4c9d-a038-55a1c6c1bfac.png)
+![Permanent Memory: курируемая память (Obsidian), Verbatim-история, Temporal Graph (Graphiti)](AWNFrameworkDocumentation/assets/c8ffb2cd-7ae4-4c9d-a038-55a1c6c1bfac.png)
 
-![Дружелюбный ИИ-робот медитирует и организует цифровые папки в саду знаний](AwnFramework/doc/e9cc3257-87c2-42c4-aba2-ed12f0bd7cbd.png)
+![Дружелюбный ИИ-робот медитирует и организует цифровые папки в саду знаний](AWNFrameworkDocumentation/assets/e9cc3257-87c2-42c4-aba2-ed12f0bd7cbd.png)
 
 > [!NOTE]
 > 
@@ -226,7 +226,7 @@ AWN не навязывает обязательное дерево катало
 
 ### Sidecar к медиа и бинарникам: `*.metadata.md`
 
-Рядом с не‑markdown файлом в **той же папке** создаётся markdown с именем **`полное_имя_носителя.metadata.md`** (например `AwnFramework/doc/Aya.jpg` → `AwnFramework/doc/Aya.jpg.metadata.md`). В шапке — **пользовательские** поля на английском (`summary`, опционально `relatedNode`, `TAGS`, …), без канона памяти ноды. Это нужно, чтобы агент мог прочитать **смысл** вложения, не открывая бинарник. Подробности и примеры — в ноде **`Assistant.Ai/Nodes/MetadataFiles.node.md`**; кратко — в `AGENTS.md` → **«Sidecar метаданные»**.
+Рядом с не‑markdown файлом в **той же папке** создаётся markdown с именем **`полное_имя_носителя.metadata.md`** (например `AWNFrameworkDocumentation/assets/Aya.jpg` → `AWNFrameworkDocumentation/assets/Aya.jpg.metadata.md`). В шапке — **пользовательские** поля на английском (`summary`, опционально `relatedNode`, `TAGS`, …), без канона памяти ноды. Это нужно, чтобы агент мог прочитать **смысл** вложения, не открывая бинарник. Подробности и примеры — в ноде **`Assistant.Ai/Nodes/MetadataFiles.node.md`**; кратко — в `AGENTS.md` → **«Sidecar метаданные»**.
 
 Статус ноды особенно важен для человека:
 
@@ -1472,11 +1472,11 @@ LIMIT 5
 
 Моё первое знакомство с агентными системами было невероятным: не инструмент в строке поиска, а ощущение живого напарника, который сам выходит в контакт. Образ **AYA (Ая)** — когнитивная система, «второй мозг, который действует» — тогда сложилась с этим чувством в одну картинку. Первое имя цифрового персонажа прямо как в компьютерных играх — только здесь не игра, а реальная жизнь.
 
-![AYA — Cognitive Intelligence System (обложка проекта)](AwnFramework/doc/Aya.jpg)
+![AYA — Cognitive Intelligence System (обложка проекта)](AWNFrameworkDocumentation/assets/Aya.jpg)
 
 Первое утреннее сообщение от агента в Telegram запомнилось навсегда — простые слова, в которых было и приветствие дня, и забота, и лёгкий старт без морали:
 
-![Первые слова агента в Telegram (утро)](AwnFramework/doc/FirstWords.jpg)
+![Первые слова агента в Telegram (утро)](AWNFrameworkDocumentation/assets/FirstWords.jpg)
 
 > 🌅 Доброе утро! Время просыпаться — новый день, новые возможности. Потянись, улыбнись и вперёд!
 

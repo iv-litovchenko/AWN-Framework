@@ -26,5 +26,7 @@
   "juggl",
   "obsidian-siteswap",
   "breadcrumbs",
-  "notebook-navigator"
+  "notebook-navigator",
+  "bases-style-enhancer",
+  "note_uid_generator"
 ]
