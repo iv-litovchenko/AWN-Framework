@@ -4,63 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7f9c76e62d164205",
+        "id": "84a16173ba86569e",
         "type": "tabs",
         "children": [
           {
-            "id": "78a78bbd931c5d74",
+            "id": "ec45b2665c4cd769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "v3/Inbox/_Index.node.md",
+                "file": "v4/+SYSTEM/Templates/SKELETON.template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Index.node"
+              "title": "SKELETON.template"
             }
           },
           {
-            "id": "3e4defa02b1a782c",
+            "id": "8d4d90fd852a179b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "v3/Assistant.Ai/Core/Management.node.md",
+                "file": "Dashboards/Area.node.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Management.node"
-            }
-          },
-          {
-            "id": "4b663e3cb9e5d2f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domains/Index.node.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Index.node"
-            }
-          },
-          {
-            "id": "13c9e5b5dde2ba7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domains/Categories.node.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Categories.node"
+              "title": "Area.node"
             }
           }
         ],
@@ -96,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"AWN-DESC\"]",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,12 +88,22 @@
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
+          },
+          {
+            "id": "8770118776dd2a2b",
+            "type": "leaf",
+            "state": {
+              "type": "center-panes",
+              "state": {},
+              "icon": "three-horizontal-bars",
+              "title": "Center Panes"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 476.5
   },
   "right": {
     "id": "c450d9bef823a3b2",
@@ -156,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Example/Visualization/07-Obsidian-Charts-example.md",
+                "file": "v3/awn-assistant-ai/core/management.node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 07-Obsidian-Charts-example"
+              "title": "Исходящие ссылки из management.node"
             }
           },
           {
@@ -199,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Example/Visualization/07-Obsidian-Charts-example.md",
+                "file": "v3/awn-assistant-ai/core/management.node.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 07-Obsidian-Charts-example"
+              "title": "Структура management.node"
             }
           },
           {
@@ -215,10 +197,51 @@
               "type": "infranodus-graph-view",
               "state": {},
               "icon": "infranodus-icon",
-              "title": "Domains/Collections/Dashboards/Map.excalidraw.md"
+              "title": "Untitled.md"
+            }
+          },
+          {
+            "id": "e948c452ba69b92b",
+            "type": "leaf",
+            "state": {
+              "type": "pw.todo-list",
+              "state": {},
+              "icon": "check-small",
+              "title": "Todo"
+            }
+          },
+          {
+            "id": "ec1c552aa859e6a8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          },
+          {
+            "id": "8566bf50884e9f09",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "a3ae122bbab2263d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -235,58 +258,70 @@
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "infranodus-graph-view:InfraNodus Graph View": false
+      "infranodus-graph-view:InfraNodus Graph View": false,
+      "obsidian-spaced-repetition:Изучать карточки": false,
+      "proletarian-wizard:Open planning": false,
+      "spaced-repetition-ai:Review your flashcards and notes": false,
+      "juggl:Juggl global graph": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "3e4defa02b1a782c",
+  "active": "8d4d90fd852a179b",
   "lastOpenFiles": [
-    "Domains/Categories.node.md",
-    "Domains/Index.node.md",
-    "v3/Assistant.Ai/Core/Management.node.md",
-    "v3/Inbox/_Index.node.md",
-    "v3/Inbox/Temp",
-    "AGENTS.FULL.md",
-    "v3/Assistant.Ai/Core/MemoryFiles.node.md",
-    "v3/Assistant.Ai/Core/MetadataFiles.node.md",
-    "v3/Templates/Index.template.md",
-    "v3/Templates/Nodo.Solo.template.md",
-    "v3/Templates/Area.template.md",
-    "v3/Templates/Memory/Note.template.md",
-    "v3/Templates/Memory/Metadata.template.md",
-    "v3/Templates/Memory/Memory.template.md",
-    "v3/Awn.Full.md",
-    "v3/Templates/Memory",
-    "v3/Templates/Memo.md",
-    "Assistant.Ai/Nodes/MemoryFiles.node.md",
-    "v3/Assistant.Ai/Core/_Index.node.md",
-    "AGENTS.md",
-    "v3/Awn.Registry.md",
-    "Templates/Nodes/Area.template.md",
-    "v3/Templates/Nodes/Index.template.md",
-    "v3/Templates/Nodes/Solo.template.md",
-    "v3/Templates/Nodes/Area.template.md",
-    "v3/Templates/Nodes",
-    "v3/Templates/Records/Note.template.md",
-    "v3/Templates/Records/Metadata.template.md",
-    "v3/Templates/Records/Memory.template.md",
-    "v3/Templates/Records",
-    "v3/Templates",
-    "v3/Records",
-    "v3/sessions/default_1778246321635.json",
-    "v3/Assistant.Ai/Cron/Memory",
-    "v3/Assistant.Ai/Nodes/DeviceControl",
-    "v3/Assistant.Ai/Chats",
+    "Dashboards/Home.md",
+    "Dashboards/Vault-atlas.excalidraw.md",
+    "Dashboards/Vault-atlas.md",
     "Dashboards/Vault-atlas.canvas",
-    "Example/Visualization/01-Canvas-Ironman-HUD.canvas",
-    "Inbox/knowledge/images/tasks-medknizhki-v2.jpg",
-    "Inbox/knowledge/images/seo-keywords-target-queries.jpg",
-    "Inbox/knowledge/images/menu-bad-readability.jpg",
-    "Inbox/knowledge/images/keywords-main-page-v2.jpg",
-    "Inbox/knowledge/images/2026-04-28_1704.jpg",
-    "Inbox/a42c834d72128b4218460f0388edd565/knowledge/images/tasks-medknizhki-v2.jpg",
-    "Inbox/a42c834d72128b4218460f0388edd565/knowledge/images/seo-keywords-target-queries.jpg",
-    "Inbox/a42c834d72128b4218460f0388edd565/knowledge/images/menu-bad-readability.jpg",
-    "Inbox/a42c834d72128b4218460f0388edd565/knowledge/images/keywords-main-page-v2.jpg",
-    "Inbox/a42c834d72128b4218460f0388edd565/knowledge/images/2026-04-28_1704.jpg"
+    "Tests/Area.node.md",
+    "Templates/Nodes/Solo.template.md",
+    "Templates/Nodes/Index.template.md",
+    "Templates/Nodes/Area.template.md",
+    "Templates/Records/Memory.template.md",
+    "Templates/Records/Metadata.template.md",
+    "Templates/Records/Note.template.md",
+    "Domains/Index.node.md",
+    "Domains/Categories.node.md",
+    "Domains/EnglishLearning/Index.node.md",
+    "Domains/EnglishLearning/Notes/Verbs.md",
+    "Domains/Collections/Index.node.md",
+    "Dashboards/Area.node.md",
+    "Assistant.Ai/Chats/Area.node.md",
+    "Assistant.Ai/Core/Area.node.md",
+    "Assistant.Ai/Cron/DailyHealthCheck.node.md",
+    "Assistant.Ai/Cron/Area.node.md",
+    "Assistant.Ai/Logs/Area.node.md",
+    "Assistant.Ai/Nodes/RandomAnecdote.node.md",
+    "Assistant.Ai/Nodes/MetadataFiles.node.md",
+    "Assistant.Ai/Nodes/MemoryFiles.node.md",
+    "Assistant.Ai/Nodes/GitPush.node.md",
+    "Assistant.Ai/Nodes/GitPull.node.md",
+    "AwnFramework/v3/awn-assistant-ai",
+    "AwnFramework/v3/Новая папка",
+    "AwnFramework/v3/awn-spaces/space-nnn/_agent",
+    "AwnFramework/v3/awn-spaces/space-nnn",
+    "AwnFramework/v3/awn-inbox",
+    "AwnFramework/v3/awn-spaces",
+    "AwnFramework/v3",
+    "AwnFramework/Новая папка",
+    "v4/+SYSTEM/documentation",
+    "v4/+SYSTEM/documents",
+    "v4/+SYSTEM/assets/thumbnails/resized/9ffa48a434c36958f0108bc43283b6a5_86cf658e.webp",
+    "v4/+SYSTEM/assets/Изображение JPEG-4443-9EDC-37-0.jpeg",
+    "v4/thumbnails/resized/9ffa48a434c36958f0108bc43283b6a5_86cf658e.webp",
+    "v4/Изображение JPEG-4443-9EDC-37-0.jpeg",
+    "v4/AGENTS.Dashboard.canvas",
+    "v4/Без названия.canvas",
+    "v4/Areas/Collections/Без названия.canvas",
+    "v4/Resourses/1Maya.png",
+    "v4/Resourses/ChatGPT Image 1 мая 2026 г., 17_28_57.png",
+    "Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles vertically.svg",
+    "Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
+    "Шаблон хранилища 2/Дневник/Статистика/Успехи за последние 30 дней.canvas",
+    "Шаблон хранилища 2/Дневник/Статистика/Статистика и фокус за 2026.canvas",
+    "v3/Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles vertically.svg",
+    "v3/Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
+    "v3/Шаблон хранилища 2/Дневник/Статистика/Успехи за последние 30 дней.canvas",
+    "v3/Шаблон хранилища 2/Дневник/Статистика/Статистика и фокус за 2026.canvas",
+    "Example/Visualization/01-Canvas-Ironman-HUD.canvas"
   ]
 }

@@ -30,6 +30,8 @@ LIMIT 10
 ## 🗂️ Домены
 
 - [[Domains/EnglishLearning/Index.node.md|🇬🇧 English Learning]]
+- [[Domains/Collections/Index.node.md|Collections]]
+- [[Dashboards/Vault-atlas.md|🗺 Vault Atlas]] — canvas + excalidraw карта входов
 
 ---
 

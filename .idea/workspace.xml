@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="--- Вторая версия ---">
+    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="--- 3 версия ---">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/community-plugins.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dashboards/Area.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboards/Area.node.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dashboards/Home.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboards/Home.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domains/Categories.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Domains/Categories.node.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Domains/Collections/Index.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Domains/Collections/Index.node.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Domains/EnglishLearning/Index.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Domains/EnglishLearning/Index.node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.makemd/fileCache.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.makemd/fileCache.mdc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.makemd/superstate.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.makemd/superstate.mdc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/iconic/data.json.backup1" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/iconic/data.json.backup1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/make-md/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/make-md/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/remember-cursor-position/cursor-positions.json" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/remember-cursor-position/cursor-positions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/task-board/task-board-logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/task-board/task-board-logs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/task-board/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/task-board/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/Безымянная Kanban-доска.md" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/Безымянная Kanban-доска.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/Дневник/Ежедневник/2026-05-09.md" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/Дневник/Ежедневник/2026-05-09.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/Дневник/Задачи/Kanban доски/Жизнь.md" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/Дневник/Задачи/Kanban доски/Жизнь.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/Дневник/Статистика/Статистика и фокус за 2026.canvas" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/Дневник/Статистика/Статистика и фокус за 2026.canvas" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,56 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Chats/_Index.node.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="555">
-                <caret line="37" selection-start-line="37" selection-end-line="37" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HEARTBEAT.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="33" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/v3/HEARTBEAT.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
-                <caret line="33" selection-start-line="33" selection-end-line="33" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Core/MetadataFiles.node.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -78,14 +45,22 @@
       <find>.awn-framework</find>
       <find>.awn-framework/</find>
       <find>Assistant.Ai</find>
+      <find>awn.full.md</find>
+      <find>Awn.</find>
+      <find>Awn.Settings.md</find>
+      <find>Awn.Registry.md</find>
+      <find>awn-proprity</find>
     </findStrings>
     <replaceStrings>
       <replace>.awn-framework/doc/</replace>
       <replace>AwnFramework/</replace>
       <replace>AiAssistant</replace>
+      <replace>awn.</replace>
+      <replace>awn.settings.md</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/v3</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -95,8 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/claude/AGENTS.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/AGENTS.SETTINGS.md" />
         <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/Идеи улучшения и варианты развития.md" />
         <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/QWEN.md" />
         <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/AGENTS.LLM_BOOTSTRAP_PRESET.md" />
@@ -129,6 +102,25 @@
         <option value="$PROJECT_DIR$/AGENTS.NODES.md" />
         <option value="$PROJECT_DIR$/v3/Awn.Full.md" />
         <option value="$PROJECT_DIR$/v3/HEARTBEAT.md" />
+        <option value="$PROJECT_DIR$/v3/AGENTS.md" />
+        <option value="$PROJECT_DIR$/v3/Tests/_Index.node.md" />
+        <option value="$PROJECT_DIR$/v3/TODO.ADD.v3.md" />
+        <option value="$PROJECT_DIR$/v3/TODO.ADD.v3.opus.md" />
+        <option value="$PROJECT_DIR$/v4/+SYSTEM/00_BASE.template.md" />
+        <option value="$PROJECT_DIR$/v4/+SYSTEM/00_INDEX.template.md" />
+        <option value="$PROJECT_DIR$/v4/+SYSTEM/01_PART.template.md" />
+        <option value="$PROJECT_DIR$/v4/+SYSTEM/02_PAGE.template.md" />
+        <option value="$PROJECT_DIR$/v4/+SYSTEM/03_NOTE.template.md" />
+        <option value="$PROJECT_DIR$/v4/+SYSTEM/04_ROW.template.md" />
+        <option value="$PROJECT_DIR$/v4/+SYSTEM/05.SIDECAR.template.md" />
+        <option value="$PROJECT_DIR$/v3/awn-templates/index.template.md" />
+        <option value="$PROJECT_DIR$/v3/awn-templates/nodo.solo.template.md" />
+        <option value="$PROJECT_DIR$/v3/awn-templates/memory/note.template.md" />
+        <option value="$PROJECT_DIR$/v3/awn-templates/memory/memory.template.md" />
+        <option value="$PROJECT_DIR$/v3/awn-templates/memory/metadata.template.md" />
+        <option value="$PROJECT_DIR$/v4/+SYSTEM/Templates/SKELETON.template.md" />
+        <option value="$PROJECT_DIR$/v4/+SYSTEM/Templates/LINK.type.template.md" />
+        <option value="$PROJECT_DIR$/v4/todo.md" />
       </list>
     </option>
   </component>
@@ -149,6 +141,11 @@
             <path>
               <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
               <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
+              <item name="v4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -293,361 +290,393 @@
       <workItem from="1778242564952" duration="1145000" />
       <workItem from="1778245734395" duration="1326000" />
       <workItem from="1778252999102" duration="1805000" />
-      <workItem from="1778255296479" duration="567000" />
+      <workItem from="1778255296479" duration="1320000" />
+      <workItem from="1778312858302" duration="641000" />
+      <workItem from="1778370939433" duration="667000" />
+      <workItem from="1778408279845" duration="117000" />
+      <workItem from="1778408402265" duration="1370000" />
+      <workItem from="1778410311483" duration="1909000" />
+      <workItem from="1778412473240" duration="1774000" />
+      <workItem from="1778414558739" duration="1370000" />
+      <workItem from="1778418880301" duration="1565000" />
+      <workItem from="1778420935581" duration="1835000" />
+      <workItem from="1778423986155" duration="1430000" />
+      <workItem from="1778428696340" duration="2281000" />
+      <workItem from="1778431263974" duration="1327000" />
+      <workItem from="1778440270181" duration="1461000" />
+      <workItem from="1778444155681" duration="1153000" />
+      <workItem from="1778447058156" duration="1470000" />
+      <workItem from="1778450060672" duration="1493000" />
+      <workItem from="1778452265782" duration="1493000" />
+      <workItem from="1778456339184" duration="1582000" />
+      <workItem from="1778503283031" duration="1593000" />
+      <workItem from="1778507497577" duration="735000" />
+      <workItem from="1778511390047" duration="1054000" />
+      <workItem from="1778521626080" duration="1646000" />
+      <workItem from="1778524657615" duration="1325000" />
+      <workItem from="1778527830520" duration="757000" />
+      <workItem from="1778537011408" duration="553000" />
+      <workItem from="1778539628933" duration="796000" />
+      <workItem from="1778543045955" duration="1749000" />
+      <workItem from="1778546600895" duration="540000" />
+      <workItem from="1778573202116" duration="503000" />
+      <workItem from="1778684923909" duration="1203000" />
+      <workItem from="1778688459673" duration="1226000" />
+      <workItem from="1778690834131" duration="131000" />
     </task>
-    <task id="LOCAL-00257" summary="--- Вторая версия ---">
-      <created>1778012750774</created>
-      <option name="number" value="00257" />
-      <option name="presentableId" value="LOCAL-00257" />
+    <task id="LOCAL-00326" summary="--- 3 версия ---">
+      <created>1778425748984</created>
+      <option name="number" value="00326" />
+      <option name="presentableId" value="LOCAL-00326" />
       <option name="project" value="LOCAL" />
-      <updated>1778012750775</updated>
+      <updated>1778425748984</updated>
     </task>
-    <task id="LOCAL-00258" summary="--- Вторая версия ---">
-      <created>1778012932251</created>
-      <option name="number" value="00258" />
-      <option name="presentableId" value="LOCAL-00258" />
+    <task id="LOCAL-00327" summary="--- 3 версия ---">
+      <created>1778428910285</created>
+      <option name="number" value="00327" />
+      <option name="presentableId" value="LOCAL-00327" />
       <option name="project" value="LOCAL" />
-      <updated>1778012932251</updated>
+      <updated>1778428910285</updated>
     </task>
-    <task id="LOCAL-00259" summary="--- Вторая версия ---">
-      <created>1778013617640</created>
-      <option name="number" value="00259" />
-      <option name="presentableId" value="LOCAL-00259" />
+    <task id="LOCAL-00328" summary="--- 3 версия ---">
+      <created>1778429318533</created>
+      <option name="number" value="00328" />
+      <option name="presentableId" value="LOCAL-00328" />
       <option name="project" value="LOCAL" />
-      <updated>1778013617640</updated>
+      <updated>1778429318533</updated>
     </task>
-    <task id="LOCAL-00260" summary="--- Вторая версия ---">
-      <created>1778014064743</created>
-      <option name="number" value="00260" />
-      <option name="presentableId" value="LOCAL-00260" />
+    <task id="LOCAL-00329" summary="--- 3 версия ---">
+      <created>1778429537392</created>
+      <option name="number" value="00329" />
+      <option name="presentableId" value="LOCAL-00329" />
       <option name="project" value="LOCAL" />
-      <updated>1778014064743</updated>
+      <updated>1778429537392</updated>
     </task>
-    <task id="LOCAL-00261" summary="--- Вторая версия ---">
-      <created>1778014698584</created>
-      <option name="number" value="00261" />
-      <option name="presentableId" value="LOCAL-00261" />
+    <task id="LOCAL-00330" summary="--- 3 версия ---">
+      <created>1778429653978</created>
+      <option name="number" value="00330" />
+      <option name="presentableId" value="LOCAL-00330" />
       <option name="project" value="LOCAL" />
-      <updated>1778014698586</updated>
+      <updated>1778429653978</updated>
     </task>
-    <task id="LOCAL-00262" summary="--- Вторая версия ---">
-      <created>1778015176961</created>
-      <option name="number" value="00262" />
-      <option name="presentableId" value="LOCAL-00262" />
+    <task id="LOCAL-00331" summary="--- 3 версия ---">
+      <created>1778430045473</created>
+      <option name="number" value="00331" />
+      <option name="presentableId" value="LOCAL-00331" />
       <option name="project" value="LOCAL" />
-      <updated>1778015176961</updated>
+      <updated>1778430045473</updated>
     </task>
-    <task id="LOCAL-00263" summary="--- Вторая версия ---">
-      <created>1778015565587</created>
-      <option name="number" value="00263" />
-      <option name="presentableId" value="LOCAL-00263" />
+    <task id="LOCAL-00332" summary="--- 3 версия ---">
+      <created>1778431410527</created>
+      <option name="number" value="00332" />
+      <option name="presentableId" value="LOCAL-00332" />
       <option name="project" value="LOCAL" />
-      <updated>1778015565588</updated>
+      <updated>1778431410527</updated>
     </task>
-    <task id="LOCAL-00264" summary="--- Вторая версия ---">
-      <created>1778051867000</created>
-      <option name="number" value="00264" />
-      <option name="presentableId" value="LOCAL-00264" />
+    <task id="LOCAL-00333" summary="--- 3 версия ---">
+      <created>1778432488272</created>
+      <option name="number" value="00333" />
+      <option name="presentableId" value="LOCAL-00333" />
       <option name="project" value="LOCAL" />
-      <updated>1778051867002</updated>
+      <updated>1778432488272</updated>
     </task>
-    <task id="LOCAL-00265" summary="--- Вторая версия ---">
-      <created>1778051882194</created>
-      <option name="number" value="00265" />
-      <option name="presentableId" value="LOCAL-00265" />
+    <task id="LOCAL-00334" summary="--- 3 версия ---">
+      <created>1778440342225</created>
+      <option name="number" value="00334" />
+      <option name="presentableId" value="LOCAL-00334" />
       <option name="project" value="LOCAL" />
-      <updated>1778051882194</updated>
+      <updated>1778440342227</updated>
     </task>
-    <task id="LOCAL-00266" summary="--- Вторая версия ---">
-      <created>1778052087480</created>
-      <option name="number" value="00266" />
-      <option name="presentableId" value="LOCAL-00266" />
+    <task id="LOCAL-00335" summary="--- 3 версия ---">
+      <created>1778441797313</created>
+      <option name="number" value="00335" />
+      <option name="presentableId" value="LOCAL-00335" />
       <option name="project" value="LOCAL" />
-      <updated>1778052087480</updated>
+      <updated>1778441797314</updated>
     </task>
-    <task id="LOCAL-00267" summary="--- Вторая версия ---">
-      <created>1778053101985</created>
-      <option name="number" value="00267" />
-      <option name="presentableId" value="LOCAL-00267" />
+    <task id="LOCAL-00336" summary="--- 3 версия ---">
+      <created>1778444172513</created>
+      <option name="number" value="00336" />
+      <option name="presentableId" value="LOCAL-00336" />
       <option name="project" value="LOCAL" />
-      <updated>1778053101985</updated>
+      <updated>1778444172513</updated>
     </task>
-    <task id="LOCAL-00268" summary="--- Вторая версия ---">
-      <created>1778054443283</created>
-      <option name="number" value="00268" />
-      <option name="presentableId" value="LOCAL-00268" />
+    <task id="LOCAL-00337" summary="--- 3 версия ---">
+      <created>1778445377906</created>
+      <option name="number" value="00337" />
+      <option name="presentableId" value="LOCAL-00337" />
       <option name="project" value="LOCAL" />
-      <updated>1778054443284</updated>
+      <updated>1778445377906</updated>
     </task>
-    <task id="LOCAL-00269" summary="--- Вторая версия ---">
-      <created>1778054614790</created>
-      <option name="number" value="00269" />
-      <option name="presentableId" value="LOCAL-00269" />
+    <task id="LOCAL-00338" summary="--- 3 версия ---">
+      <created>1778445886375</created>
+      <option name="number" value="00338" />
+      <option name="presentableId" value="LOCAL-00338" />
       <option name="project" value="LOCAL" />
-      <updated>1778054614790</updated>
+      <updated>1778445886375</updated>
     </task>
-    <task id="LOCAL-00270" summary="--- Вторая версия ---">
-      <created>1778055916271</created>
-      <option name="number" value="00270" />
-      <option name="presentableId" value="LOCAL-00270" />
+    <task id="LOCAL-00339" summary="--- 3 версия ---">
+      <created>1778447122985</created>
+      <option name="number" value="00339" />
+      <option name="presentableId" value="LOCAL-00339" />
       <option name="project" value="LOCAL" />
-      <updated>1778055916271</updated>
+      <updated>1778447122986</updated>
     </task>
-    <task id="LOCAL-00271" summary="--- Вторая версия ---">
-      <created>1778060146677</created>
-      <option name="number" value="00271" />
-      <option name="presentableId" value="LOCAL-00271" />
+    <task id="LOCAL-00340" summary="--- 3 версия ---">
+      <created>1778447168725</created>
+      <option name="number" value="00340" />
+      <option name="presentableId" value="LOCAL-00340" />
       <option name="project" value="LOCAL" />
-      <updated>1778060146677</updated>
+      <updated>1778447168725</updated>
     </task>
-    <task id="LOCAL-00272" summary="--- Вторая версия ---">
-      <created>1778060346443</created>
-      <option name="number" value="00272" />
-      <option name="presentableId" value="LOCAL-00272" />
+    <task id="LOCAL-00341" summary="--- 3 версия ---">
+      <created>1778447223204</created>
+      <option name="number" value="00341" />
+      <option name="presentableId" value="LOCAL-00341" />
       <option name="project" value="LOCAL" />
-      <updated>1778060346443</updated>
+      <updated>1778447223204</updated>
     </task>
-    <task id="LOCAL-00273" summary="--- Вторая версия ---">
-      <created>1778060728406</created>
-      <option name="number" value="00273" />
-      <option name="presentableId" value="LOCAL-00273" />
+    <task id="LOCAL-00342" summary="--- 3 версия ---">
+      <created>1778447336052</created>
+      <option name="number" value="00342" />
+      <option name="presentableId" value="LOCAL-00342" />
       <option name="project" value="LOCAL" />
-      <updated>1778060728406</updated>
+      <updated>1778447336052</updated>
     </task>
-    <task id="LOCAL-00274" summary="--- Вторая версия ---">
-      <created>1778063281444</created>
-      <option name="number" value="00274" />
-      <option name="presentableId" value="LOCAL-00274" />
+    <task id="LOCAL-00343" summary="--- 3 версия ---">
+      <created>1778447803706</created>
+      <option name="number" value="00343" />
+      <option name="presentableId" value="LOCAL-00343" />
       <option name="project" value="LOCAL" />
-      <updated>1778063281445</updated>
+      <updated>1778447803706</updated>
     </task>
-    <task id="LOCAL-00275" summary="--- Вторая версия ---">
-      <created>1778063507468</created>
-      <option name="number" value="00275" />
-      <option name="presentableId" value="LOCAL-00275" />
+    <task id="LOCAL-00344" summary="--- 3 версия ---">
+      <created>1778448010291</created>
+      <option name="number" value="00344" />
+      <option name="presentableId" value="LOCAL-00344" />
       <option name="project" value="LOCAL" />
-      <updated>1778063507468</updated>
+      <updated>1778448010291</updated>
     </task>
-    <task id="LOCAL-00276" summary="--- Вторая версия ---">
-      <created>1778063736947</created>
-      <option name="number" value="00276" />
-      <option name="presentableId" value="LOCAL-00276" />
+    <task id="LOCAL-00345" summary="--- 3 версия ---">
+      <created>1778450086526</created>
+      <option name="number" value="00345" />
+      <option name="presentableId" value="LOCAL-00345" />
       <option name="project" value="LOCAL" />
-      <updated>1778063736947</updated>
+      <updated>1778450086527</updated>
     </task>
-    <task id="LOCAL-00277" summary="--- Вторая версия ---">
-      <created>1778063976980</created>
-      <option name="number" value="00277" />
-      <option name="presentableId" value="LOCAL-00277" />
+    <task id="LOCAL-00346" summary="--- 3 версия ---">
+      <created>1778450873167</created>
+      <option name="number" value="00346" />
+      <option name="presentableId" value="LOCAL-00346" />
       <option name="project" value="LOCAL" />
-      <updated>1778063976981</updated>
+      <updated>1778450873168</updated>
     </task>
-    <task id="LOCAL-00278" summary="--- Вторая версия ---">
-      <created>1778066129079</created>
-      <option name="number" value="00278" />
-      <option name="presentableId" value="LOCAL-00278" />
+    <task id="LOCAL-00347" summary="--- 3 версия ---">
+      <created>1778451350902</created>
+      <option name="number" value="00347" />
+      <option name="presentableId" value="LOCAL-00347" />
       <option name="project" value="LOCAL" />
-      <updated>1778066129081</updated>
+      <updated>1778451350902</updated>
     </task>
-    <task id="LOCAL-00279" summary="--- Вторая версия ---">
-      <created>1778069091160</created>
-      <option name="number" value="00279" />
-      <option name="presentableId" value="LOCAL-00279" />
+    <task id="LOCAL-00348" summary="--- 3 версия ---">
+      <created>1778453227682</created>
+      <option name="number" value="00348" />
+      <option name="presentableId" value="LOCAL-00348" />
       <option name="project" value="LOCAL" />
-      <updated>1778069091161</updated>
+      <updated>1778453227683</updated>
     </task>
-    <task id="LOCAL-00280" summary="--- Вторая версия ---">
-      <created>1778069425748</created>
-      <option name="number" value="00280" />
-      <option name="presentableId" value="LOCAL-00280" />
+    <task id="LOCAL-00349" summary="--- 3 версия ---">
+      <created>1778456369007</created>
+      <option name="number" value="00349" />
+      <option name="presentableId" value="LOCAL-00349" />
       <option name="project" value="LOCAL" />
-      <updated>1778069425748</updated>
+      <updated>1778456369007</updated>
     </task>
-    <task id="LOCAL-00281" summary="--- Вторая версия ---">
-      <created>1778069559589</created>
-      <option name="number" value="00281" />
-      <option name="presentableId" value="LOCAL-00281" />
+    <task id="LOCAL-00350" summary="--- 3 версия ---">
+      <created>1778456547352</created>
+      <option name="number" value="00350" />
+      <option name="presentableId" value="LOCAL-00350" />
       <option name="project" value="LOCAL" />
-      <updated>1778069559589</updated>
+      <updated>1778456547352</updated>
     </task>
-    <task id="LOCAL-00282" summary="--- Вторая версия ---">
-      <created>1778078910284</created>
-      <option name="number" value="00282" />
-      <option name="presentableId" value="LOCAL-00282" />
+    <task id="LOCAL-00351" summary="--- 3 версия ---">
+      <created>1778457468522</created>
+      <option name="number" value="00351" />
+      <option name="presentableId" value="LOCAL-00351" />
       <option name="project" value="LOCAL" />
-      <updated>1778078910287</updated>
+      <updated>1778457468522</updated>
     </task>
-    <task id="LOCAL-00283" summary="--- Вторая версия ---">
-      <created>1778093429611</created>
-      <option name="number" value="00283" />
-      <option name="presentableId" value="LOCAL-00283" />
+    <task id="LOCAL-00352" summary="--- 3 версия ---">
+      <created>1778503335116</created>
+      <option name="number" value="00352" />
+      <option name="presentableId" value="LOCAL-00352" />
       <option name="project" value="LOCAL" />
-      <updated>1778093429612</updated>
+      <updated>1778503335117</updated>
     </task>
-    <task id="LOCAL-00284" summary="--- Вторая версия ---">
-      <created>1778094117020</created>
-      <option name="number" value="00284" />
-      <option name="presentableId" value="LOCAL-00284" />
+    <task id="LOCAL-00353" summary="--- 3 версия ---">
+      <created>1778507661002</created>
+      <option name="number" value="00353" />
+      <option name="presentableId" value="LOCAL-00353" />
       <option name="project" value="LOCAL" />
-      <updated>1778094117021</updated>
+      <updated>1778507661006</updated>
     </task>
-    <task id="LOCAL-00285" summary="--- Вторая версия ---">
-      <created>1778094242445</created>
-      <option name="number" value="00285" />
-      <option name="presentableId" value="LOCAL-00285" />
+    <task id="LOCAL-00354" summary="--- 3 версия ---">
+      <created>1778511535603</created>
+      <option name="number" value="00354" />
+      <option name="presentableId" value="LOCAL-00354" />
       <option name="project" value="LOCAL" />
-      <updated>1778094242445</updated>
+      <updated>1778511535604</updated>
     </task>
-    <task id="LOCAL-00286" summary="--- Вторая версия ---">
-      <created>1778094288233</created>
-      <option name="number" value="00286" />
-      <option name="presentableId" value="LOCAL-00286" />
+    <task id="LOCAL-00355" summary="--- 3 версия ---">
+      <created>1778511579737</created>
+      <option name="number" value="00355" />
+      <option name="presentableId" value="LOCAL-00355" />
       <option name="project" value="LOCAL" />
-      <updated>1778094288235</updated>
+      <updated>1778511579737</updated>
     </task>
-    <task id="LOCAL-00287" summary="--- Вторая версия ---">
-      <created>1778094386969</created>
-      <option name="number" value="00287" />
-      <option name="presentableId" value="LOCAL-00287" />
+    <task id="LOCAL-00356" summary="--- 3 версия ---">
+      <created>1778521647750</created>
+      <option name="number" value="00356" />
+      <option name="presentableId" value="LOCAL-00356" />
       <option name="project" value="LOCAL" />
-      <updated>1778094386969</updated>
+      <updated>1778521647751</updated>
     </task>
-    <task id="LOCAL-00288" summary="--- Вторая версия ---">
-      <created>1778147712639</created>
-      <option name="number" value="00288" />
-      <option name="presentableId" value="LOCAL-00288" />
+    <task id="LOCAL-00357" summary="--- 3 версия ---">
+      <created>1778521670337</created>
+      <option name="number" value="00357" />
+      <option name="presentableId" value="LOCAL-00357" />
       <option name="project" value="LOCAL" />
-      <updated>1778147712639</updated>
+      <updated>1778521670337</updated>
     </task>
-    <task id="LOCAL-00289" summary="--- Вторая версия ---">
-      <created>1778147722943</created>
-      <option name="number" value="00289" />
-      <option name="presentableId" value="LOCAL-00289" />
+    <task id="LOCAL-00358" summary="--- 3 версия ---">
+      <created>1778521698550</created>
+      <option name="number" value="00358" />
+      <option name="presentableId" value="LOCAL-00358" />
       <option name="project" value="LOCAL" />
-      <updated>1778147722943</updated>
+      <updated>1778521698550</updated>
     </task>
-    <task id="LOCAL-00290" summary="--- Вторая версия ---">
-      <created>1778148510892</created>
-      <option name="number" value="00290" />
-      <option name="presentableId" value="LOCAL-00290" />
+    <task id="LOCAL-00359" summary="--- 3 версия ---">
+      <created>1778522608683</created>
+      <option name="number" value="00359" />
+      <option name="presentableId" value="LOCAL-00359" />
       <option name="project" value="LOCAL" />
-      <updated>1778148510894</updated>
+      <updated>1778522608683</updated>
     </task>
-    <task id="LOCAL-00291" summary="--- Вторая версия ---">
-      <created>1778148605764</created>
-      <option name="number" value="00291" />
-      <option name="presentableId" value="LOCAL-00291" />
+    <task id="LOCAL-00360" summary="--- 3 версия ---">
+      <created>1778522672164</created>
+      <option name="number" value="00360" />
+      <option name="presentableId" value="LOCAL-00360" />
       <option name="project" value="LOCAL" />
-      <updated>1778148605764</updated>
+      <updated>1778522672164</updated>
     </task>
-    <task id="LOCAL-00292" summary="--- Вторая версия ---">
-      <created>1778149599561</created>
-      <option name="number" value="00292" />
-      <option name="presentableId" value="LOCAL-00292" />
+    <task id="LOCAL-00361" summary="--- 3 версия ---">
+      <created>1778524693589</created>
+      <option name="number" value="00361" />
+      <option name="presentableId" value="LOCAL-00361" />
       <option name="project" value="LOCAL" />
-      <updated>1778149599561</updated>
+      <updated>1778524693590</updated>
     </task>
-    <task id="LOCAL-00293" summary="--- Вторая версия ---">
-      <created>1778181219730</created>
-      <option name="number" value="00293" />
-      <option name="presentableId" value="LOCAL-00293" />
+    <task id="LOCAL-00362" summary="--- 4 версия ---">
+      <created>1778524736048</created>
+      <option name="number" value="00362" />
+      <option name="presentableId" value="LOCAL-00362" />
       <option name="project" value="LOCAL" />
-      <updated>1778181219731</updated>
+      <updated>1778524736048</updated>
     </task>
-    <task id="LOCAL-00294" summary="--- Вторая версия ---">
-      <created>1778181655908</created>
-      <option name="number" value="00294" />
-      <option name="presentableId" value="LOCAL-00294" />
+    <task id="LOCAL-00363" summary="--- 3 версия ---">
+      <created>1778529073530</created>
+      <option name="number" value="00363" />
+      <option name="presentableId" value="LOCAL-00363" />
       <option name="project" value="LOCAL" />
-      <updated>1778181655908</updated>
+      <updated>1778529073531</updated>
     </task>
-    <task id="LOCAL-00295" summary="--- Вторая версия ---">
-      <created>1778181864205</created>
-      <option name="number" value="00295" />
-      <option name="presentableId" value="LOCAL-00295" />
+    <task id="LOCAL-00364" summary="--- 3 версия ---">
+      <created>1778529092886</created>
+      <option name="number" value="00364" />
+      <option name="presentableId" value="LOCAL-00364" />
       <option name="project" value="LOCAL" />
-      <updated>1778181864205</updated>
+      <updated>1778529092886</updated>
     </task>
-    <task id="LOCAL-00296" summary="--- Вторая версия ---">
-      <created>1778184538604</created>
-      <option name="number" value="00296" />
-      <option name="presentableId" value="LOCAL-00296" />
+    <task id="LOCAL-00365" summary="--- 3 версия ---">
+      <created>1778539689547</created>
+      <option name="number" value="00365" />
+      <option name="presentableId" value="LOCAL-00365" />
       <option name="project" value="LOCAL" />
-      <updated>1778184538605</updated>
+      <updated>1778539689548</updated>
     </task>
-    <task id="LOCAL-00297" summary="--- Третья версия ---">
-      <created>1778240449345</created>
-      <option name="number" value="00297" />
-      <option name="presentableId" value="LOCAL-00297" />
+    <task id="LOCAL-00366" summary="--- 3 версия ---">
+      <created>1778539937163</created>
+      <option name="number" value="00366" />
+      <option name="presentableId" value="LOCAL-00366" />
       <option name="project" value="LOCAL" />
-      <updated>1778240449347</updated>
+      <updated>1778539937163</updated>
     </task>
-    <task id="LOCAL-00298" summary="--- Вторая версия ---">
-      <created>1778242631364</created>
-      <option name="number" value="00298" />
-      <option name="presentableId" value="LOCAL-00298" />
+    <task id="LOCAL-00367" summary="--- 3 версия ---">
+      <created>1778543074623</created>
+      <option name="number" value="00367" />
+      <option name="presentableId" value="LOCAL-00367" />
       <option name="project" value="LOCAL" />
-      <updated>1778242631366</updated>
+      <updated>1778543074624</updated>
     </task>
-    <task id="LOCAL-00299" summary="--- Вторая версия ---">
-      <created>1778243049584</created>
-      <option name="number" value="00299" />
-      <option name="presentableId" value="LOCAL-00299" />
+    <task id="LOCAL-00368" summary="--- 3 версия ---">
+      <created>1778544020286</created>
+      <option name="number" value="00368" />
+      <option name="presentableId" value="LOCAL-00368" />
       <option name="project" value="LOCAL" />
-      <updated>1778243049584</updated>
+      <updated>1778544020286</updated>
     </task>
-    <task id="LOCAL-00300" summary="--- Вторая версия ---">
-      <created>1778246299291</created>
-      <option name="number" value="00300" />
-      <option name="presentableId" value="LOCAL-00300" />
+    <task id="LOCAL-00369" summary="--- 3 версия ---">
+      <created>1778544231515</created>
+      <option name="number" value="00369" />
+      <option name="presentableId" value="LOCAL-00369" />
       <option name="project" value="LOCAL" />
-      <updated>1778246299292</updated>
+      <updated>1778544231516</updated>
     </task>
-    <task id="LOCAL-00301" summary="--- 3 версия ---">
-      <created>1778253464628</created>
-      <option name="number" value="00301" />
-      <option name="presentableId" value="LOCAL-00301" />
+    <task id="LOCAL-00370" summary="--- 3 версия ---">
+      <created>1778684988928</created>
+      <option name="number" value="00370" />
+      <option name="presentableId" value="LOCAL-00370" />
       <option name="project" value="LOCAL" />
-      <updated>1778253464629</updated>
+      <updated>1778684988929</updated>
     </task>
-    <task id="LOCAL-00302" summary="--- 3 версия ---">
-      <created>1778254464489</created>
-      <option name="number" value="00302" />
-      <option name="presentableId" value="LOCAL-00302" />
+    <task id="LOCAL-00371" summary="--- 3 версия ---">
+      <created>1778686291712</created>
+      <option name="number" value="00371" />
+      <option name="presentableId" value="LOCAL-00371" />
       <option name="project" value="LOCAL" />
-      <updated>1778254464489</updated>
+      <updated>1778686291713</updated>
     </task>
-    <task id="LOCAL-00303" summary="--- 3 версия ---">
-      <created>1778254501643</created>
-      <option name="number" value="00303" />
-      <option name="presentableId" value="LOCAL-00303" />
+    <task id="LOCAL-00372" summary="--- 3 версия ---">
+      <created>1778688511318</created>
+      <option name="number" value="00372" />
+      <option name="presentableId" value="LOCAL-00372" />
       <option name="project" value="LOCAL" />
-      <updated>1778254501643</updated>
+      <updated>1778688511318</updated>
     </task>
-    <task id="LOCAL-00304" summary="--- Вторая версия ---">
-      <created>1778254768610</created>
-      <option name="number" value="00304" />
-      <option name="presentableId" value="LOCAL-00304" />
+    <task id="LOCAL-00373" summary="--- 3 версия ---">
+      <created>1778689641304</created>
+      <option name="number" value="00373" />
+      <option name="presentableId" value="LOCAL-00373" />
       <option name="project" value="LOCAL" />
-      <updated>1778254768610</updated>
+      <updated>1778689641304</updated>
     </task>
-    <task id="LOCAL-00305" summary="--- Вторая версия ---">
-      <created>1778255363171</created>
-      <option name="number" value="00305" />
-      <option name="presentableId" value="LOCAL-00305" />
+    <task id="LOCAL-00374" summary="--- 4 версия ---">
+      <created>1778690960874</created>
+      <option name="number" value="00374" />
+      <option name="presentableId" value="LOCAL-00374" />
       <option name="project" value="LOCAL" />
-      <updated>1778255363172</updated>
+      <updated>1778690960875</updated>
     </task>
-    <option name="localTasksCounter" value="306" />
+    <option name="localTasksCounter" value="375" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127973000" />
+    <option name="totallyTimeSpent" value="167475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41086692" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33394384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -659,7 +688,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.29795918" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.17755102" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.26734695" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -717,186 +746,12 @@
     <MESSAGE value="Сбор идей" />
     <MESSAGE value="-- Закончил работу над первое версией --" />
     <MESSAGE value="--- Третья версия ---" />
-    <MESSAGE value="--- 3 версия ---" />
     <MESSAGE value="--- Вторая версия ---" />
-    <option name="LAST_COMMIT_MESSAGE" value="--- Вторая версия ---" />
+    <MESSAGE value="--- 3 версия ---" />
+    <MESSAGE value="--- 4 версия ---" />
+    <option name="LAST_COMMIT_MESSAGE" value="--- 4 версия ---" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AwnFramework/doc/Preview.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 16.48.27.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.54.38.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.55.36.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 17.58.30.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/ideas/petr/Снимок экрана 2026-05-03 в 18.00.50.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nodes/Projects.area.md.md" />
-    <entry file="file://$PROJECT_DIR$/AwnFramework/other/README.ASK.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/other/README.MEMORY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/other/README.RAG.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/other/safety-rules.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/other/YOUTUBE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwnFramework/README.md" />
-    <entry file="file://$PROJECT_DIR$/v2/AGENTS.old.md" />
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Cron/DailyHealthCheck.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env.example">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/TOOLS.md" />
-    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/latest_silero_models.yml" />
-    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/logs/2026-04-28_15-16-00.log" />
-    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/logs/2026-04-28_15-17-14.log" />
-    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/.openclaw/workspace-state.json" />
-    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/SOUL.md" />
-    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/AGENTS.md" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Inbox/a42c834d72128b4218460f0388edd565/VOICE_SETUP.md" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="621">
-            <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Inbox/Index.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Inbox/Area.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.fix.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Templates/Nodes/Area.template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="35" selection-start-line="35" selection-end-line="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Templates/Nodes/Index.template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Templates/Records/Memory.template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Templates/Records/Metadata.template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Templates/Records/Note.template.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -997,11 +852,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Chats/_Index.node.md">
+    <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Chats/_Index.node.md" />
+    <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Core/MetadataFiles.node.md" />
+    <entry file="file://$PROJECT_DIR$/AwnFramework/_Index.node.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="555">
-            <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <first_editor relative-caret-position="480">
+            <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
@@ -1017,21 +874,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Core/MetadataFiles.node.md">
+    <entry file="file://$PROJECT_DIR$/v3/HEARTBEAT.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn.full.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <first_editor relative-caret-position="542">
+            <caret line="121" selection-start-line="121" selection-end-line="121" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v3/HEARTBEAT.md">
+    <entry file="file://$PROJECT_DIR$/v3/TODO.ADD.v3.opus.md" />
+    <entry file="file://$PROJECT_DIR$/v3/TODO.ADD.v3.md" />
+    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/00_BASE.template.md" />
+    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/00_INDEX.template.md" />
+    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/01_PART.template.md" />
+    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/02_PAGE.template.md" />
+    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/03_NOTE.template.md" />
+    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/05.SIDECAR.template.md" />
+    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/04_ROW.template.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-templates/index.template.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-templates/nodo.solo.template.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-templates/memory/note.template.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-templates/memory/memory.template.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-templates/memory/metadata.template.md" />
+    <entry file="file://$PROJECT_DIR$/AwnFramework/other/NEW.v3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
-            <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <first_editor relative-caret-position="3375">
+            <caret line="225" column="30" selection-start-line="225" selection-start-column="30" selection-end-line="225" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/Templates/SKELETON.template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/_types/task.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/tasks/write-empty-state-docs.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/tasks/fix-login-bug.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/tasks/close-old-onboarding-ticket.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/tasks/cli-created-task.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/people/max.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-habits-demo/_types/habit.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-habits-demo/mdbase.yaml" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-habits-demo/habits/read-technical-book.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-habits-demo/habits/morning-walk.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/people/alice.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/queries.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-cli-scratch/mdbase.yaml" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/_types/person.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-cli-scratch/_types/meta.md" />
+    <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/mdbase.yaml" />
+    <entry file="file://$PROJECT_DIR$/v4/todo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>

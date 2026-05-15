@@ -17,7 +17,7 @@ AWN-AUTOMATIZATION: false
 AWN-CATEGORY: navigation
 AWN-VERSION: 0.1.0
 AWN-CREATED: 2026-05-06
-AWN-UPDATED: 2026-05-06
+AWN-UPDATED: 2026-05-07
 ---
 
 # Area - Dashboards
@@ -29,12 +29,14 @@ AWN-UPDATED: 2026-05-06
 
 - `Dashboards/Home.md` - основной markdown-дашборд для повседневной работы в Obsidian.
 - `Dashboards/Home.interactive.html` - интерактивный дашборд на HTML/CSS/JS.
+- `Dashboards/Vault-atlas.md` + `Vault-atlas.canvas` + `Vault-atlas.excalidraw.md` — **атлас входов** по vault (домены, ключевые ноды, обзор `Domains/*.node.md`).
 
 ## Политика форматов дашбордов
 
-- В области поддерживаются только 2 дашборда: один `md` и один `html`.
-- Дополнительные подпапки для дашбордов (например, `Collections/`) по умолчанию не создаются.
-- Расширение структуры обсуждается отдельно перед добавлением новых панелей.
+- **Ежедневные** панели по умолчанию: один основной `Home.md` и один `Home.interactive.html`.
+- **Atlas** (canvas + excalidraw) — отдельная навигационная карта; не заменяет доменные дашборды.
+- Дополнительные подпапки внутри `Dashboards/` по умолчанию не плодим без задачи.
+- Любое расширение сверх этого — по договорённости.
 
 ## Тон и принципы
 
