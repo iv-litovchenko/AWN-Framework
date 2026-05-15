@@ -2,17 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="--- 3 версия ---">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-spaced-repetition/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-spaced-repetition/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dashboards/Area.node.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dashboards/Home.interactive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dashboards/Home.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dashboards/Vault-atlas.canvas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dashboards/Vault-atlas.excalidraw.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dashboards/Vault-atlas.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SR/deck.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v4/.obsidian/plugins/notebook-navigator/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v4/.obsidian/plugins/notebook-navigator/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v4/.obsidian/plugins/vector-search/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v4/.obsidian/plugins/vector-search/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v4/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/v4/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.FULL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.LLM_BOOTSTRAP_PRESET.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.LLM_TEMPLATE_PRESET.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.NODES.CATALOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.NODES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.SETTINGS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLAUDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODEX.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEEPSEEK.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GEMINI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HEARTBEAT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG_9403.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/IMG_9403.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INSTALL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MISTRAL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QWEN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.fix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UPDATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,6 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,7 +146,7 @@
             <path>
               <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
               <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
-              <item name="v3" type="462c0819:PsiDirectoryNode" />
+              <item name="AwnFramework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
@@ -142,7 +157,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,11 +168,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/v4" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/v2" />
       <recent name="$PROJECT_DIR$/Nodes" />
       <recent name="$PROJECT_DIR$/.awn-framework/other" />
-      <recent name="$PROJECT_DIR$/.awn-framework/v1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,28 +330,8 @@
       <workItem from="1778688459673" duration="1226000" />
       <workItem from="1778690834131" duration="131000" />
       <workItem from="1778852749934" duration="227000" />
-      <workItem from="1778853612118" duration="561000" />
-    </task>
-    <task id="LOCAL-00329" summary="--- 3 версия ---">
-      <created>1778429537392</created>
-      <option name="number" value="00329" />
-      <option name="presentableId" value="LOCAL-00329" />
-      <option name="project" value="LOCAL" />
-      <updated>1778429537392</updated>
-    </task>
-    <task id="LOCAL-00330" summary="--- 3 версия ---">
-      <created>1778429653978</created>
-      <option name="number" value="00330" />
-      <option name="presentableId" value="LOCAL-00330" />
-      <option name="project" value="LOCAL" />
-      <updated>1778429653978</updated>
-    </task>
-    <task id="LOCAL-00331" summary="--- 3 версия ---">
-      <created>1778430045473</created>
-      <option name="number" value="00331" />
-      <option name="presentableId" value="LOCAL-00331" />
-      <option name="project" value="LOCAL" />
-      <updated>1778430045473</updated>
+      <workItem from="1778853612118" duration="775000" />
+      <workItem from="1778854680597" duration="902000" />
     </task>
     <task id="LOCAL-00332" summary="--- 3 версия ---">
       <created>1778431410527</created>
@@ -661,16 +655,37 @@
       <option name="project" value="LOCAL" />
       <updated>1778853630861</updated>
     </task>
-    <option name="localTasksCounter" value="378" />
+    <task id="LOCAL-00378" summary="--- 3 версия ---">
+      <created>1778854279697</created>
+      <option name="number" value="00378" />
+      <option name="presentableId" value="LOCAL-00378" />
+      <option name="project" value="LOCAL" />
+      <updated>1778854279697</updated>
+    </task>
+    <task id="LOCAL-00379" summary="--- 3 версия ---">
+      <created>1778854312417</created>
+      <option name="number" value="00379" />
+      <option name="presentableId" value="LOCAL-00379" />
+      <option name="project" value="LOCAL" />
+      <updated>1778854312417</updated>
+    </task>
+    <task id="LOCAL-00380" summary="--- 3 версия ---">
+      <created>1778854914854</created>
+      <option name="number" value="00380" />
+      <option name="presentableId" value="LOCAL-00380" />
+      <option name="project" value="LOCAL" />
+      <updated>1778854914855</updated>
+    </task>
+    <option name="localTasksCounter" value="381" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168263000" />
+    <option name="totallyTimeSpent" value="169379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34249085" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34676436" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -790,7 +805,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/v3/HEARTBEAT.md" />
-    <entry file="file://$PROJECT_DIR$/v3/awn.full.md">
+    <entry file="file://$PROJECT_DIR$/v4/awn.full.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="542">
@@ -850,15 +865,6 @@
     <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/_types/person.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-cli-scratch/_types/meta.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/mdbase.yaml" />
-    <entry file="file://$PROJECT_DIR$/v4/todo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/v4/todo.md" />
   </component>
 </project>

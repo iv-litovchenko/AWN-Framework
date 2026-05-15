@@ -10,18 +10,52 @@
           {
             "id": "8569d2207597ceb9",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          },
+          {
+            "id": "1e7a996b1225102c",
+            "type": "leaf",
+            "state": {
+              "type": "sr-main-view",
+              "state": {},
+              "icon": "documents",
+              "title": "Spaced Repetition AI"
+            }
+          },
+          {
+            "id": "c70db148449e691b",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "pw.planning",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Todo planning"
+            }
+          },
+          {
+            "id": "7cb0e4abd2f1b633",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AwnFramework/_Index.node.md",
+                "file": "v4/+SYSTEM/Templates/INSTALL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Index.node"
+              "title": "INSTALL"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,6 +116,16 @@
               "state": {},
               "icon": "three-horizontal-bars",
               "title": "Center Panes"
+            }
+          },
+          {
+            "id": "12ecd5bfd11bb960",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           }
         ]
@@ -251,47 +295,48 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "f81fa9eb9164f53f",
+  "active": "7cb0e4abd2f1b633",
   "lastOpenFiles": [
-    "v4/awn.full.md",
-    "Dashboards/Area.node.md",
-    "Dashboards/Home.md",
-    "v3/awn.full.md",
-    "CLAUDE.md",
+    "README.fix.md",
+    "v4/README.md",
+    "v4/README.fix.md",
+    "AwnFramework/v2/INSTALL.md",
+    "AwnFramework/v2/AGENTS.SETTINGS.md",
+    "AwnFramework/v2/AGENTS.NODES.md",
+    "AwnFramework/v2/AGENTS.NODES.CATALOG.md",
+    "AwnFramework/v2/AGENTS.md",
+    "AwnFramework/v2/AGENTS.LLM_TEMPLATE_PRESET.md",
+    "AwnFramework/v2/AGENTS.LLM_BOOTSTRAP_PRESET.md",
+    "AwnFramework/v2/AGENTS.FULL.md",
+    "README.md",
+    "INSTALL.md",
     "AGENTS.SETTINGS.md",
     "AGENTS.NODES.CATALOG.md",
+    "AGENTS.NODES.md",
+    "AGENTS.LLM_TEMPLATE_PRESET.md",
+    "AGENTS.LLM_BOOTSTRAP_PRESET.md",
+    "AGENTS.FULL.md",
+    "AGENTS.md",
+    "v4/+SYSTEM/Templates/UPDATE.md",
+    "UPDATE.md",
+    "v4/docker-compose.yml",
+    "v4/+SYSTEM/Templates/INSTALL.md",
+    "v4/mdbase-all.base",
+    "v4/AGENTS.Settings.md",
+    "HEARTBEAT.md",
+    "v4/HEARTBEAT.md",
+    "IMG_9403.jpg",
+    "Excalidraw",
     "v4/+SYSTEM/assets/thumbnails/resized/9ffa48a434c36958f0108bc43283b6a5_86cf658e.webp",
     "v4/+SYSTEM/assets/Изображение JPEG-4443-9EDC-37-0.jpeg",
-    "HEARTBEAT.md",
     "v4/Без названия.base",
-    "v4/Excalidraw/Drawing 2026-05-15 17.01.37.excalidraw.md",
     "v4/Excalidraw",
-    "v4/+SYSTEM/documentation/Todo-and-Thinks-and-ideas.md",
-    "v4/+SYSTEM/Templates/SKELETON.template.md",
-    "v4/AGENTS.Settings.md",
-    "v4/+SYSTEM/Templates/Components/AGENT_SVARM.md",
-    "v4/+SYSTEM/Templates/Components/AgentSwarm.md",
-    "v4/+SYSTEM/Templates/Components/Без названия.md",
-    "v4/AGENTS.Registry.md",
-    "v4/00_SPACE-CLASTER-SEROR.node.md",
-    "Dashboards/Vault-atlas.excalidraw.md",
-    "Dashboards/Vault-atlas.md",
     "Dashboards/Vault-atlas.canvas",
-    "Tests/Area.node.md",
-    "Templates/Nodes/Solo.template.md",
-    "Templates/Nodes/Index.template.md",
-    "Templates/Nodes/Area.template.md",
-    "Templates/Records/Memory.template.md",
-    "Templates/Records/Metadata.template.md",
-    "Templates/Records/Note.template.md",
     "AwnFramework/v3/awn-assistant-ai",
     "AwnFramework/v3/Новая папка",
     "AwnFramework/v3/awn-spaces/space-nnn/_agent",
     "AwnFramework/v3/awn-spaces/space-nnn",
     "AwnFramework/v3/awn-inbox",
-    "AwnFramework/v3/awn-spaces",
-    "AwnFramework/v3",
-    "AwnFramework/Новая папка",
     "v4/thumbnails/resized/9ffa48a434c36958f0108bc43283b6a5_86cf658e.webp",
     "v4/Изображение JPEG-4443-9EDC-37-0.jpeg",
     "v4/AGENTS.Dashboard.canvas",
@@ -304,7 +349,6 @@
     "Шаблон хранилища 2/Дневник/Статистика/Успехи за последние 30 дней.canvas",
     "Шаблон хранилища 2/Дневник/Статистика/Статистика и фокус за 2026.canvas",
     "v3/Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles vertically.svg",
-    "v3/Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "v3/Шаблон хранилища 2/Дневник/Статистика/Успехи за последние 30 дней.canvas",
     "v3/Шаблон хранилища 2/Дневник/Статистика/Статистика и фокус за 2026.canvas",
     "Example/Visualization/01-Canvas-Ironman-HUD.canvas"
