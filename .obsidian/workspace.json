@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "84a16173ba86569e",
+        "id": "d3681a35f98dfb5d",
         "type": "tabs",
         "children": [
           {
-            "id": "ec45b2665c4cd769",
+            "id": "8569d2207597ceb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "v4/+SYSTEM/Templates/SKELETON.template.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SKELETON.template"
-            }
-          },
-          {
-            "id": "8d4d90fd852a179b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboards/Area.node.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Area.node"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,8 +247,17 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "8d4d90fd852a179b",
+  "active": "8569d2207597ceb9",
   "lastOpenFiles": [
+    "v4/+SYSTEM/documentation/Todo-and-Thinks-and-ideas.md",
+    "v4/+SYSTEM/Templates/SKELETON.template.md",
+    "v4/AGENTS.Settings.md",
+    "v4/+SYSTEM/Templates/Components/AGENT_SVARM.md",
+    "v4/+SYSTEM/Templates/Components/AgentSwarm.md",
+    "v4/+SYSTEM/Templates/Components/Без названия.md",
+    "v4/AGENTS.Registry.md",
+    "v4/00_SPACE-CLASTER-SEROR.node.md",
+    "Dashboards/Area.node.md",
     "Dashboards/Home.md",
     "Dashboards/Vault-atlas.excalidraw.md",
     "Dashboards/Vault-atlas.md",
@@ -284,17 +274,8 @@
     "Domains/EnglishLearning/Index.node.md",
     "Domains/EnglishLearning/Notes/Verbs.md",
     "Domains/Collections/Index.node.md",
-    "Dashboards/Area.node.md",
     "Assistant.Ai/Chats/Area.node.md",
     "Assistant.Ai/Core/Area.node.md",
-    "Assistant.Ai/Cron/DailyHealthCheck.node.md",
-    "Assistant.Ai/Cron/Area.node.md",
-    "Assistant.Ai/Logs/Area.node.md",
-    "Assistant.Ai/Nodes/RandomAnecdote.node.md",
-    "Assistant.Ai/Nodes/MetadataFiles.node.md",
-    "Assistant.Ai/Nodes/MemoryFiles.node.md",
-    "Assistant.Ai/Nodes/GitPush.node.md",
-    "Assistant.Ai/Nodes/GitPull.node.md",
     "AwnFramework/v3/awn-assistant-ai",
     "AwnFramework/v3/Новая папка",
     "AwnFramework/v3/awn-spaces/space-nnn/_agent",

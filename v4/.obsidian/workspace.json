@@ -4,104 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f0fe54b99a52d1e5",
+        "id": "fb0f872a53d2c114",
         "type": "tabs",
         "children": [
           {
-            "id": "7088fb9e57a2fd28",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "AGENTS.Dashboard.canvas",
-                "viewState": {
-                  "x": 20,
-                  "y": 197.15000000000015,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "AGENTS.Dashboard"
-            }
-          },
-          {
-            "id": "4ede5455fd070c3c",
+            "id": "095be3db54051c95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+SYSTEM/Templates/Memory/CUSTOM-TYPE/personal knowledge archive.type.md",
+                "file": "00_SPACE-CLASTER-SEROR.node.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "personal knowledge archive.type"
-            }
-          },
-          {
-            "id": "7b4104104c3a082b",
-            "type": "leaf",
-            "state": {
-              "type": "sqlseal-explorer-view",
-              "state": {},
-              "icon": "logo-sqlseal",
-              "title": "SQLSeal Explorer"
-            }
-          },
-          {
-            "id": "8ad2be980995022e",
-            "type": "leaf",
-            "state": {
-              "type": "sqlseal-global-tables",
-              "state": {},
-              "icon": "logo-sqlseal",
-              "title": "SQLSeal Global Tables"
-            }
-          },
-          {
-            "id": "f3c4be5de02b9218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+SYSTEM/Templates/SKELETON.template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SKELETON.template"
-            }
-          },
-          {
-            "id": "1a2f9ac43677ebae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+SYSTEM/documentation/Thinks-and-ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thinks-and-ideas"
-            }
-          },
-          {
-            "id": "8e5a7be8909d7d78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+SYSTEM/documentation/Grok-class-object.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grok-class-object"
+              "title": "00_SPACE-CLASTER-SEROR.node"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -315,11 +235,20 @@
   },
   "active": "0f925122d843fc1c",
   "lastOpenFiles": [
+    "+SYSTEM/documentation/Todo-and-Thinks-and-ideas.md",
+    "AGENTS.Bases.base",
+    "AGENTS.Dashboard.canvas",
+    "mdbase-all.base",
+    "+SYSTEM/documentation/Thinks-and-ideas.md",
+    "todo.md",
+    "+SYSTEM/Templates/Memory/CUSTOM-TYPE/personal knowledge archive.type.md",
+    "+SYSTEM/Templates/SKELETON.template.md",
+    "AGENTS.Settings.md",
+    "+SYSTEM/Templates/Components/AGENT_SVARM.md",
+    "+SYSTEM/documentation/Grok-class-object.md",
     "+SYSTEM/Templates/SKELETON.template.configuration.md",
     "+SYSTEM/Templates/Без названия.md",
     "+SYSTEM/Templates/SKELETON.template.documentation.md",
-    "+SYSTEM/documentation/Thinks-and-ideas.md",
-    "+SYSTEM/documentation/Grok-class-object.md",
     "+SYSTEM/Templates/Components/02_BASE.template.md",
     "+SYSTEM/documentation",
     "+SYSTEM/Templates/Components/01_PART.template.md",
@@ -329,12 +258,10 @@
     "+SYSTEM/Templates/Memory/03_ROW.template.md",
     "+SYSTEM/Templates/Memory/02_NOTE.template.md",
     "+SYSTEM/Templates/Memory/01_PAGE.template.md",
-    "+SYSTEM/Templates/SKELETON.template.md",
     "+SYSTEM/Templates/Memory/CUSTOM-TYPE/LINK.type.template.md",
     "+SYSTEM/Templates/Memory/VOLUME.template.md",
     "+SYSTEM/Templates/Memory/CUSTOM-TYPE/Obsidian.md",
     "+SYSTEM/Templates/Memory/CUSTOM-TYPE/СНЫ- ТИП СНЫ.md",
-    "+SYSTEM/Templates/Memory/CUSTOM-TYPE/personal knowledge archive.type.md",
     "+SYSTEM/Templates/Memory/CUSTOM-TYPE",
     "+SYSTEM/assets/Изображение JPEG-4443-9EDC-37-0.jpeg",
     "+SYSTEM/assets",
@@ -344,16 +271,9 @@
     "+SYSTEM/assets/thumbnails",
     "Focus/Journal/СНЫ БАЗА СНОВ.md",
     "Areas/Collections/Фильмы/_date/Без названия 1.md",
-    "Areas/Collections/Фильмы/_date/Без названия 2.md",
-    "Areas/Collections/Фильмы/_date/1.md",
-    "Areas/Collections/Фильмы/_date/Без названия.md",
-    "AI-Ассистент/Obsidian.node.md",
-    "AGENTS.Dashboard.canvas",
     "__globalviews.sqlsealconfig",
     "Repository/GitProjects",
     "Repository/Skills",
-    "Repository/McpTools",
-    "Repository/OgsidianPlugins",
     "Resourses/1Maya.png",
     "Areas/Collections/Без названия.canvas"
   ]

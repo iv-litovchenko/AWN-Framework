@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="--- 3 версия ---">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/community-plugins.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dashboards/Area.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboards/Area.node.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dashboards/Home.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboards/Home.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domains/Categories.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Domains/Categories.node.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domains/Collections/Index.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Domains/Collections/Index.node.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domains/EnglishLearning/Index.node.md" beforeDir="false" afterPath="$PROJECT_DIR$/Domains/EnglishLearning/Index.node.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.makemd/fileCache.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.makemd/fileCache.mdc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.makemd/superstate.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.makemd/superstate.mdc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/iconic/data.json.backup1" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/iconic/data.json.backup1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/make-md/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/make-md/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/remember-cursor-position/cursor-positions.json" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/remember-cursor-position/cursor-positions.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/task-board/task-board-logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/task-board/task-board-logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/task-board/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/plugins/task-board/tasks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/Безымянная Kanban-доска.md" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/Безымянная Kanban-доска.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/Дневник/Ежедневник/2026-05-09.md" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/Дневник/Ежедневник/2026-05-09.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/Дневник/Задачи/Kanban доски/Жизнь.md" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/Дневник/Задачи/Kanban доски/Жизнь.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Шаблон хранилища 2/Дневник/Статистика/Статистика и фокус за 2026.canvas" beforeDir="false" afterPath="$PROJECT_DIR$/Шаблон хранилища 2/Дневник/Статистика/Статистика и фокус за 2026.canvas" afterDir="false" />
-    </list>
+    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,15 +116,11 @@
               <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
               <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
-              <item name="v4" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,20 +293,7 @@
       <workItem from="1778684923909" duration="1203000" />
       <workItem from="1778688459673" duration="1226000" />
       <workItem from="1778690834131" duration="131000" />
-    </task>
-    <task id="LOCAL-00326" summary="--- 3 версия ---">
-      <created>1778425748984</created>
-      <option name="number" value="00326" />
-      <option name="presentableId" value="LOCAL-00326" />
-      <option name="project" value="LOCAL" />
-      <updated>1778425748984</updated>
-    </task>
-    <task id="LOCAL-00327" summary="--- 3 версия ---">
-      <created>1778428910285</created>
-      <option name="number" value="00327" />
-      <option name="presentableId" value="LOCAL-00327" />
-      <option name="project" value="LOCAL" />
-      <updated>1778428910285</updated>
+      <workItem from="1778852749934" duration="227000" />
     </task>
     <task id="LOCAL-00328" summary="--- 3 версия ---">
       <created>1778429318533</created>
@@ -667,16 +624,30 @@
       <option name="project" value="LOCAL" />
       <updated>1778690960875</updated>
     </task>
-    <option name="localTasksCounter" value="375" />
+    <task id="LOCAL-00375" summary="--- 3 версия ---">
+      <created>1778852832337</created>
+      <option name="number" value="00375" />
+      <option name="presentableId" value="LOCAL-00375" />
+      <option name="project" value="LOCAL" />
+      <updated>1778852832338</updated>
+    </task>
+    <task id="LOCAL-00376" summary="--- 3 версия ---">
+      <created>1778852884153</created>
+      <option name="number" value="00376" />
+      <option name="presentableId" value="LOCAL-00376" />
+      <option name="project" value="LOCAL" />
+      <updated>1778852884153</updated>
+    </task>
+    <option name="localTasksCounter" value="377" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167475000" />
+    <option name="totallyTimeSpent" value="167702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33394384" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33821735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -688,8 +659,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.17755102" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26734695" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.17755102" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26734695" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -747,9 +718,9 @@
     <MESSAGE value="-- Закончил работу над первое версией --" />
     <MESSAGE value="--- Третья версия ---" />
     <MESSAGE value="--- Вторая версия ---" />
-    <MESSAGE value="--- 3 версия ---" />
     <MESSAGE value="--- 4 версия ---" />
-    <option name="LAST_COMMIT_MESSAGE" value="--- 4 версия ---" />
+    <MESSAGE value="--- 3 версия ---" />
+    <option name="LAST_COMMIT_MESSAGE" value="--- 3 версия ---" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Templates/Records/Note.template.md">
