@@ -251,8 +251,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "8569d2207597ceb9",
+  "active": "f81fa9eb9164f53f",
   "lastOpenFiles": [
+    "v4/awn.full.md",
     "Dashboards/Area.node.md",
     "Dashboards/Home.md",
     "v3/awn.full.md",
@@ -283,7 +284,6 @@
     "Templates/Records/Memory.template.md",
     "Templates/Records/Metadata.template.md",
     "Templates/Records/Note.template.md",
-    "Domains/Index.node.md",
     "AwnFramework/v3/awn-assistant-ai",
     "AwnFramework/v3/Новая папка",
     "AwnFramework/v3/awn-spaces/space-nnn/_agent",
