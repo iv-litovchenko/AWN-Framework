@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="" />
+    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="--- 3 версия ---">
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboards/Area.node.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboards/Home.interactive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboards/Home.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboards/Vault-atlas.canvas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboards/Vault-atlas.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboards/Vault-atlas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SR/deck.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v4/.obsidian/plugins/notebook-navigator/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v4/.obsidian/plugins/notebook-navigator/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v4/.obsidian/plugins/vector-search/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v4/.obsidian/plugins/vector-search/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v4/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/v4/.obsidian/workspace.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +127,16 @@
             <path>
               <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
               <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
+              <item name="v3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
+              <item name="v4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,13 +316,7 @@
       <workItem from="1778688459673" duration="1226000" />
       <workItem from="1778690834131" duration="131000" />
       <workItem from="1778852749934" duration="227000" />
-    </task>
-    <task id="LOCAL-00328" summary="--- 3 версия ---">
-      <created>1778429318533</created>
-      <option name="number" value="00328" />
-      <option name="presentableId" value="LOCAL-00328" />
-      <option name="project" value="LOCAL" />
-      <updated>1778429318533</updated>
+      <workItem from="1778853612118" duration="561000" />
     </task>
     <task id="LOCAL-00329" summary="--- 3 версия ---">
       <created>1778429537392</created>
@@ -638,16 +654,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778852884153</updated>
     </task>
-    <option name="localTasksCounter" value="377" />
+    <task id="LOCAL-00377" summary="--- 3 версия ---">
+      <created>1778853630861</created>
+      <option name="number" value="00377" />
+      <option name="presentableId" value="LOCAL-00377" />
+      <option name="project" value="LOCAL" />
+      <updated>1778853630861</updated>
+    </task>
+    <option name="localTasksCounter" value="378" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167702000" />
+    <option name="totallyTimeSpent" value="168263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33821735" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34249085" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -660,7 +683,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.17755102" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26734695" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2387755" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -723,22 +746,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="--- 3 версия ---" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Templates/Records/Note.template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Templates/Nodes/Solo.template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Templates/Records/Note.template.md" />
+    <entry file="file://$PROJECT_DIR$/Templates/Nodes/Solo.template.md" />
     <entry file="file://$PROJECT_DIR$/AGENTS.NODES.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -749,80 +758,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Area.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/Context.Greeting.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/Context.SmartTriggering.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/GitPull.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/GitPush.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/MemoryFiles.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/MetadataFiles.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/RandomAnecdote.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Users.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="345">
-            <caret line="23" selection-start-line="23" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Area.node.md" />
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/Context.Greeting.node.md" />
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/Context.SmartTriggering.node.md" />
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/GitPull.node.md" />
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/GitPush.node.md" />
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/MemoryFiles.node.md" />
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/MetadataFiles.node.md" />
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/RandomAnecdote.node.md" />
+    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Users.node.md" />
     <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Chats/_Index.node.md" />
     <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Core/MetadataFiles.node.md" />
     <entry file="file://$PROJECT_DIR$/AwnFramework/_Index.node.md">
