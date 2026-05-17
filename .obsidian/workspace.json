@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkSpaceExample/AI-Ассистент/User.node.md",
+                "file": "02 Components/02 Nodes/01 Folders/02 Space.documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User.node"
+              "title": "02 Space.documentation"
+            }
+          },
+          {
+            "id": "e78bbc3b36c4df93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Components/02 Nodes/01 Folders/04 Book.documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 Book.documentation"
+            }
+          },
+          {
+            "id": "40a8337006822342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.documentation"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,6 +125,16 @@
           },
           {
             "id": "d0493343472ebf1e",
+            "type": "leaf",
+            "state": {
+              "type": "center-panes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "center-panes"
+            }
+          },
+          {
+            "id": "ce71068ac2c0f5a1",
             "type": "leaf",
             "state": {
               "type": "center-panes",
@@ -261,11 +300,71 @@
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
-              "icon": "infranodus-icon"
+              "icon": "lucide-ghost",
+              "title": "infranodus-graph-view"
             }
           },
           {
             "id": "3d863742d6f1bb62",
+            "type": "leaf",
+            "state": {
+              "type": "pw.todo-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "pw.todo-list"
+            }
+          },
+          {
+            "id": "ea77d6eec6f83afe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "49265ff3236795e0",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "f3d716b9b2970697",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "105e16fbeb0f875e",
+            "type": "leaf",
+            "state": {
+              "type": "memochron-calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "memochron-calendar"
+            }
+          },
+          {
+            "id": "d1871ee0eb5a2847",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "infranodus-icon"
+            }
+          },
+          {
+            "id": "7f569bf2682a47ce",
             "type": "leaf",
             "state": {
               "type": "pw.todo-list",
@@ -275,7 +374,7 @@
             }
           },
           {
-            "id": "ea77d6eec6f83afe",
+            "id": "cb27fade57d94453",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -285,7 +384,7 @@
             }
           },
           {
-            "id": "49265ff3236795e0",
+            "id": "cfa343b6727ea0cc",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -295,7 +394,7 @@
             }
           },
           {
-            "id": "f3d716b9b2970697",
+            "id": "cc048bd5141c3091",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -305,7 +404,7 @@
             }
           },
           {
-            "id": "105e16fbeb0f875e",
+            "id": "64bd7dee3933cdbc",
             "type": "leaf",
             "state": {
               "type": "memochron-calendar",
@@ -315,7 +414,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 22
       }
     ],
     "direction": "horizontal",
@@ -341,53 +440,55 @@
       "note_uid_generator:Create uid if missing": false
     }
   },
-  "active": "2addb5dd1538d1b4",
+  "active": "40a8337006822342",
   "lastOpenFiles": [
-    "WorkSpaceExample/AI-Ассистент/Agent.node.md",
-    "WorkSpaceExample/Focus/00_SPACE.node.md",
-    "WorkSpaceExample/Focus/Journal/СНЫ БАЗА СНОВ.md",
-    "WorkSpaceExample/Focus/Tasks/Личные/BASE.base",
-    "WorkSpaceExample/Focus/Tasks/Личные/ROW.template.md",
-    "WorkSpaceExample/Areas/Atlas-ITtech/Git.page.md",
-    "WorkSpaceExample/AI-Ассистент/Voice.node.md",
-    "WorkSpaceExample/AI-Ассистент/Users.node.md.md",
-    "WorkSpaceExample/AI-Ассистент/User.volume.md",
-    "WorkSpaceExample/AI-Ассистент/User.node.md",
-    "WorkSpaceExample/AI-Ассистент/Obsidian.node.md",
-    "WorkSpaceExample/AI-Ассистент/00_SPACE.node.md",
-    "WorkSpaceExample/Focus/Tasks/Рабочие.template.md",
-    "WorkSpaceExample/Focus/Tasks/Личные.template.md",
-    "AWNFramework/documentation/MOC.md",
-    "AWNFramework/documentation/Grok-class-object.md",
-    "AWNFramework/documentation/Todo-and-Thinks-and-ideas.md",
-    "AWNFramework/Templates/SKELETON.template.configuration.md",
-    "WorkSpaceExample/Repository/OgsidianPlugins/Мои написанные плагины для obsidian и так далее.md",
-    "WorkSpaceExample/Resourses/00_SPACE.node.md",
-    "WorkSpaceExample/Resourses/1Maya.png.sidecar.md",
-    "WorkSpaceExample/Resourses/1Maya.png",
-    "AWNFramework/assets/thumbnails/resized/9ffa48a434c36958f0108bc43283b6a5_86cf658e.webp",
-    "AWNFramework/Templates/Memory/CUSTOM-TYPE/СНЫ- ТИП СНЫ.md",
-    "AWNFramework/Templates/Memory/CUSTOM-TYPE/personal knowledge archive.type.md",
-    "AWNFramework/Templates/Memory/CUSTOM-TYPE/Obsidian.md",
-    "AWNFramework/Templates/Memory/CUSTOM-TYPE/LINK.type.template.md",
-    "AWNFramework/assets/thumbnails/resized",
-    "AWNFramework/Templates/Memory/VOLUME.template.md",
-    "AWNFramework/Templates/Memory/CUSTOM-TYPE",
-    "AWNFramework/assets/Изображение JPEG-4443-9EDC-37-0.jpeg",
-    "AWNFramework/assets/thumbnails",
-    "AWNFramework/Templates/Memory",
-    "AWNFramework/Templates/Components",
-    "AWNFramework/documentation",
-    "AWNFramework/assets",
-    "AWNFramework/Templates",
-    "AWNFramework",
-    "AwnFramework/assets/thumbnails/resized/9ffa48a434c36958f0108bc43283b6a5_86cf658e.webp",
-    "AwnFramework/assets/Изображение JPEG-4443-9EDC-37-0.jpeg",
-    "AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 18.00.17.png",
-    "AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 18.02.26.png",
-    "AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 18.01.57.png",
-    "AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 18.00.50.png",
-    "AWNFrameworkDocumentation/ideas/petr/Снимок экрана 2026-05-03 в 18.01.25.png",
+    "02 Components/02 Nodes/Index.documentation.md",
+    "02 Components/02 Nodes/Node.configuration.md",
+    "02 Components/02 Nodes/Node.template.md",
+    "AGENTS.Config.md",
+    "README.md",
+    "README.fix.md",
+    "README.documentation.md",
+    "02 Components/Index.documentation.md",
+    "INSTALL.md",
+    "UPDATE.md",
+    "AGENTS.Registry.md",
+    "AGENTS.md.md",
+    "02 Components/01 Suffix/00 Index.documentation.md",
+    "02 Components/01 Suffix/Documentation.md",
+    "awn.full.md",
+    "02 Components/01 Suffix/Volume.md",
+    "02 Components/01 Suffix/Node.md",
+    "02 Components/01 Suffix/Configuration.md",
+    "Framework/SKELETON.template.configuration.md",
+    "AGENTS.Dashboard.canvas",
+    "AGENTS.Full.md",
+    "HEARTBEAT.md",
+    "Framework/SKELETON.template.documentation.md",
+    "01 Documentation/v5-ideas/Todo-and-Thinks-and-ideas.md",
+    "Framework/SKELETON.template.md",
+    "Framework/Memory/CUSTOM-TYPE/СНЫ- ТИП СНЫ.md",
+    "Framework/Memory/CUSTOM-TYPE/personal knowledge archive.type.md",
+    "Framework/Memory/CUSTOM-TYPE",
+    "Framework/Memory",
+    "01 Documentation/v5-ideas",
+    "01 Documentation/v5-ideas/assets/Изображение JPEG-4443-9EDC-37-0.jpeg",
+    "02 Components/02 Nodes",
+    "02 Components/01 Suffix",
+    "02 Components/02 Nodes/02 Files",
+    "02 Components/02 Nodes/01 Folders",
+    "02 Components",
+    "Framework-v5",
+    "mdbase-all.base",
+    "IMG_9403.jpg",
+    "01 Documentation/v5-ideas/assets/thumbnails/resized/9ffa48a434c36958f0108bc43283b6a5_86cf658e.webp",
+    "WSExample/Resourses/1Maya.png",
+    "01 Documentation/ideas/petr/Снимок экрана 2026-05-03 в 18.02.26.png",
+    "01 Documentation/ideas/petr/Снимок экрана 2026-05-03 в 18.01.57.png",
+    "01 Documentation/ideas/petr/Снимок экрана 2026-05-03 в 18.01.25.png",
+    "01 Documentation/ideas/petr/Снимок экрана 2026-05-03 в 18.01.01.png",
+    "01 Documentation/ideas/petr/Снимок экрана 2026-05-03 в 18.00.17.png",
+    "01 Documentation/ideas/petr/Снимок экрана 2026-05-03 в 18.00.50.png",
     "Dashboards/Vault-atlas.canvas",
     "v4/AGENTS.Dashboard.canvas",
     "v4/Без названия.canvas",

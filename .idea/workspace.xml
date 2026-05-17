@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="--- 3 версия ---" />
+    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,35 +59,35 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/Идеи улучшения и варианты развития.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/QWEN.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/AGENTS.LLM_BOOTSTRAP_PRESET.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/docker-compose.yml" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/README.ASK.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/AGENTS.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/Nodes/RandomAnecdote.node.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/README.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/.gitignore" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/v2/README.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/v2/AGENTS.SETTINGS.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/v2/AGENTS.NODES.EXAMPLE.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/v2/AGENTS.LLM_TEMPLATE_PRESET.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/README.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/README.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/.gitignore" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/v2/README.fix.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/AwnFramework/v1/AGENTS.NODES.v1.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/README.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/Dashboards/Home.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/.obsidian/workspace.json" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/Domains/EnglishLearning/Index.node.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/AwnFramework/v1/AGENTS.v1.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/README.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/.gitignore" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/AGENTS.FULL.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/Domains/Categories.node.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/README.fix.md" />
-        <option value="$PROJECT_DIR$/../../04  Hobby/AWN-Framework.vault/AGENTS.NODES.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/Идеи улучшения и варианты развития.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/QWEN.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/AGENTS.LLM_BOOTSTRAP_PRESET.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/docker-compose.yml" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/README.ASK.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/AGENTS.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/Nodes/RandomAnecdote.node.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/README.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/.gitignore" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/v2/README.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/v2/AGENTS.SETTINGS.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/v2/AGENTS.NODES.EXAMPLE.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/v2/AGENTS.LLM_TEMPLATE_PRESET.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/README.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/README.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/.gitignore" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/v2/README.fix.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/AwnFramework/v1/AGENTS.NODES.v1.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/README.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/Dashboards/Home.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/.obsidian/workspace.json" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/Domains/EnglishLearning/Index.node.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/AwnFramework/v1/AGENTS.v1.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/README.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/.gitignore" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/AGENTS.FULL.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/Domains/Categories.node.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/README.fix.md" />
+        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/AGENTS.NODES.md" />
         <option value="$PROJECT_DIR$/AGENTS.NODES.md" />
         <option value="$PROJECT_DIR$/v3/Awn.Full.md" />
         <option value="$PROJECT_DIR$/v3/HEARTBEAT.md" />
@@ -311,13 +311,7 @@
       <workItem from="1778853612118" duration="775000" />
       <workItem from="1778854680597" duration="1400000" />
       <workItem from="1778857345356" duration="1189000" />
-    </task>
-    <task id="LOCAL-00336" summary="--- 3 версия ---">
-      <created>1778444172513</created>
-      <option name="number" value="00336" />
-      <option name="presentableId" value="LOCAL-00336" />
-      <option name="project" value="LOCAL" />
-      <updated>1778444172513</updated>
+      <workItem from="1779030787108" duration="559000" />
     </task>
     <task id="LOCAL-00337" summary="--- 3 версия ---">
       <created>1778445377906</created>
@@ -655,16 +649,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778858272281</updated>
     </task>
-    <option name="localTasksCounter" value="385" />
+    <task id="LOCAL-00385" summary="--- 3 версия ---">
+      <created>1779030876478</created>
+      <option name="number" value="00385" />
+      <option name="presentableId" value="LOCAL-00385" />
+      <option name="project" value="LOCAL" />
+      <updated>1779030876478</updated>
+    </task>
+    <option name="localTasksCounter" value="386" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171066000" />
+    <option name="totallyTimeSpent" value="171625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35103786" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35531136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
