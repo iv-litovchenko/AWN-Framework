@@ -28,5 +28,6 @@
   "breadcrumbs",
   "notebook-navigator",
   "bases-style-enhancer",
-  "note_uid_generator"
+  "note_uid_generator",
+  "memochron"
 ]

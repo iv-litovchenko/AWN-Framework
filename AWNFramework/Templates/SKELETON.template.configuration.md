@@ -16,6 +16,7 @@
 | `media`         | Медиа                | Movies, Books, Music, Podcasts        |
 | `creative`      | Творчество           | Writing, Design, Music                |
 | `documentation` | Документация         | Certificates, Docs                    |
+| real-world      | Реальный мир         | Объекты реального мира                |
 
 ## Как добавить новую категорию
 

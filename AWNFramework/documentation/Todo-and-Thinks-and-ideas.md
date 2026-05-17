@@ -152,3 +152,146 @@ Settings — **«как удобно пользователю»**, 
 
 
 ---
+
+https://chatgpt.com/c/6a078c51-bc1c-838d-9c39-58dc909fcefc
+# 8. Graph-based PKM
+
+То, к чему ты постепенно идёшь.
+
+---
+
+## Идея
+
+Vault — это graph database.
+
+Есть:
+
+- nodes,
+- edges,
+- semantic relations,
+- context loading,
+- routing.
+
+---
+
+## Уже ближе к:
+
+- Neo4j,
+- knowledge graph,
+- semantic web,
+- cognitive architecture.
+
+---
+
+# 9. AI-native vault
+
+Это уже современное направление.
+
+---
+
+## Идея
+
+Заметки существуют не только для человека,  
+но и для AI-агентов.
+
+Появляются:
+
+- metadata,
+- embeddings,
+- semantic search,
+- retrieval,
+- context assembly,
+- agent memory.
+
+---
+
+## То, что ты описываешь:
+
+```
+registrytriggersroutingcontext loading
+```
+
+Это уже не обычный PKM.
+
+Это:
+
+- agent-oriented knowledge system.
+
+---
+
+# 10. Semantic OS / Cognitive Architecture
+
+Это уже почти research-level штука.
+
+---
+
+## Идея
+
+Vault становится:
+
+- операционной системой мышления.
+
+Есть:
+
+- memory,
+- planning,
+- routing,
+- semantic execution,
+- agent orchestration.
+
+---
+
+## Здесь появляются:
+
+- vector search,
+- ontology,
+- memory layers,
+- working memory,
+- episodic memory,
+- long-term memory,
+- knowledge activation.
+
+---
+
+# Очень интересный момент
+
+Почти все системы эволюционируют одинаково:
+
+```
+Папки  ↓Теги  ↓Ссылки  ↓MOC  ↓Graph  ↓Semantic Graph  ↓AI-assisted graph  ↓Agent memory system
+```
+
+---
+
+# И почти у всех есть проблема
+
+Люди начинают строить:
+
+- идеальную систему,  
+    вместо:
+- реального мышления.
+
+Это называется:
+
+```
+PKM procrastination
+```
+
+Когда система становится важнее знаний.
+
+---
+
+# На практике самые живые vault обычно:
+
+- простые,
+- с минимальным friction,
+- с хорошими ссылками,
+- с хорошим поиском,
+- с несколькими MOC,
+- с небольшим metadata layer.
+
+А не:
+
+- 500 YAML полей,
+- 300 папок,
+- 900 тегов.
