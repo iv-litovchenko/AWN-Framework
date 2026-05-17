@@ -24,7 +24,6 @@ AWN-RBAC-ltc: TODO доступ
 AWN-PARENT-RECORD: Не знаю надо или нет?
 AWN-WEBNET-SOURSE: TODO-источник в сети (нужно ли хранить или у себя или ссылка)
 ---
-
 # Название ноды
 
 > [!info] О файле

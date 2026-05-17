@@ -4,5 +4,5 @@
 
 ### Ubuntu/Debian
 ```bash
-sudo apt install -y nodejs ffmpeg tesseract-ocr ...
+sudo apt install -y nodejs ...
 ```
