@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="" />
+    <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/01 Suffix/00 Index.documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/01 Suffix/Configuration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/01 Suffix/Documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/01 Suffix/Node.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/01 Suffix/Volume.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes/01 Folders/00 Index.documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes/01 Folders/01 Workspace-vault..documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes/01 Folders/02 Space.documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes/01 Folders/03 Cluster.documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes/01 Folders/04 Book.documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes/01 Folders/05 Collection.documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes/01 Folders/06 Intro ИЛИ REPO.documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes/02 Files/01 Part.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes/02 Files/02 Vision.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes/Index.documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes/Node.configuration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes/Node.template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.Bases.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.Config.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.Dashboard.canvas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.Registry.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.Settings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/SKELETON.template.configuration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/SKELETON.template.documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/SKELETON.template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HEARTBEAT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG_9403.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INSTALL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.fix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UPDATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__globalviews.sqlsealconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awn.full.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdbase-all.base" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +51,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.env">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <entry file="file://$PROJECT_DIR$/04 Templates/Node.template.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="825">
+                <caret line="55" selection-start-line="55" selection-end-line="58" selection-end-column="34" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04 Templates/Node.Skeleton.template.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -59,8 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/Идеи улучшения и варианты развития.md" />
-        <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/QWEN.md" />
         <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/AGENTS.LLM_BOOTSTRAP_PRESET.md" />
         <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/docker-compose.yml" />
         <option value="$USER_HOME$/04  Hobby/AWN-Framework.vault/README.ASK.md" />
@@ -110,6 +161,8 @@
         <option value="$PROJECT_DIR$/v4/+SYSTEM/Templates/SKELETON.template.md" />
         <option value="$PROJECT_DIR$/v4/+SYSTEM/Templates/LINK.type.template.md" />
         <option value="$PROJECT_DIR$/v4/todo.md" />
+        <option value="$PROJECT_DIR$/04 Templates/Node.Skeleton.template.md" />
+        <option value="$PROJECT_DIR$/04 Templates/Node.template.md" />
       </list>
     </option>
   </component>
@@ -123,18 +176,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
+              <item name="00 AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
+              <item name="00 AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="00 AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
+              <item name="00 AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
+              <item name="04 Templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,13 +370,7 @@
       <workItem from="1778854680597" duration="1400000" />
       <workItem from="1778857345356" duration="1189000" />
       <workItem from="1779030787108" duration="559000" />
-    </task>
-    <task id="LOCAL-00337" summary="--- 3 версия ---">
-      <created>1778445377906</created>
-      <option name="number" value="00337" />
-      <option name="presentableId" value="LOCAL-00337" />
-      <option name="project" value="LOCAL" />
-      <updated>1778445377906</updated>
+      <workItem from="1779038129759" duration="319000" />
     </task>
     <task id="LOCAL-00338" summary="--- 3 версия ---">
       <created>1778445886375</created>
@@ -656,16 +708,24 @@
       <option name="project" value="LOCAL" />
       <updated>1779030876478</updated>
     </task>
-    <option name="localTasksCounter" value="386" />
+    <task id="LOCAL-00386" summary="--- 3 версия ---">
+      <created>1779038154164</created>
+      <option name="number" value="00386" />
+      <option name="presentableId" value="LOCAL-00386" />
+      <option name="project" value="LOCAL" />
+      <updated>1779038154166</updated>
+    </task>
+    <option name="localTasksCounter" value="387" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171625000" />
+    <option name="totallyTimeSpent" value="171944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35531136" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35958487" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -741,8 +801,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="--- 3 версия ---" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Templates/Nodes/Solo.template.md" />
-    <entry file="file://$PROJECT_DIR$/AGENTS.NODES.md" />
     <entry file="file://$PROJECT_DIR$/Assistant.Ai/Area.node.md" />
     <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/Context.Greeting.node.md" />
     <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/Context.SmartTriggering.node.md" />
@@ -754,16 +812,7 @@
     <entry file="file://$PROJECT_DIR$/Assistant.Ai/Users.node.md" />
     <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Chats/_Index.node.md" />
     <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Core/MetadataFiles.node.md" />
-    <entry file="file://$PROJECT_DIR$/AWNFrameworkDocumentation/_Index.node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AWNFrameworkDocumentation/_Index.node.md" />
     <entry file="file://$PROJECT_DIR$/HEARTBEAT.md" />
     <entry file="file://$PROJECT_DIR$/v3/HEARTBEAT.md" />
     <entry file="file://$PROJECT_DIR$/awn.full.md">
@@ -790,26 +839,8 @@
     <entry file="file://$PROJECT_DIR$/v3/awn-templates/memory/note.template.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-templates/memory/memory.template.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-templates/memory/metadata.template.md" />
-    <entry file="file://$PROJECT_DIR$/AWNFrameworkDocumentation/other/NEW.v3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3375">
-            <caret line="225" column="30" selection-start-line="225" selection-start-column="30" selection-end-line="225" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AWNFramework/Templates/SKELETON.template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="345">
-            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AWNFrameworkDocumentation/other/NEW.v3.md" />
+    <entry file="file://$PROJECT_DIR$/AWNFramework/Templates/SKELETON.template.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/_types/task.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/tasks/write-empty-state-docs.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/tasks/fix-login-bug.md" />
@@ -831,6 +862,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Templates/Node.Skeleton.template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Templates/Node.template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="825">
+            <caret line="55" selection-start-line="55" selection-end-line="58" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
