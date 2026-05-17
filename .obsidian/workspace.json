@@ -110,8 +110,8 @@
             "state": {
               "type": "center-panes",
               "state": {},
-              "icon": "three-horizontal-bars",
-              "title": "Center Panes"
+              "icon": "lucide-ghost",
+              "title": "center-panes"
             }
           }
         ]
@@ -231,8 +231,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -331,7 +331,8 @@
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
-              "icon": "infranodus-icon"
+              "icon": "lucide-ghost",
+              "title": "infranodus-graph-view"
             }
           },
           {
@@ -340,8 +341,8 @@
             "state": {
               "type": "pw.todo-list",
               "state": {},
-              "icon": "check-small",
-              "title": "Todo"
+              "icon": "lucide-ghost",
+              "title": "pw.todo-list"
             }
           },
           {
@@ -350,8 +351,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -360,8 +361,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
             }
           },
           {
@@ -370,8 +371,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
             }
           },
           {
@@ -380,8 +381,8 @@
             "state": {
               "type": "memochron-calendar",
               "state": {},
-              "icon": "calendar-range",
-              "title": "MemoChron calendar"
+              "icon": "lucide-ghost",
+              "title": "memochron-calendar"
             }
           }
         ],
@@ -400,15 +401,7 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "infranodus-graph-view:InfraNodus Graph View": false,
-      "proletarian-wizard:Open planning": false,
-      "spaced-repetition-ai:Review your flashcards and notes": false,
-      "obsidian-spaced-repetition:Изучать карточки": false,
-      "juggl:Juggl global graph": false,
-      "notebook-navigator:Notebook Navigator": false,
-      "note_uid_generator:Create uid if missing": false
+      "bases:Создать новую базу": false
     }
   },
   "active": "ec1c552aa859e6a8",
