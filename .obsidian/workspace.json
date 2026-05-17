@@ -11,14 +11,12 @@
             "id": "40a8337006822342",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02 Components/Index.documentation.md",
-                "mode": "source",
-                "source": false
+                "file": "01_Documentation/assets/IMG_9403.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Index.documentation"
+              "icon": "lucide-image",
+              "title": "IMG_9403"
             }
           }
         ]
@@ -412,8 +410,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "40a8337006822342",
+  "active": "f81fa9eb9164f53f",
   "lastOpenFiles": [
+    "awn.full.md",
+    "Без названия.md",
+    "05 Vision",
+    "02 Components/Index.documentation.md",
     "02 Components/03 Memories-types/Volume.documentation.md",
     "02 Components/03 Memories-types/Sidecar.documentation.md",
     "02 Components/03 Memories-types/00 Index.documentation.md",
@@ -431,19 +433,16 @@
     "Awn.Documentation.combined.md",
     "Awn.Settings.combined.md",
     "Framework/awn.full.md",
-    "Framework/AGENTS.Bases.base",
-    "Framework/mdbase-all.base",
-    "Framework/AGENTS.Dashboard.canvas",
+    "05 Vision/AGENTS.Bases.base",
+    "05 Vision/mdbase-all.base",
+    "05 Vision/AGENTS.Dashboard.canvas",
     "01_Documentation/v5-ideas/README.fix.md",
     "02 Components/04 Commands-types/01 CRUD Node.documentation.md",
     "02 Components/04 Commands-types/02 CRUD Memory.documentaton.md",
     "02 Components/04 Commands-types/DocumentationUpdate.documentation.md",
     "05 Required/Registry.md",
     "05 Required/Documentation.combined.md",
-    "05 Required/Settings.combined.md",
-    "02 Components/Index.documentation.md",
-    "05 Required/AGENTS.Settings.md",
-    "Framework/IMG_9403.jpg",
+    "01_Documentation/assets/IMG_9403.jpg",
     "Blank",
     "05 Required",
     "02 Components/04 Commands-types/Без названия",
@@ -451,7 +450,6 @@
     "02 Components/03 Memories-types",
     "04 Templates",
     "03 Configs",
-    "Framework/__globalviews.sqlsealconfig",
     "AGENTS.Dashboard.canvas",
     "01 Sketchbook/v5-ideas/assets/Изображение JPEG-4443-9EDC-37-0.jpeg",
     "IMG_9403.jpg",
