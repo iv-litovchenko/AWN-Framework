@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blank/AGENTS.md",
+                "file": "Framework/awn.full.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "awn.full"
             }
           }
         ]
@@ -231,8 +231,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
             }
           },
           {
@@ -395,6 +395,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "infranodus-graph-view:InfraNodus Graph View": false,
+      "proletarian-wizard:Open planning": false,
+      "spaced-repetition-ai:Review your flashcards and notes": false,
+      "obsidian-spaced-repetition:Изучать карточки": false,
+      "juggl:Juggl global graph": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "note_uid_generator:Create uid if missing": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -404,8 +412,16 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ec1c552aa859e6a8",
+  "active": "40a8337006822342",
   "lastOpenFiles": [
+    "Framework/AGENTS.Bases.base",
+    "Framework/mdbase-all.base",
+    "Framework/awn.full.md",
+    "Framework/AGENTS.Dashboard.canvas",
+    "01_Documentation/v5-ideas/README.fix.md",
+    "04 Templates/Memory.template.md",
+    "04 Templates/Node.template.md",
+    "04 Templates/Sidecar.template.md",
     "02 Components/04 Commands-types/01 CRUD Node.documentation.md",
     "02 Components/04 Commands-types/02 CRUD Memory.documentaton.md",
     "02 Components/04 Commands-types/DocumentationUpdate.documentation.md",
@@ -417,10 +433,8 @@
     "02 Components/04 Commands-types/RegistryUpdate.documentation.md",
     "02 Components/04 Commands-types/00 Index.documentation.md",
     "Framework/IMG_9403.jpg",
-    "Framework/awn.full.md",
     "02 Components/02 Nodes-types/01 Folders/00 Index.documentation.md",
     "02 Components/02 Nodes-types/Index.documentation.md",
-    "Framework/AGENTS.Dashboard.canvas",
     "Blank/HEARTBEAT.md",
     "Blank/AGENTS.md",
     "INSTALL.md",
@@ -430,19 +444,12 @@
     "Blank",
     "02 Components/01 Suffix-types/Combined.md",
     "02 Components/01 Suffix-types/00 Index.documentation.md",
-    "03 Configs/Node.configuration.md",
     "05 Required",
-    "02 Components/01 Suffix-types/Documentation.md",
-    "02 Components/01 Suffix-types/Volume.md",
     "02 Components/04 Commands-types/Без названия",
     "02 Components/04 Commands-types",
     "02 Components/03 Memories-types",
-    "01 Sketchbook/v2/INSTALL.md",
-    "04 Templates/Node.template.md",
     "04 Templates",
     "03 Configs",
-    "Framework/mdbase-all.base",
-    "Framework/AGENTS.Bases.base",
     "Framework/__globalviews.sqlsealconfig",
     "AGENTS.Dashboard.canvas",
     "01 Sketchbook/v5-ideas/assets/Изображение JPEG-4443-9EDC-37-0.jpeg",
