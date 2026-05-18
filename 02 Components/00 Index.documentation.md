@@ -8,5 +8,3 @@
 - все остальные файлы в системе
 
 Одна нода - одна задача.
-При создании ноды смотри шабло [Skeleton-Node.template](Skeleton-Node.template.md)
-
