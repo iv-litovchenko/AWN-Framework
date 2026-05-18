@@ -34,7 +34,7 @@
 ## 1. 02 Components
 
 ### 1.1. Index
-*Источник: [[02 Components/Index.documentation.md]] (строки 1-112)*
+*Источник: [[02 Components/04 Commands-types/Index.documentation]] (строки 1-112)*
 
 # Описание спецификации AWN V5
 
