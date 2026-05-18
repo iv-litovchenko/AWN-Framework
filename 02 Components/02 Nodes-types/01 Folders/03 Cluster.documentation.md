@@ -8,4 +8,4 @@ AWN-ALLOW-CHILDREN: true
 
 # Cluster — группировка однотипных нод
 
-Файл вида `<name>.cluster/Index.md` — нода-папка для группировки однотипных нод.
+Файл вида `<name>.cluster/Index.node.md` — нода-папка для группировки однотипных нод.
