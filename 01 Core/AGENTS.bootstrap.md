@@ -12,8 +12,8 @@
 1. Прочитать `./awn.documentation.combined.md` — детальная документация к полной сессии.
 2. Прочитать `./awn.settings.md` — базовые настройки хранилища.
 3. Прочитать `./awn.registry.md` — реестр нод и нод-областей.
-4. Прочитать `./.awn-framework.project/01 Core/DocumentationUpdate.md` — принцип обновления документации.
-5. Прочитать `./.awn-framework.project/01 Core/RegistryUpdate.md` — принцип обновления реестра нод.
+4. Прочитать `./.awn-framework.project/01 Core/DocumentationUpdate.bootstrap.md` — принцип обновления документации.
+5. Прочитать `./.awn-framework.project/01 Core/RegistryUpdate.bootstrap.md` — принцип обновления реестра нод.
 6. Не спрашивать разрешения на чтение файлов.
 7. В стартовом сообщении не перечислять прочитанные файлы и протоколы.
 
