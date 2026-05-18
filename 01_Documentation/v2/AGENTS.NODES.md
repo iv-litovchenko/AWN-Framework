@@ -33,17 +33,17 @@
 
 Читаются при старте каждой полной сессии.
 
-| Статус | Приоритет | Путь                                     | Что делает                                                   |
-|--------|-----------|------------------------------------------|--------------------------------------------------------------|
-| active | 20        | `Domains/Index.node.md`                              | Реестр доменов пользователя — карта всех жизненных областей  |
-| active | 20        | `Assistant.Ai/Nodes/MemoryFiles.node.md`             | Контракт файлов `*.memory.md` — внешняя память нод           |
-| active | 20        | `Assistant.Ai/Nodes/MetadataFiles.node.md`           | Контракт файлов `*.metadata.md` — sidecar бинарных носителей |
-| active | 25        | `Assistant.Ai/Rules.node.md`                         | Правила поведения — что можно, чего нельзя, форматы          |
-| disabled | 20        | `Assistant.Ai/Nodes/Context.SmartTriggering.node.md` | Уровни строгости триггеров и активное предложение нод      |
-| disabled | 25        | `Assistant.Ai/Nodes/Context.Greeting.node.md`        | Сценарий приветствия пользователя при старте сессии        |
-| active | 30        | `Assistant.Ai/Assistant.node.md`                     | Идентичность ассистента — имя, характер, принципы, стиль     |
-| active | 30        | `Assistant.Ai/User.node.md`                          | Профиль текущего пользователя — имя, цели, предпочтения      |
-| active | 40        | `Assistant.Ai/Users.node.md`                         | Реестр всех пользователей                                    |
+| Статус   | Приоритет | Путь                                                 | Что делает                                                   |
+| -------- | --------- | ---------------------------------------------------- | ------------------------------------------------------------ |
+| active   | 20        | `Domains/Index.node.md`                              | Реестр доменов пользователя — карта всех жизненных областей  |
+| active   | 20        | `Assistant.Ai/Nodes/MemoryFiles.node.md`             | Контракт файлов `*.memory.md` — внешняя память нод           |
+| active   | 20        | `Assistant.Ai/Nodes/MetadataFiles.node.md`           | Контракт файлов `*.metadata.md` — sidecar бинарных носителей |
+| active   | 25        | `Assistant.Ai/Rules.node.md`                         | Правила поведения — что можно, чего нельзя, форматы          |
+| disabled | 20        | `Assistant.Ai/Nodes/Context.SmartTriggering.node.md` | Уровни строгости триггеров и активное предложение нод        |
+| disabled | 25        | `Assistant.Ai/Nodes/Context.Greeting.node.md`        | Сценарий приветствия пользователя при старте сессии          |
+| active   | 30        | `Assistant.Ai/Assistant.node.md`                     | Идентичность ассистента — имя, характер, принципы, стиль     |
+| active   | 30        | `Assistant.Ai/User.node.md`                          | Профиль текущего пользователя — имя, цели, предпочтения      |
+| active   | 40        | `Assistant.Ai/Users.node.md`                         | Реестр всех пользователей                                    |
 
 ---
 

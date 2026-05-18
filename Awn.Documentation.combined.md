@@ -270,7 +270,7 @@ AWN-CORE-ROLE: COMPONENT/COLLECTION
 Файл вида "Название папки.collection/Index.md" это нода коллекция однотипных данных. Описывает как работать с ней как сохранять. Это аналог базы данных в папке. Подходит для однотипных данных - задачи - дневник - история финансов - логи и так далее.
 
 ##### 1.2.2.7. 06 Intro ИЛИ REPO
-*Источник: [[02 Components/02 Nodes-types/01 Folders/06 Intro ИЛИ REPO.documentation.md]] (строки 1-11)*
+*Источник: [[zzz 06 Intro ИЛИ REPO.documentation]] (строки 1-11)*
 
 ---
 AWN-CORE-TYPE: Folder
