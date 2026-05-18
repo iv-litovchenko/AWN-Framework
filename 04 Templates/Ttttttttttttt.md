@@ -1,4 +1,3 @@
-Workflow обработки знаний: **inbox → note → page.**
 
 Описание свойсвт - будем делать в шаблонах????
 Как добавлять свойства на общем уровне и на уровне точесном например
@@ -8,7 +7,6 @@ Workflow обработки знаний: **inbox → note → page.**
 Фильмы другой шаблон
 
 и так далее
-
 
 ## Сформулировать правило (и нужно где-то сделать такие RULES!!!)
 
@@ -60,20 +58,6 @@ Workflow обработки знаний: **inbox → note → page.**
 - НЕ автоматически из загруженных файлов
 - После обновления — подтвердить изменение
 
-
-
-### Пример путей
-
-```
-awn-spaces/space-life/_index.node.md
-awn-spaces/space-life/space-health/_index.node.md
-awn-spaces/space-life/space-health/inbox/
-awn-spaces/space-life/space-health/pages/
-awn-spaces/space-life/space-health/databases/default/
-awn-spaces/space-life/space-health/views/tasks/
-awn-spaces/space-work/_index.node.md
-awn-spaces/space-work/notes/
-```
 
 
 

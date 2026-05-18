@@ -1,4 +1,4 @@
-## Реестр типов
+## Реестр типов  (НЕ АКТУАЛЬНО)
 
 **Описание колонок**
 ## Реестр типов нод
@@ -18,4 +18,18 @@
 | 3. Memory   | Volume                | `*.volume.md`     | рядом с родительской нодой | Приватная память ноды (грузится по запросу)                | Space, Part (спутник)    | Нет                          |
 | 4. View     | View                  | `*.view.md`       | `views/<type>/`            | Проекция над слоями 1–3, 5 (list/kanban/dashboard/mindmap) | Space                    | Нет                          |
 | 5. External | —                     | любые             | в любой области            | Не-ноды: медиа, бинари, скрипты, конфиги, `*.md` без типа  | Space                    | Нет                          |
+
+
+### Пример путей
+
+```
+awn-spaces/space-life/_index.node.md
+awn-spaces/space-life/space-health/_index.node.md
+awn-spaces/space-life/space-health/inbox/
+awn-spaces/space-life/space-health/pages/
+awn-spaces/space-life/space-health/databases/default/
+awn-spaces/space-life/space-health/views/tasks/
+awn-spaces/space-work/_index.node.md
+awn-spaces/space-work/notes/
+```
 
