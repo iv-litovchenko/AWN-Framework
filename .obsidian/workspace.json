@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Components/02 Nodes-types/Index.documentation.md",
+                "file": "02 Components/02 Nodes-types/01 Folders/00 Index.documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index.documentation"
+              "title": "00 Index.documentation"
             }
           },
           {
@@ -497,9 +497,14 @@
   },
   "active": "40a8337006822342",
   "lastOpenFiles": [
+    "02 Components/02 Nodes-types/02 Files/00 Index.documentation.md",
+    "02 Components/02 Nodes-types/02 Files/01 Part.md",
+    "02 Components/02 Nodes-types/01 Folders/00 Index.documentation.md",
+    "02 Components/02 Nodes-types/Index.documentation.md",
+    "04 Templates/Awn-files/awn.bootstrap.md",
+    "04 Templates/Awn-files/awn.dependencies.template.md",
     "04 Templates/Awn-files/awn.registry.template.md",
     "awn.settings.md",
-    "02 Components/02 Nodes-types/Index.documentation.md",
     "02 Components/02 Nodes-types/01 Folders/zzz Project.md",
     "02 Components/02 Nodes-types/01 Folders/zzz 08 Skill.md",
     "02 Components/02 Nodes-types/01 Folders/zzz 06 Intro ИЛИ REPO.documentation.md",
@@ -508,8 +513,6 @@
     "02 Components/02 Nodes-types/01 Folders/03 Cluster.documentation.md",
     "02 Components/02 Nodes-types/01 Folders/02 Space.documentation.md",
     "02 Components/02 Nodes-types/01 Folders/01 Workspace.documentation.md",
-    "02 Components/02 Nodes-types/02 Files/01 Part.md",
-    "02 Components/02 Nodes-types/01 Folders/00 Index.documentation.md",
     "02 Components/01 Awn-files/00 Index.documentation.md",
     "02 Components/02 Nodes-types/02 Files/Documentation.md",
     "02 Components/02 Nodes-types/02 Files/Configuration.md",
@@ -520,9 +523,6 @@
     "Ttttttttttttt.md",
     "02 Components/02 Nodes-types/01 Folders/01 Workspace-vault.documentation.md",
     "04 Templates/00 Index.documentation.md",
-    "04 Templates/Skeletons/Skeleton-Node.template.md",
-    "04 Templates/Без названия.md",
-    "02 Components/04 Commands-types/Index.documentation.md",
     "image.jpg",
     "04 Templates/Awn-files",
     "02 Components/01 Awn-files",
