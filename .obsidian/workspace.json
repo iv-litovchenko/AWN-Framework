@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Configs/Node.configuration.md",
+                "file": "04 Templates/Skeleton.Type.template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node.configuration"
+              "title": "Skeleton.Type.template"
             }
           }
         ]
@@ -112,6 +112,16 @@
               "state": {},
               "icon": "lucide-ghost",
               "title": "center-panes"
+            }
+          },
+          {
+            "id": "af562d3861a7dc5a",
+            "type": "leaf",
+            "state": {
+              "type": "center-panes",
+              "state": {},
+              "icon": "three-horizontal-bars",
+              "title": "Center Panes"
             }
           }
         ]
@@ -231,8 +241,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -384,9 +394,68 @@
               "icon": "lucide-ghost",
               "title": "memochron-calendar"
             }
+          },
+          {
+            "id": "28711e2667e17a42",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "infranodus-icon"
+            }
+          },
+          {
+            "id": "6f42f90c0fb534db",
+            "type": "leaf",
+            "state": {
+              "type": "pw.todo-list",
+              "state": {},
+              "icon": "check-small",
+              "title": "Todo"
+            }
+          },
+          {
+            "id": "9f13e91d3f2564d3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          },
+          {
+            "id": "08f2781058c33b0f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "5662efa3bb2fa7cd",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "582c1464a4c125ca",
+            "type": "leaf",
+            "state": {
+              "type": "memochron-calendar",
+              "state": {},
+              "icon": "calendar-range",
+              "title": "MemoChron calendar"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
@@ -395,6 +464,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "infranodus-graph-view:InfraNodus Graph View": false,
       "proletarian-wizard:Open planning": false,
@@ -402,18 +478,25 @@
       "obsidian-spaced-repetition:Изучать карточки": false,
       "juggl:Juggl global graph": false,
       "notebook-navigator:Notebook Navigator": false,
-      "note_uid_generator:Create uid if missing": false,
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "note_uid_generator:Create uid if missing": false
     }
   },
-  "active": "40a8337006822342",
+  "active": "f81fa9eb9164f53f",
   "lastOpenFiles": [
+    "04 Templates/Skeletons/Skeleton-Node.documentation.md",
+    "04 Templates/Skeletons/Skeleton-Node.template.md",
+    "02 Components/02 Nodes-types/02 Files/01 Part.md",
+    "02 Components/02 Nodes-types/02 Files/02 Vision.md",
+    "02 Components/02 Nodes-types/01 Folders/06 Project.md",
+    "02 Components/02 Nodes-types/01 Folders/04 Book.documentation.md",
+    "02 Components/02 Nodes-types/01 Folders/03 Cluster.documentation.md",
+    "02 Components/02 Nodes-types/01 Folders/02 Space.documentation.md",
+    "04 Templates/Skeleton.Type.template.md",
+    "04 Templates/Skeletons/Skeleton-Memory.template.md",
+    "02 Components/02 Nodes-types/01 Folders/01 Workspace-vault..documentation.md",
+    "02 Components/02 Nodes-types/01 Folders/00 Index.documentation.md",
+    "04 Templates/Sidecar.template.md",
+    "03 Configs/Node.configuration.md",
     "image.jpg",
     "04 Templates/Awn-files/awn.bootstrap.md",
     "02 Components/04 Commands-types/DocumentationUpdate.documentation.md",
@@ -422,26 +505,13 @@
     "04 Templates/Awn-files/awn.registry.template.md",
     "02 Components/01 Awn-files/00 Index.documentation.md",
     "04 Templates/Awn-files/awn.dependencies.template.md",
-    "04 Templates/Skeleton-Memory.template.md",
-    "04 Templates/Skeleton-Node.documentation.md",
-    "02 Components/02 Nodes-types/01 Folders/00 Index.documentation.md",
     "02 Components/02 Nodes-types/01 Folders/05 Collection.documentation.md",
-    "02 Components/02 Nodes-types/01 Folders/06 Project.md",
     "01_Documentation/v2/AGENTS.NODES.md",
     "02 Components/02 Nodes-types/01 Folders/zzz 06 Intro ИЛИ REPO.documentation.md",
     "02 Components/02 Nodes-types/Index.documentation.md",
-    "02 Components/02 Nodes-types/02 Files/01 Part.md",
     "04 Templates/Awn-files",
     "02 Components/03 Memories-types/Volume.documentation.md",
-    "02 Components/03 Memories-types/Sidecar.documentation.md",
-    "INSTALL.md",
-    "awn.settings.md",
-    "02 Components/Index.documentation.md",
     "02 Components/01 Awn-files",
-    "02 Components/02 Nodes-types/01 Folders/01 Workspace-vault..documentation.md",
-    "02 Components/02 Nodes-types/01 Folders/02 Space.documentation.md",
-    "02 Components/02 Nodes-types/01 Folders/03 Cluster.documentation.md",
-    "02 Components/02 Nodes-types/01 Folders/04 Book.documentation.md",
     "04 Templates/Skeletons",
     "WSExample/Focus/Tasks/Личные/BASE.base",
     "01_Documentation/assets/IMG_9403.jpg",
