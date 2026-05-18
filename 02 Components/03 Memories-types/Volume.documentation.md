@@ -4,6 +4,10 @@ AWN-ID: "a817a592-da6b-4827-8435-3784bc87c3f9"
 AWN-SLUG: MEMORY/VOLUME
 AWN-TYPE: File
 AWN-ALLOW-CHILDREN: false
+AWN-LAYER: 3
+AWN-NAME: Volume
+AWN-DESC: Приватная память агента по ноде, рабочий конспект.
+AWN-REGISTRY: false
 ---
 
 # Volume — приватная память ноды

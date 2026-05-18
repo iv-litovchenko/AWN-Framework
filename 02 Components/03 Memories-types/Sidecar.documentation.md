@@ -4,6 +4,10 @@ AWN-ID: "a1070b7f-cb36-40ba-a56d-d3ee19d3236e"
 AWN-SLUG: MEMORY/SIDECAR
 AWN-TYPE: File
 AWN-ALLOW-CHILDREN: false
+AWN-LAYER: 3
+AWN-NAME: Sidecar
+AWN-DESC: Метаописание не-md файла (изображения, документа, медиа).
+AWN-REGISTRY: false
 ---
 
 # Sidecar — метаописание не-md файла

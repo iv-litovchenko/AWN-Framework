@@ -34,7 +34,7 @@
 ## 1. 02 Components
 
 ### 1.1. Index
-*Источник: [[02 Components/04 Commands-types/Index.documentation]] (строки 1-112)*
+*Источник: [[Index.documentation]] (строки 1-112)*
 
 # Описание спецификации AWN V5
 
@@ -300,7 +300,7 @@ Yaml-свойства не используются
 *Источник: [[02 Components/03 Memories-types/Content/Outer.documentation.md]] (строки 1-2)*
 
 Внешняя память ноды - пишется в файлы в папке *content/*
-Базовый шаблон (схема) [[Skeleton-Memory.template]] - имеет свой набор собвенных полей
+Базовый шаблон (схема) [[Memory.schema]] - имеет свой набор собвенных полей
 
 #### 1.3.3. Log
 *Источник: [[02 Components/03 Memories-types/Log.documentation.md]] (строки 1-5)*
