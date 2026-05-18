@@ -13,15 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Новая папка/awn.registry.md",
+                "file": "Новая папка/awn.settings2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "awn.registry"
+              "title": "awn.settings2"
+            }
+          },
+          {
+            "id": "5c1bef5a318b863c",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Test",
+              "state": {},
+              "icon": "package",
+              "title": "Test"
+            }
+          },
+          {
+            "id": "7046952e7fc5ea37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schemes/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          },
+          {
+            "id": "21d2fe3ad3941d13",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Test2",
+              "state": {},
+              "icon": "package",
+              "title": "Test2"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -481,36 +516,37 @@
       "note_uid_generator:Create uid if missing": false
     }
   },
-  "active": "f81fa9eb9164f53f",
+  "active": "21d2fe3ad3941d13",
   "lastOpenFiles": [
-    "Новая папка/awn.documentation.combined.md",
-    "Новая папка/awn.registry.md",
-    "04 Templates/Ttttttttttttt.md",
-    "awn.settings.md",
-    "00_Documentation/v5-ideas/awn.registry.template.md",
-    "00_Documentation/v5-ideas/Todo-and-Thinks-and-ideas.md",
-    "06 Workflow/Todo.md",
-    "INSTALL.md",
-    "06 Workflow",
-    "00 Index.documentation.md",
+    "Schemes/Test2.md",
+    "Новая папка/awn.settings2.md",
+    "Schemes/Test.md",
+    "Schemes",
+    "Новая папка/awn.settings.md",
+    "Новая папка/Node.configuration.md",
     "04 Templates/Memory.schema.md",
-    "04 Templates/Type.template.md",
-    "04 Templates/Type.schema.md",
+    "04 Templates/Skeleton-Node.template.md",
+    "04 Templates/Ttttttttttttt.md",
     "04 Templates/Sidecar.template.md",
+    "01 Core/RegistryUpdateCommand.bootstrap.md",
     "01 Core/AGENTS.bootstrap.md",
     "01 Core/DocumentationUpdateCommand.bootstrap.md",
-    "01 Core/RegistryUpdateCommand.bootstrap.md",
-    "02 Components/01 Awn-files/00 Index.documentation.md",
-    "02 Components/04 Commands-types/00 Index.documentation.md",
-    "awn.registry.md",
-    "Новая папка",
-    "awn.documentation.combined.md",
+    "04 Templates/00 Index.documentation.md",
+    "awn.settings.md",
+    "awn.settings2.md",
+    "Новая папка/awn.registry.md",
+    "Новая папка/awn.documentation.combined.md",
+    "03 Configs/Node.configuration.md",
+    "02 Components/01 Awn-files/Combined.documentation.md",
+    "02 Components/01 Awn-files/Configuration.documentation.md",
     "02 Components/01 Awn-files/Documentation.documentation.md",
-    "02 Components/02 Nodes-types/01 Folders/00 Index.documentation.md",
-    "awn.documentation.combined2.md",
-    "00_Documentation/_Index.node.md",
-    "01 Core/AGENTS.bootstrap — копия.md",
-    "04 Templates/Skeleton-Node.template.md",
+    "Новая папка/awn.dependencies.md",
+    "00 Index.documentation.md",
+    "00_Documentation/_Index.md",
+    "00_Documentation/v5-ideas/Opus45.md",
+    "Новая папка",
+    "04 Templates/Type.template.md",
+    "06 Workflow",
     "06 Nodes",
     "image.jpg",
     "01 Core",
@@ -519,7 +555,6 @@
     "Test/Задачи/Рабочие/_Content",
     "Test/Задачи/Рабочие/_Assets",
     "Test/Задачи/Личные/_Content",
-    "Test/Задачи/Личные/_Assets",
     "00_Documentation/assets/IMG_9403.jpg",
     "05 Vision/AGENTS.Dashboard.canvas",
     "AGENTS.Dashboard.canvas",

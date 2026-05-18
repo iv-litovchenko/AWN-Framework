@@ -1,12 +1,34 @@
 {
-  "presetFields": [],
+  "presetFields": [
+    {
+      "type": "Number",
+      "tagName": "number",
+      "icon": "plus-minus-glyph",
+      "tooltip": "Accepts a number",
+      "colorClass": "number",
+      "options": {
+        "step": null,
+        "min": 0,
+        "max": 10
+      },
+      "name": "AWN-TYPE-TEST",
+      "id": "qPCmuj",
+      "path": "",
+      "style": {
+        "code": false,
+        "italic": false,
+        "bold": false,
+        "strikethrough": false
+      }
+    }
+  ],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
-  "classFilesPath": null,
+  "classFilesPath": "Schemes/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.0",
+  "settingsVersion": "5.2",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
