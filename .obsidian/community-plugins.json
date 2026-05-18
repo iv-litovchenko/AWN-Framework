@@ -29,5 +29,6 @@
   "notebook-navigator",
   "bases-style-enhancer",
   "note_uid_generator",
-  "memochron"
+  "memochron",
+  "propsec"
 ]

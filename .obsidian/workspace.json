@@ -22,41 +22,347 @@
             }
           },
           {
-            "id": "5c1bef5a318b863c",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Test",
-              "state": {},
-              "icon": "package",
-              "title": "Test"
-            }
-          },
-          {
-            "id": "7046952e7fc5ea37",
+            "id": "6f54dfbb0f51c0e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schemes/Test.md",
+                "file": "04 Schemes/Type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Type"
             }
           },
           {
-            "id": "21d2fe3ad3941d13",
+            "id": "bb8190a28ee9e95a",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Test",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "FileClassView__Test"
+            }
+          },
+          {
+            "id": "c740adeee22a4ad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "eb2b5fde9fce4c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "121aadc8bbd3807a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "dd8285f064ae0244",
             "type": "leaf",
             "state": {
               "type": "FileClassView__Test2",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "FileClassView__Test2"
+            }
+          },
+          {
+            "id": "21c6a9c4ce61e55c",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Без названия/Без названия 1",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "FileClassView__Без названия/Без названия 1"
+            }
+          },
+          {
+            "id": "83238945cee6fc1c",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Без названия/Без названия",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "FileClassView__Без названия/Без названия"
+            }
+          },
+          {
+            "id": "fea0720b84b56f4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "b17bf7526bbc0995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "25c7b0b5317e60fa",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Без названия",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "FileClassView__Без названия"
+            }
+          },
+          {
+            "id": "62ae6dd7dab345a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "1b4148c6de055692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "edf074de6b2a1250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "3b9478cc1d5e6e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type2"
+            }
+          },
+          {
+            "id": "6b6086806a16bec2",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Type.schema",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "FileClassView__Type.schema"
+            }
+          },
+          {
+            "id": "636c3701c79fba8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "a959aa53efb35314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "8d13c249d0368340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "1021630314c3490f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "8878995f9604ed3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type2"
+            }
+          },
+          {
+            "id": "ce8925a00ba75355",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Type2",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "FileClassView__Type2"
+            }
+          },
+          {
+            "id": "48a0302613f7e793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "25461f301d2d6bde",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Type",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "FileClassView__Type"
+            }
+          },
+          {
+            "id": "844ba125344b6c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Schemes/Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type"
+            }
+          },
+          {
+            "id": "e0be8790e79dec00",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__8г89",
+              "state": {},
               "icon": "package",
-              "title": "Test2"
+              "title": "8г89"
+            }
+          },
+          {
+            "id": "7025ce105d3e3d4a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -256,8 +562,7 @@
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "infranodus-graph-view"
+              "icon": "infranodus-icon"
             }
           },
           {
@@ -316,8 +621,7 @@
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "infranodus-graph-view"
+              "icon": "infranodus-icon"
             }
           },
           {
@@ -356,8 +660,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_style"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           },
           {
@@ -386,8 +690,8 @@
             "state": {
               "type": "pw.todo-list",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "pw.todo-list"
+              "icon": "check-small",
+              "title": "Todo"
             }
           },
           {
@@ -406,8 +710,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_nodes"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -426,8 +730,8 @@
             "state": {
               "type": "memochron-calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "memochron-calendar"
+              "icon": "calendar-range",
+              "title": "MemoChron calendar"
             }
           },
           {
@@ -494,8 +798,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -516,45 +819,45 @@
       "note_uid_generator:Create uid if missing": false
     }
   },
-  "active": "21d2fe3ad3941d13",
+  "active": "f81fa9eb9164f53f",
   "lastOpenFiles": [
-    "Schemes/Test2.md",
+    "TESTS/Без названия.md",
+    "TESTS/Без названия 1.md",
+    "04 Templates/Skeleton-Node.template.md",
+    "TESTS",
+    "04 Templates/Sidecar.template.md",
+    "04 Templates/Type.template.md",
+    "04 Templates/Ttttttttttttt.md",
+    "04 Schemes/Type.md",
+    "Без названия 1/Без названия.md",
+    "04 Schemes/Type2.md",
+    "04 Schemes/Type.schema.md",
+    "Новая папк7а/8г89.md",
+    "Новая папк7а",
+    "шошщ.md",
+    "02 Components/02 Nodes-types/01 Folders/01 Workspace.documentation.md",
+    "Без названия 1/Книга.md",
+    "02 Components/02 Nodes-types/01 Folders/00 Index.documentation.md",
+    "04 Schemes/Без названия/Без названия 1.md",
+    "04 Schemes/Test.md",
+    "04 Schemes/Test2.md",
+    "Без названия.md",
+    "Без названия 1/Книга",
+    "Без названия 1",
+    "04 Schemes/Без названия",
     "Новая папка/awn.settings2.md",
-    "Schemes/Test.md",
-    "Schemes",
+    "04 Schemes",
     "Новая папка/awn.settings.md",
     "Новая папка/Node.configuration.md",
     "04 Templates/Memory.schema.md",
-    "04 Templates/Skeleton-Node.template.md",
-    "04 Templates/Ttttttttttttt.md",
-    "04 Templates/Sidecar.template.md",
     "01 Core/RegistryUpdateCommand.bootstrap.md",
     "01 Core/AGENTS.bootstrap.md",
     "01 Core/DocumentationUpdateCommand.bootstrap.md",
-    "04 Templates/00 Index.documentation.md",
-    "awn.settings.md",
-    "awn.settings2.md",
-    "Новая папка/awn.registry.md",
-    "Новая папка/awn.documentation.combined.md",
-    "03 Configs/Node.configuration.md",
-    "02 Components/01 Awn-files/Combined.documentation.md",
-    "02 Components/01 Awn-files/Configuration.documentation.md",
-    "02 Components/01 Awn-files/Documentation.documentation.md",
-    "Новая папка/awn.dependencies.md",
-    "00 Index.documentation.md",
-    "00_Documentation/_Index.md",
-    "00_Documentation/v5-ideas/Opus45.md",
     "Новая папка",
-    "04 Templates/Type.template.md",
     "06 Workflow",
     "06 Nodes",
     "image.jpg",
     "01 Core",
-    "Test/Задачи/Новая папка/Новая папка",
-    "Test/Задачи/Новая папка",
-    "Test/Задачи/Рабочие/_Content",
-    "Test/Задачи/Рабочие/_Assets",
-    "Test/Задачи/Личные/_Content",
     "00_Documentation/assets/IMG_9403.jpg",
     "05 Vision/AGENTS.Dashboard.canvas",
     "AGENTS.Dashboard.canvas",

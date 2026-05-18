@@ -1,31 +1,9 @@
 {
-  "presetFields": [
-    {
-      "type": "Number",
-      "tagName": "number",
-      "icon": "plus-minus-glyph",
-      "tooltip": "Accepts a number",
-      "colorClass": "number",
-      "options": {
-        "step": null,
-        "min": 0,
-        "max": 10
-      },
-      "name": "AWN-TYPE-TEST",
-      "id": "qPCmuj",
-      "path": "",
-      "style": {
-        "code": false,
-        "italic": false,
-        "bold": false,
-        "strikethrough": false
-      }
-    }
-  ],
+  "presetFields": [],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
-  "classFilesPath": "Schemes/",
+  "classFilesPath": "Новая папк7а/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
   "settingsVersion": "5.2",
@@ -49,7 +27,7 @@
   "fileIndexingExcludedRegex": [],
   "frontmatterOnly": false,
   "showFileClassSelectInModal": true,
-  "chooseFileClassAtFileCreation": false,
+  "chooseFileClassAtFileCreation": true,
   "autoInsertFieldsAtFileClassInsertion": false,
   "fileClassIcon": "package",
   "isAutoCalculationEnabled": true,
