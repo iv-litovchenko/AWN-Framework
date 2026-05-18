@@ -9,8 +9,8 @@
 
 В данном случае:
 
-1. Прочитать `./.awn-framework.project/01 Core/DocumentationUpdate.bootstrap.md` — принцип обновления документации.
-2. Прочитать `./.awn-framework.project/01 Core/RegistryUpdate.bootstrap.md` — принцип обновления реестра нод.. 
+1. Прочитать `./.awn-framework.project/01 Core/DocumentationUpdateCommand.bootstrap.md` — принцип обновления документации.
+2. Прочитать `./.awn-framework.project/01 Core/RegistryUpdateCommand.bootstrap.md` — принцип обновления реестра нод.. 
 3. Прочитать `./awn.documentation.combined.md` — детальная документация к полной сессии.
 4. Прочитать `./awn.settings.md` — базовые настройки хранилища.
 5. Прочитать `./awn.registry.md` — реестр нод и нод-областей.
