@@ -4,6 +4,10 @@ AWN-ID: "1f213379-7b1c-4fcb-8e1c-890685a5865f"
 AWN-SLUG: COMPONENT/WORKSPACE
 AWN-TYPE: Folder
 AWN-ALLOW-CHILDREN: true
+AWN-LAYER: 0
+AWN-NAME: Workspace
+AWN-DESC: Корень workspace — описание проекта и точка входа в vault.
+AWN-REGISTRY: true
 ---
 
 # Workspace — корень рабочего пространства
