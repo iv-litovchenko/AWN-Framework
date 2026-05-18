@@ -9,11 +9,11 @@
 
 В данном случае:
 
-1. Прочитать `./awn.documentation.combined.md` — детальная документация к полной сессии.
-2. Прочитать `./awn.settings.md` — базовые настройки хранилища.
-3. Прочитать `./awn.registry.md` — реестр нод и нод-областей.
-4. Прочитать `./.awn-framework.project/01 Core/DocumentationUpdate.bootstrap.md` — принцип обновления документации.
-5. Прочитать `./.awn-framework.project/01 Core/RegistryUpdate.bootstrap.md` — принцип обновления реестра нод.
+1. Прочитать `./.awn-framework.project/01 Core/DocumentationUpdate.bootstrap.md` — принцип обновления документации.
+2. Прочитать `./.awn-framework.project/01 Core/RegistryUpdate.bootstrap.md` — принцип обновления реестра нод.. 
+3. Прочитать `./awn.documentation.combined.md` — детальная документация к полной сессии.
+4. Прочитать `./awn.settings.md` — базовые настройки хранилища.
+5. Прочитать `./awn.registry.md` — реестр нод и нод-областей.
 6. Не спрашивать разрешения на чтение файлов.
 7. В стартовом сообщении не перечислять прочитанные файлы и протоколы.
 
