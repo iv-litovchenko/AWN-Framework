@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Templates/Skeleton.Type.template.md",
+                "file": "04 Templates/Type.schema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skeleton.Type.template"
+              "title": "Type.schema"
+            }
+          },
+          {
+            "id": "a8a3fae68272de55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Components/02 Nodes-types/01 Folders/02 Space.documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 Space.documentation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -481,21 +496,22 @@
       "note_uid_generator:Create uid if missing": false
     }
   },
-  "active": "f81fa9eb9164f53f",
+  "active": "a8a3fae68272de55",
   "lastOpenFiles": [
+    "02 Components/02 Nodes-types/01 Folders/03 Cluster.documentation.md",
+    "02 Components/02 Nodes-types/01 Folders/02 Space.documentation.md",
+    "04 Templates/Type.schema.md",
+    "02 Components/02 Nodes-types/01 Folders/04 Book.documentation.md",
+    "02 Components/02 Nodes-types/01 Folders/01 Workspace-vault..documentation.md",
+    "02 Components/02 Nodes-types/01 Folders/05 Collection.documentation.md",
+    "04 Templates/Sidecar.template.md",
     "04 Templates/Skeletons/Skeleton-Node.documentation.md",
     "04 Templates/Skeletons/Skeleton-Node.template.md",
     "02 Components/02 Nodes-types/02 Files/01 Part.md",
     "02 Components/02 Nodes-types/02 Files/02 Vision.md",
     "02 Components/02 Nodes-types/01 Folders/06 Project.md",
-    "02 Components/02 Nodes-types/01 Folders/04 Book.documentation.md",
-    "02 Components/02 Nodes-types/01 Folders/03 Cluster.documentation.md",
-    "02 Components/02 Nodes-types/01 Folders/02 Space.documentation.md",
-    "04 Templates/Skeleton.Type.template.md",
     "04 Templates/Skeletons/Skeleton-Memory.template.md",
-    "02 Components/02 Nodes-types/01 Folders/01 Workspace-vault..documentation.md",
     "02 Components/02 Nodes-types/01 Folders/00 Index.documentation.md",
-    "04 Templates/Sidecar.template.md",
     "03 Configs/Node.configuration.md",
     "image.jpg",
     "04 Templates/Awn-files/awn.bootstrap.md",
@@ -505,7 +521,6 @@
     "04 Templates/Awn-files/awn.registry.template.md",
     "02 Components/01 Awn-files/00 Index.documentation.md",
     "04 Templates/Awn-files/awn.dependencies.template.md",
-    "02 Components/02 Nodes-types/01 Folders/05 Collection.documentation.md",
     "01_Documentation/v2/AGENTS.NODES.md",
     "02 Components/02 Nodes-types/01 Folders/zzz 06 Intro ИЛИ REPO.documentation.md",
     "02 Components/02 Nodes-types/Index.documentation.md",

@@ -1,7 +1,8 @@
 ---
-AWN-CORE-TYPE: Folder
-AWN-CORE-CHILDREN-ALLOW: "1"
-AWN-CORE-ROLE: COMPONENT/SPACE
+AWN-SCHEMA: Type.schema
+AWN-SLUG: COMPONENT/SPACE
+AWN-TYPE: Folder
+AWN-ALLOW-CHILDREN: true
 ---
-Файл вида "Название папки.space/Index.md" это нода оректиратор папки (область). Описывается зчем папка существует, что здесь лежит, зачем эта папка существует.
-
+Файл вида `<name>.space/Index.md` — нода-оректиратор папки (область).
+Описывает: зачем папка существует, что в ней лежит, какие правила здесь действуют.
