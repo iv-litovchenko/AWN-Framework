@@ -1,4 +1,0 @@
----
-AWN-ID:
-aliases:
----
