@@ -41,8 +41,8 @@
             "state": {
               "type": "FileClassView__Type.Core.Base.Memory",
               "state": {},
-              "icon": "package",
-              "title": "Type.Core.Base.Memory"
+              "icon": "lucide-ghost",
+              "title": "FileClassView__Type.Core.Base.Memory"
             }
           },
           {
@@ -51,8 +51,8 @@
             "state": {
               "type": "FileClassView__Type.Core.Base.Node",
               "state": {},
-              "icon": "package",
-              "title": "Type.Core.Base.Node"
+              "icon": "lucide-ghost",
+              "title": "FileClassView__Type.Core.Base.Node"
             }
           }
         ],
@@ -115,8 +115,8 @@
             "state": {
               "type": "center-panes",
               "state": {},
-              "icon": "three-horizontal-bars",
-              "title": "Center Panes"
+              "icon": "lucide-ghost",
+              "title": "center-panes"
             }
           },
           {
@@ -125,8 +125,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           },
           {
@@ -135,8 +135,8 @@
             "state": {
               "type": "center-panes",
               "state": {},
-              "icon": "three-horizontal-bars",
-              "title": "Center Panes"
+              "icon": "lucide-ghost",
+              "title": "center-panes"
             }
           },
           {
@@ -145,12 +145,22 @@
             "state": {
               "type": "center-panes",
               "state": {},
-              "icon": "three-horizontal-bars",
-              "title": "Center Panes"
+              "icon": "lucide-ghost",
+              "title": "center-panes"
             }
           },
           {
             "id": "af562d3861a7dc5a",
+            "type": "leaf",
+            "state": {
+              "type": "center-panes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "center-panes"
+            }
+          },
+          {
+            "id": "8f9ba7e50a467d31",
             "type": "leaf",
             "state": {
               "type": "center-panes",
@@ -257,7 +267,8 @@
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
-              "icon": "infranodus-icon"
+              "icon": "lucide-ghost",
+              "title": "infranodus-graph-view"
             }
           },
           {
@@ -316,7 +327,8 @@
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
-              "icon": "infranodus-icon"
+              "icon": "lucide-ghost",
+              "title": "infranodus-graph-view"
             }
           },
           {
@@ -355,8 +367,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
             }
           },
           {
@@ -385,8 +397,8 @@
             "state": {
               "type": "pw.todo-list",
               "state": {},
-              "icon": "check-small",
-              "title": "Todo"
+              "icon": "lucide-ghost",
+              "title": "pw.todo-list"
             }
           },
           {
@@ -405,8 +417,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
             }
           },
           {
@@ -425,8 +437,8 @@
             "state": {
               "type": "memochron-calendar",
               "state": {},
-              "icon": "calendar-range",
-              "title": "MemoChron calendar"
+              "icon": "lucide-ghost",
+              "title": "memochron-calendar"
             }
           },
           {
@@ -435,11 +447,71 @@
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
-              "icon": "infranodus-icon"
+              "icon": "lucide-ghost",
+              "title": "infranodus-graph-view"
             }
           },
           {
             "id": "6f42f90c0fb534db",
+            "type": "leaf",
+            "state": {
+              "type": "pw.todo-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "pw.todo-list"
+            }
+          },
+          {
+            "id": "9f13e91d3f2564d3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "08f2781058c33b0f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "5662efa3bb2fa7cd",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "582c1464a4c125ca",
+            "type": "leaf",
+            "state": {
+              "type": "memochron-calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "memochron-calendar"
+            }
+          },
+          {
+            "id": "771e305f092af57c",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "infranodus-icon"
+            }
+          },
+          {
+            "id": "3f8747cb3e8efe46",
             "type": "leaf",
             "state": {
               "type": "pw.todo-list",
@@ -449,7 +521,7 @@
             }
           },
           {
-            "id": "9f13e91d3f2564d3",
+            "id": "91c1dfa32b13665c",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -459,7 +531,7 @@
             }
           },
           {
-            "id": "08f2781058c33b0f",
+            "id": "4c5355c87f93437d",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -469,7 +541,7 @@
             }
           },
           {
-            "id": "5662efa3bb2fa7cd",
+            "id": "db533ac6317d0651",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -479,7 +551,7 @@
             }
           },
           {
-            "id": "582c1464a4c125ca",
+            "id": "93ac03b1a4b5b1d6",
             "type": "leaf",
             "state": {
               "type": "memochron-calendar",
@@ -489,7 +561,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 34
       }
     ],
     "direction": "horizontal",
@@ -514,8 +586,11 @@
       "note_uid_generator:Create uid if missing": false
     }
   },
-  "active": "7f408feb3906b170",
+  "active": "93ac03b1a4b5b1d6",
   "lastOpenFiles": [
+    "SR/memory",
+    "SR/deck.md",
+    "SR",
     "Новая папка/Без названия.md",
     "Новая папка/Без названия — копия.md",
     "05 Vision/mdbase-all.base",
@@ -558,10 +633,7 @@
     "_Assets",
     "04 Schemes/Type.schema.v3.md",
     "04 Schemes/Type.schema.v2.md",
-    "04 Schemes/AWN-LAYER.md",
-    "04 Schemes/AWN-SLUG.md",
     "TESTS",
-    "Новая папк7а",
     "05 Vision/AGENTS.Dashboard.canvas",
     "AGENTS.Dashboard.canvas",
     "Dashboards/Vault-atlas.canvas",
