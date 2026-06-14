@@ -29,6 +29,9 @@
     "AWN-ALLOW-CHILDREN": "checkbox",
     "AWN-VERSION": "number",
     "AWN-CHECK-OPUS": "checkbox",
-    "AWN-ID": "text"
+    "AWN-ID": "text",
+    "в": "date",
+    "ауцауц": "multitext",
+    "flag": "checkbox"
   }
 }

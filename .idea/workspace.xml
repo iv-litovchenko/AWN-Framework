@@ -3,19 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="e61cf655-eed7-4ce4-9e00-bc5230ede280" name="Default Changelist" comment="--- 5 версия ---">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/metadata-menu/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/metadata-menu/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-spaced-repetition/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-spaced-repetition/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/propsec/validation-cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/propsec/validation-cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/types.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/types.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 Components/01 Suffix-types/Documentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/02 Components/01 Suffix-types/Documentation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/00 Index.documentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/00 Index.documentation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 Components/02 Nodes-types/Index.documentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/02 Components/02 Nodes-types/Index.documentation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 Components/Index.documentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/02 Components/Index.documentation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framework/AGENTS.Registry.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framework/AGENTS.Settings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framework/AGENTS.md.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framework/HEARTBEAT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framework/awn.full.md" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/awn.full.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framework/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INSTALL.md" beforeDir="false" afterPath="$PROJECT_DIR$/INSTALL.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Schemes/Type.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Schemes/Type2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Templates/Memory.schema.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Templates/Type.template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Vision/AGENTS.Bases.base" beforeDir="false" afterPath="$PROJECT_DIR$/05 Vision/AGENTS.Bases.base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Vision/mdbase-all.base" beforeDir="false" afterPath="$PROJECT_DIR$/05 Vision/mdbase-all.base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SR/deck.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,24 +25,100 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04 Templates/Node.template.md">
+        <entry file="file://$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/zzz Project.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="405">
-                <caret line="27" selection-start-line="27" selection-end-line="27" />
-              </first_editor>
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/02 Space.documentation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04 Schemes/Type.schema.v2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-297" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04 Schemes/Type.schema.v3.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04 Schemes/Type.schema.v4.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-596" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/00 Index.documentation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06 Workflow/Todo.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/01 Workspace.documentation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/04 Book.documentation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/zzz 08 Skill.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="20" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="20" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -145,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="25" />
     <option name="width" value="1660" />
     <option name="height" value="955" />
@@ -156,23 +231,90 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="00 AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
-              <item name="00 AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="00 AWN-Framework.vault" type="b2602c69:ProjectViewProjectNode" />
-              <item name="00 AWN-Framework.vault" type="462c0819:PsiDirectoryNode" />
-              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="01 Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="02 Components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="02 Components" type="462c0819:PsiDirectoryNode" />
+              <item name="02 Nodes-types" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="02 Components" type="462c0819:PsiDirectoryNode" />
+              <item name="02 Nodes-types" type="462c0819:PsiDirectoryNode" />
+              <item name="01 Folders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="02 Components" type="462c0819:PsiDirectoryNode" />
+              <item name="03 Memories-types" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="02 Components" type="462c0819:PsiDirectoryNode" />
+              <item name="03 Memories-types" type="462c0819:PsiDirectoryNode" />
+              <item name="Content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="02 Components" type="462c0819:PsiDirectoryNode" />
+              <item name="04 Commands-types" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="04 Schemes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="04 Templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="06 Workflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="_Configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="Blank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".awn-framework.project" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".awn-framework.project" type="462c0819:PsiDirectoryNode" />
+              <item name="Новая папка" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,6 +493,8 @@
       <workItem from="1778857345356" duration="1189000" />
       <workItem from="1779030787108" duration="559000" />
       <workItem from="1779038129759" duration="1076000" />
+      <workItem from="1779569938722" duration="39000" />
+      <workItem from="1779809433311" duration="1125000" />
     </task>
     <task id="LOCAL-00340" summary="--- 3 версия ---">
       <created>1778447168725</created>
@@ -699,12 +843,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172701000" />
+    <option name="totallyTimeSpent" value="173865000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35958487" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2997558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -717,7 +862,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.17755102" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2387755" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2387755" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -781,39 +926,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="--- 5 версия ---" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/Context.Greeting.node.md" />
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/Context.SmartTriggering.node.md" />
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/GitPull.node.md" />
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/GitPush.node.md" />
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/MemoryFiles.node.md" />
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/MetadataFiles.node.md" />
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Nodes/RandomAnecdote.node.md" />
-    <entry file="file://$PROJECT_DIR$/Assistant.Ai/Users.node.md" />
-    <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Chats/_Index.node.md" />
-    <entry file="file://$PROJECT_DIR$/v3/Assistant.Ai/Core/MetadataFiles.node.md" />
-    <entry file="file://$PROJECT_DIR$/AWNFrameworkDocumentation/_Index.node.md" />
-    <entry file="file://$PROJECT_DIR$/HEARTBEAT.md" />
-    <entry file="file://$PROJECT_DIR$/v3/HEARTBEAT.md" />
-    <entry file="file://$PROJECT_DIR$/awn.full.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="542">
-            <caret line="121" selection-start-line="121" selection-end-line="121" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v3/TODO.ADD.v3.opus.md" />
-    <entry file="file://$PROJECT_DIR$/v3/TODO.ADD.v3.md" />
-    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/00_BASE.template.md" />
-    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/00_INDEX.template.md" />
-    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/01_PART.template.md" />
-    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/02_PAGE.template.md" />
-    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/03_NOTE.template.md" />
-    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/05.SIDECAR.template.md" />
-    <entry file="file://$PROJECT_DIR$/v4/+SYSTEM/04_ROW.template.md" />
-    <entry file="file://$PROJECT_DIR$/v3/awn-templates/index.template.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-templates/nodo.solo.template.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-templates/memory/note.template.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-templates/memory/memory.template.md" />
@@ -837,14 +949,20 @@
     <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-cli-scratch/_types/meta.md" />
     <entry file="file://$PROJECT_DIR$/v3/awn-tests/mdbase-demo/mdbase.yaml" />
     <entry file="file://$PROJECT_DIR$/v4/todo.md" />
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+    <entry file="file://$PROJECT_DIR$/.env" />
+    <entry file="file://$PROJECT_DIR$/04 Templates/Node.Skeleton.template.md" />
+    <entry file="file://$PROJECT_DIR$/04 Templates/Node.template.md" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04 Templates/Node.Skeleton.template.md">
+    <entry file="file://$PROJECT_DIR$/_Content/Без названия 1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -852,22 +970,186 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04 Templates/Node.template.md">
+    <entry file="file://$PROJECT_DIR$/_Content/Без названия.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="27" selection-start-line="27" selection-end-line="27" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/_Configuration/Type.Core.Base.Node.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="20" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="20" />
-          </first_editor>
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_Configuration/Type.Core.Base.Memory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Templates/Memory.schema.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Новая папка/awn.settings.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Templates/Type.template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Templates/Ttttttttttttt.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Templates/Sidecar.template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Templates/Skeleton-Node.template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2040" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/03 Cluster.documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/05 Collection.documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Schemes/AWN-LAYER.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Schemes/Type.schema.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Schemes/Type.schema.v2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-297" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Schemes/Type.schema.v3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Schemes/Type.schema.v4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-596" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00 Index.documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 Workflow/Todo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/01 Workspace.documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/02 Space.documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/04 Book.documentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/zzz Project.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Components/02 Nodes-types/01 Folders/zzz 08 Skill.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
