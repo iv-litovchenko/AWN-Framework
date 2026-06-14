@@ -33,17 +33,17 @@
 
 Читаются при старте каждой полной сессии.
 
-| Статус   | Приоритет | Путь                                                 | Что делает                                                   |
-| -------- | --------- | ---------------------------------------------------- | ------------------------------------------------------------ |
-| active   | 20        | `Domains/Index.node.md`                              | Реестр доменов пользователя — карта всех жизненных областей  |
-| active   | 20        | `Assistant.Ai/Nodes/MemoryFiles.node.md`             | Контракт файлов `*.memory.md` — внешняя память нод           |
-| active   | 20        | `Assistant.Ai/Nodes/MetadataFiles.node.md`           | Контракт файлов `*.metadata.md` — sidecar бинарных носителей |
-| active   | 25        | `Assistant.Ai/Rules.node.md`                         | Правила поведения — что можно, чего нельзя, форматы          |
-| disabled | 20        | `Assistant.Ai/Nodes/Context.SmartTriggering.node.md` | Уровни строгости триггеров и активное предложение нод        |
-| disabled | 25        | `Assistant.Ai/Nodes/Context.Greeting.node.md`        | Сценарий приветствия пользователя при старте сессии          |
-| active   | 30        | `Assistant.Ai/Assistant.node.md`                     | Идентичность ассистента — имя, характер, принципы, стиль     |
-| active   | 30        | `Assistant.Ai/User.node.md`                          | Профиль текущего пользователя — имя, цели, предпочтения      |
-| active   | 40        | `Assistant.Ai/Users.node.md`                         | Реестр всех пользователей                                    |
+| Статус   | Приоритет | Путь                                                   | Что делает                                                   |
+|----------|-----------|--------------------------------------------------------|--------------------------------------------------------------|
+| active   | 20        | `Domains/Index.node.md`                                | Реестр доменов пользователя — карта всех жизненных областей  |
+| active   | 20        | `Assistant.Ai/Nodes/MemoryFiles.node.md`               | Контракт файлов `*.memory.md` — внешняя память нод           |
+| active   | 20        | `Assistant.Ai/Nodes/MetadataFiles.node.md`             | Контракт файлов `*.metadata.md` — sidecar бинарных носителей |
+| active   | 25        | `Assistant.Ai/Rules.node.md`                           | Правила поведения — что можно, чего нельзя, форматы          |
+| disabled | 20        | `Assistant.Ai/Nodes/Context.SmartTriggering.node.md`   | Уровни строгости триггеров и активное предложение нод        |
+| disabled | 25        | `Assistant.Ai/Nodes/Context.Greeting.node.md`          | Сценарий приветствия пользователя при старте сессии          |
+| active   | 30        | `Assistant.Ai/Assistant.node.md`                       | Идентичность ассистента — имя, характер, принципы, стиль   |
+| active   | 30        | `Assistant.Ai/User.node.md`                            | Профиль текущего пользователя — имя, цели, предпочтения      |
+| active   | 40        | `Assistant.Ai/Users.node.md`                           | Реестр всех пользователей                                    |
 
 ---
 
@@ -54,9 +54,19 @@
 | active | 45        | `Inbox/Index.node.md`                       | inbox, входящие (тексты, ссылки, фото, аудио, видео, документы), разобрать inbox, очистить inbox, правила входящих |
 | active | 50        | `Domains/Categories.node.md`                | категории доменов, категория домена, категории |
 | active | 30        | `Assistant.Ai/Nodes/RandomAnecdote.node.md` | анекдот, случайный анекдот, шутка, юмор |
+| active | 30        | `Domains/EnglishLearning/Index.node.md` | изучение английского языка, английский, english |
+| active | 40        | `Domains/Collections/Index.node.md` | коллекции, коллекция, collection, collections |
+| active | 40        | `Domains/Calendar/Index.node.md` | календарь, calendar, события, встречи, расписание |
+| active | 40        | `Domains/Tasks/Index.node.md` | задачи, tasks, туду, todo, проекты, приоритеты |
+| active | 40        | `Domains/Journal/Index.node.md` | дневник, journal, мысли, рефлексия, записи |
+| active | 40        | `Domains/Contacts/Index.node.md` | контакты, contacts, нетворкинг, networking, связи |
+| active | 40        | `Domains/Finance/Index.node.md` | финансы, finance, бюджет, деньги, инвестиции |
 | active | 30        | `Assistant.Ai/Cron/DailyHealthCheck.node.md` | состояние системы, проверка состояния системы, ежедневный отчёт |
 | active | 52        | `Assistant.Ai/Nodes/GitPull.node.md` | git pull, получить изменения, подтянуть репозиторий, обновить с remote, синхронизация с origin |
 | active | 53        | `Assistant.Ai/Nodes/GitPush.node.md` | git push, сохранить изменения, отправить изменения, сохранить в git, закоммитить и отправить, запушить |
+| disabled | 35        | `Assistant.Ai/Core/VoiceTools/Index.node.md`           | voice, голос, tts, stt, синтез, распознавание                |
+| active   | 30        | `Assistant.Ai/Nodes/RandomAnecdote.node.md`            | анекдот, случайный анекдот, шутка, юмор                      |
+| active   | 30        | `Assistant.Ai/Cron/DailyHealthCheck.node.md`           | состояние системы, проверка состояния системы, ежедневный отчёт |
 | draft | 45        | `Assistant.Ai/Nodes/DeviceControl/Index.node.md` | управление устройствами, device control, компьютер телефон сервер, удалённое управление, devicecontrol |
 | draft | 45        | `Assistant.Ai/Nodes/DeviceControl/ComputerControl.node.md` | управление компьютером, компьютер, macos, windows, linux desktop |
 | draft | 45        | `Assistant.Ai/Nodes/DeviceControl/PhoneControl.node.md` | управление телефоном, телефон, смартфон, android, ios |
@@ -71,9 +81,12 @@
 
 **Синхронизация (агент):** при создании ноды, при включении/выключении автоматизации, при смене `AWN-CRON` или переносе файла — добавить, обновить или удалить строку в этой таблице; путь как в остальном реестре (от **корня проекта**).
 
-| Статус | `AWN-CRON` | Путь | Назначение |
-|--------|------------|------|------------|
-| active | `30 8 * * *` | `Assistant.Ai/Cron/DailyHealthCheck.node.md` | Ежедневная проверка состояния системы → `Assistant.Ai/Cron/Memory/*.memory.md` (см. тело ноды) |
+| ⏰ Ноды с расписанием
+
+| Статус | CRON | Путь | Назначение |
+|--------|------|------|------------|
+| ✅ active | `30 8 * * *` | `Assistant.Ai/Cron/DailyHealthCheck.node.md` | Ежедневная проверка состояния |
+| ✅ active | `0 * * * *` | `Assistant.Ai/Cron/RandomNumberHourly.node.md` | Случайное число каждый час 1-100 |
 
 ---
 
