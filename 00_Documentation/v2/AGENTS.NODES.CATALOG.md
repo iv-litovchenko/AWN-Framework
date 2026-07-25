@@ -149,7 +149,7 @@ AWN-UPDATED: 2026-05-05
 
 ---
 
-## Пример файла памяти (`*.memory.md`)
+## Пример файла памяти (`*.main.md`)
 
 ```yaml
 ---
@@ -165,7 +165,7 @@ TAGS: [vocabulary, weekly-log]
 # Словарь — неделя 2026-W12
 
 > [!info] О файле
-> Память ноды (`*.memory.md`), владелец: `Learning/EnglishStudy.node.md`.
+> Память ноды (`*.main.md`), владелец: `Learning/EnglishStudy.node.md`.
 
 ## Слова недели
 

@@ -6,7 +6,7 @@
 
 Контекст проекта и философия AWN — в корневом [`README.md`](README.md). Полный контракт правил — в [`AGENTS.md`](01%20Sketchbook/v2/AGENTS.md).
 
-**Полный каркас vault** (чтобы совпадало с типичным `AGENTS.NODES.md` из репозитория): каталоги **`Assistant.Ai/`**, **`Templates/`**, плюс **`Inbox/Area.node.md`**, **`Tests/Area.node.md`**, **`Domains/Index.node.md`**, **`Domains/Categories.node.md`**, при необходимости **`AwnFramework/Area.node.md`** (область в таблице «Области»). В **полной** сессии корневой `AGENTS.md` отсылает к **`AGENTS.FULL.md`** — его тоже нужно копировать, иначе протокол неполный. Каталог **`Assistant.Ai/Cron/Memory/`** (пустой или с `.gitkeep`) — куда по ноде `DailyHealthCheck` пишутся `*.memory.md`.
+**Полный каркас vault** (чтобы совпадало с типичным `AGENTS.NODES.md` из репозитория): каталоги **`Assistant.Ai/`**, **`Templates/`**, плюс **`Inbox/Area.node.md`**, **`Tests/Area.node.md`**, **`Domains/Index.node.md`**, **`Domains/Categories.node.md`**, при необходимости **`AwnFramework/Area.node.md`** (область в таблице «Области»). В **полной** сессии корневой `AGENTS.md` отсылает к **`AGENTS.FULL.md`** — его тоже нужно копировать, иначе протокол неполный. Каталог **`Assistant.Ai/Cron/Memory/`** (пустой или с `.gitkeep`) — куда по ноде `DailyHealthCheck` пишутся `*.main.md`.
 
 ---
 
